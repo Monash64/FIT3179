@@ -1,0 +1,50 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {"text":"2020 Australian state wheat yields",
+    "fontSize":24},
+    "width": 800,
+    "height": 800,
+    "projection": {"type": "mercator"},
+    "data": {
+      "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Statemaps.json",
+      "format": {"type": "topojson", "feature": "STE_2016_AUST"}
+    },
+    "transform": [
+      {
+        "lookup": "properties.STE_NAME16",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/State%20Data.csv"
+          },
+          "key": "State",
+          "fields": ["State","Planted","Yield","Production"]
+        }
+      }
+    ],
+    "mark": {"type": "geoshape","stroke": "grey"},
+    "encoding": {
+      "color": {
+        "field": "Yield",
+        "type": "quantitative",
+        "title":"Yield (t/ha)",
+        "condition": {
+          "test": "datum['Yield'] === 'null'",
+          "value": "#aaa"},
+        "scale":{
+          "domain":[1,6]}
+        },
+      "tooltip": [
+        {"field": "properties.STE_NAME16", "type": "nominal", "title":"State"},
+        {"field": "Yield", "type": "quantitative", "title":"Yield (t/ha)"},
+        {"field": "Production", "type": "quantitative", "title":"Production (kt)"},
+        {"field": "Planted", "type": "quantitative", "title":"Planted ('000 ha)"}
+        ]
+      },
+      "config": {
+        "text": {"field": "properties.STE_NAME16", "type": "nominal"},
+        "color": {"value": "black"},
+        "mark": {"invalid": null},
+        "legend":{
+          "gradientVerticalMinLength":200
+        }}
+    }
