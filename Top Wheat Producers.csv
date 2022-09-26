@@ -1,0 +1,659 @@
+﻿Year,Continent,Country,Wheat
+1974,South America,Argentina,5.97
+1975,South America,Argentina,8.57
+1976,South America,Argentina,11
+1977,South America,Argentina,5.3
+1978,South America,Argentina,8.1
+1979,South America,Argentina,8.1
+1980,South America,Argentina,7.78
+1981,South America,Argentina,8.3
+1982,South America,Argentina,15
+1983,South America,Argentina,12.8
+1984,South America,Argentina,13.6
+1985,South America,Argentina,8.7
+1986,South America,Argentina,8.93
+1987,South America,Argentina,8.8
+1988,South America,Argentina,8.4
+1989,South America,Argentina,10.15
+1990,South America,Argentina,10.9
+1991,South America,Argentina,9.88
+1992,South America,Argentina,9.8
+1993,South America,Argentina,9.7
+1994,South America,Argentina,11.3
+1995,South America,Argentina,8.6
+1996,South America,Argentina,15.9
+1997,South America,Argentina,14.8
+1998,South America,Argentina,11.5
+1999,South America,Argentina,15.7
+2000,South America,Argentina,15.96
+2001,South America,Argentina,15.3
+2002,South America,Argentina,12.3
+2003,South America,Argentina,14.56
+2004,South America,Argentina,16
+2005,South America,Argentina,12.59
+2006,South America,Argentina,14.55
+2007,South America,Argentina,16.35
+2008,South America,Argentina,8.37
+2009,South America,Argentina,9.02
+2010,South America,Argentina,15.88
+2011,South America,Argentina,14.5
+2012,South America,Argentina,8.03
+2013,South America,Argentina,9.2
+2014,South America,Argentina,13.9
+2015,South America,Argentina,11.3
+2016,South America,Argentina,18.39
+2017,South America,Argentina,18.52
+2018,South America,Argentina,19.46
+2019,South America,Argentina,19.75
+2020,South America,Argentina,17.62
+1974,North America,Canada,13.3
+1975,North America,Canada,17.08
+1976,North America,Canada,23.59
+1977,North America,Canada,19.86
+1978,North America,Canada,21.15
+1979,North America,Canada,17.18
+1980,North America,Canada,19.16
+1981,North America,Canada,24.8
+1982,North America,Canada,26.74
+1983,North America,Canada,26.51
+1984,North America,Canada,21.2
+1985,North America,Canada,24.3
+1986,North America,Canada,31.36
+1987,North America,Canada,25.95
+1988,North America,Canada,15.91
+1989,North America,Canada,24.8
+1990,North America,Canada,32.1
+1991,North America,Canada,31.95
+1992,North America,Canada,29.87
+1993,North America,Canada,27.23
+1994,North America,Canada,23.12
+1995,North America,Canada,24.99
+1996,North America,Canada,29.8
+1997,North America,Canada,24.28
+1998,North America,Canada,24.08
+1999,North America,Canada,26.94
+2000,North America,Canada,26.8
+2001,North America,Canada,20.57
+2002,North America,Canada,16.2
+2003,North America,Canada,23.55
+2004,North America,Canada,25.86
+2005,North America,Canada,26.78
+2006,North America,Canada,25.27
+2007,North America,Canada,20.05
+2008,North America,Canada,28.61
+2009,North America,Canada,26.85
+2010,North America,Canada,23.3
+2011,North America,Canada,25.29
+2012,North America,Canada,27.25
+2013,North America,Canada,37.59
+2014,North America,Canada,29.44
+2015,North America,Canada,27.65
+2016,North America,Canada,32.14
+2017,North America,Canada,30.38
+2018,North America,Canada,32.35
+2019,North America,Canada,32.67
+2020,North America,Canada,35.18
+1974,Asia,China,40.87
+1975,Asia,China,45.31
+1976,Asia,China,50.39
+1977,Asia,China,41.08
+1978,Asia,China,53.84
+1979,Asia,China,62.73
+1980,Asia,China,55.21
+1981,Asia,China,59.64
+1982,Asia,China,68.42
+1983,Asia,China,81.39
+1984,Asia,China,87.82
+1985,Asia,China,85.8
+1986,Asia,China,90.3
+1987,Asia,China,85.8
+1988,Asia,China,85.4
+1989,Asia,China,90.8
+1990,Asia,China,98.23
+1991,Asia,China,95.95
+1992,Asia,China,101.59
+1993,Asia,China,106.39
+1994,Asia,China,99.3
+1995,Asia,China,102.21
+1996,Asia,China,110.57
+1997,Asia,China,123.29
+1998,Asia,China,109.73
+1999,Asia,China,113.88
+2000,Asia,China,99.64
+2001,Asia,China,93.87
+2002,Asia,China,90.29
+2003,Asia,China,86.49
+2004,Asia,China,91.95
+2005,Asia,China,97.45
+2006,Asia,China,108.47
+2007,Asia,China,109.53
+2008,Asia,China,112.93
+2009,Asia,China,115.83
+2010,Asia,China,116.14
+2011,Asia,China,118.63
+2012,Asia,China,122.54
+2013,Asia,China,123.71
+2014,Asia,China,128.32
+2015,Asia,China,132.64
+2016,Asia,China,133.27
+2017,Asia,China,134.33
+2018,Asia,China,131.43
+2019,Asia,China,133.59
+2020,Asia,China,134.3
+1974,Asia,India,0
+1975,Asia,India,0
+1976,Asia,India,0
+1977,Asia,India,0
+1978,Asia,India,0
+1979,Asia,India,0
+1980,Asia,India,0
+1981,Asia,India,0
+1982,Asia,India,0
+1983,Asia,India,0
+1984,Asia,India,0
+1985,Asia,India,0
+1986,Asia,India,47.1
+1987,Asia,India,45.6
+1988,Asia,India,46.2
+1989,Asia,India,54.1
+1990,Asia,India,49.9
+1991,Asia,India,55.13
+1992,Asia,India,55.69
+1993,Asia,India,57.21
+1994,Asia,India,59.84
+1995,Asia,India,65.47
+1996,Asia,India,62.1
+1997,Asia,India,69.35
+1998,Asia,India,65.91
+1999,Asia,India,70.78
+2000,Asia,India,76.37
+2001,Asia,India,69.7
+2002,Asia,India,71.81
+2003,Asia,India,65.1
+2004,Asia,India,72.06
+2005,Asia,India,68.64
+2006,Asia,India,69.35
+2007,Asia,India,75.81
+2008,Asia,India,78.57
+2009,Asia,India,80.68
+2010,Asia,India,80.8
+2011,Asia,India,86.87
+2012,Asia,India,94.88
+2013,Asia,India,93.51
+2014,Asia,India,95.85
+2015,Asia,India,86.53
+2016,Asia,India,86
+2017,Asia,India,98.51
+2018,Asia,India,99.7
+2019,Asia,India,103.6
+2020,Asia,India,107.86
+1974,Asia,Kazakhstan,0
+1975,Asia,Kazakhstan,0
+1976,Asia,Kazakhstan,0
+1977,Asia,Kazakhstan,0
+1978,Asia,Kazakhstan,0
+1979,Asia,Kazakhstan,0
+1980,Asia,Kazakhstan,0
+1981,Asia,Kazakhstan,0
+1982,Asia,Kazakhstan,0
+1983,Asia,Kazakhstan,0
+1984,Asia,Kazakhstan,0
+1985,Asia,Kazakhstan,0
+1986,Asia,Kazakhstan,0
+1987,Asia,Kazakhstan,0
+1988,Asia,Kazakhstan,0
+1989,Asia,Kazakhstan,0
+1990,Asia,Kazakhstan,0
+1991,Asia,Kazakhstan,0
+1992,Asia,Kazakhstan,0
+1993,Asia,Kazakhstan,0
+1994,Asia,Kazakhstan,0
+1995,Asia,Kazakhstan,0
+1996,Asia,Kazakhstan,0
+1997,Asia,Kazakhstan,0
+1998,Asia,Kazakhstan,0
+1999,Asia,Kazakhstan,0
+2000,Asia,Kazakhstan,0
+2001,Asia,Kazakhstan,0
+2002,Asia,Kazakhstan,0
+2003,Asia,Kazakhstan,11.5
+2004,Asia,Kazakhstan,9.94
+2005,Asia,Kazakhstan,11.2
+2006,Asia,Kazakhstan,13.46
+2007,Asia,Kazakhstan,16.47
+2008,Asia,Kazakhstan,12.54
+2009,Asia,Kazakhstan,17.05
+2010,Asia,Kazakhstan,9.64
+2011,Asia,Kazakhstan,22.73
+2012,Asia,Kazakhstan,9.84
+2013,Asia,Kazakhstan,13.94
+2014,Asia,Kazakhstan,13
+2015,Asia,Kazakhstan,13.75
+2016,Asia,Kazakhstan,14.99
+2017,Asia,Kazakhstan,14.8
+2018,Asia,Kazakhstan,13.95
+2019,Asia,Kazakhstan,11.45
+2020,Asia,Kazakhstan,14.26
+1974,Asia,Pakistan,0
+1975,Asia,Pakistan,0
+1976,Asia,Pakistan,0
+1977,Asia,Pakistan,0
+1978,Asia,Pakistan,0
+1979,Asia,Pakistan,0
+1980,Asia,Pakistan,0
+1981,Asia,Pakistan,0
+1982,Asia,Pakistan,0
+1983,Asia,Pakistan,0
+1984,Asia,Pakistan,0
+1985,Asia,Pakistan,0
+1986,Asia,Pakistan,13.9
+1987,Asia,Pakistan,12
+1988,Asia,Pakistan,12.7
+1989,Asia,Pakistan,14.4
+1990,Asia,Pakistan,14.4
+1991,Asia,Pakistan,14.57
+1992,Asia,Pakistan,15.68
+1993,Asia,Pakistan,16.16
+1994,Asia,Pakistan,15.21
+1995,Asia,Pakistan,17
+1996,Asia,Pakistan,16.91
+1997,Asia,Pakistan,16.65
+1998,Asia,Pakistan,18.69
+1999,Asia,Pakistan,17.85
+2000,Asia,Pakistan,21.08
+2001,Asia,Pakistan,19.02
+2002,Asia,Pakistan,18.23
+2003,Asia,Pakistan,19.18
+2004,Asia,Pakistan,19.5
+2005,Asia,Pakistan,21.71
+2006,Asia,Pakistan,21.7
+2007,Asia,Pakistan,23.3
+2008,Asia,Pakistan,20.96
+2009,Asia,Pakistan,24.03
+2010,Asia,Pakistan,23.9
+2011,Asia,Pakistan,24.2
+2012,Asia,Pakistan,23.3
+2013,Asia,Pakistan,24.21
+2014,Asia,Pakistan,25.98
+2015,Asia,Pakistan,25.48
+2016,Asia,Pakistan,25.63
+2017,Asia,Pakistan,26.6
+2018,Asia,Pakistan,25.08
+2019,Asia,Pakistan,24.35
+2020,Asia,Pakistan,24.95
+1974,Europe,France,0
+1975,Europe,France,0
+1976,Europe,France,0
+1977,Europe,France,0
+1978,Europe,France,0
+1979,Europe,France,0
+1980,Europe,France,0
+1981,Europe,France,0
+1982,Europe,France,0
+1983,Europe,France,0
+1984,Europe,France,0
+1985,Europe,France,0
+1986,Europe,France,26.5
+1987,Europe,France,27.2
+1988,Europe,France,29
+1989,Europe,France,31.8
+1990,Europe,France,33.3
+1991,Europe,France,34.59
+1992,Europe,France,32.78
+1993,Europe,France,29.25
+1994,Europe,France,30.72
+1995,Europe,France,30.89
+1996,Europe,France,35.95
+1997,Europe,France,33.89
+1998,Europe,France,39.8
+1999,Europe,France,37.16
+2000,Europe,France,37.5
+2001,Europe,France,31.43
+2002,Europe,France,39
+2003,Europe,France,30.47
+2004,Europe,France,39.69
+2005,Europe,France,36.95
+2006,Europe,France,35.4
+2007,Europe,France,32.77
+2008,Europe,France,39
+2009,Europe,France,38.32
+2010,Europe,France,38.15
+2011,Europe,France,36.09
+2012,Europe,France,37.88
+2013,Europe,France,38.5
+2014,Europe,France,38.97
+2015,Europe,France,42.38
+2016,Europe,France,29.25
+2017,Europe,France,38.68
+2018,Europe,France,35.76
+2019,Europe,France,41.11
+2020,Europe,France,30.44
+1974,Europe,Germany,0
+1975,Europe,Germany,0
+1976,Europe,Germany,0
+1977,Europe,Germany,0
+1978,Europe,Germany,0
+1979,Europe,Germany,0
+1980,Europe,Germany,0
+1981,Europe,Germany,0
+1982,Europe,Germany,0
+1983,Europe,Germany,0
+1984,Europe,Germany,0
+1985,Europe,Germany,0
+1986,Europe,Germany,10.4
+1987,Europe,Germany,9.9
+1988,Europe,Germany,11.9
+1989,Europe,Germany,11
+1990,Europe,Germany,15.2
+1991,Europe,Germany,16.61
+1992,Europe,Germany,15.54
+1993,Europe,Germany,29.25
+1994,Europe,Germany,16.42
+1995,Europe,Germany,17.76
+1996,Europe,Germany,18.92
+1997,Europe,Germany,19.62
+1998,Europe,Germany,20.13
+1999,Europe,Germany,19.55
+2000,Europe,Germany,21.62
+2001,Europe,Germany,22.81
+2002,Europe,Germany,20.78
+2003,Europe,Germany,19.26
+2004,Europe,Germany,25.38
+2005,Europe,Germany,23.69
+2006,Europe,Germany,22.37
+2007,Europe,Germany,20.83
+2008,Europe,Germany,25.99
+2009,Europe,Germany,25.19
+2010,Europe,Germany,24.04
+2011,Europe,Germany,23
+2012,Europe,Germany,22.35
+2013,Europe,Germany,25.02
+2014,Europe,Germany,27.79
+2015,Europe,Germany,26.34
+2016,Europe,Germany,24.46
+2017,Europe,Germany,24.48
+2018,Europe,Germany,20.28
+2019,Europe,Germany,22.97
+2020,Europe,Germany,21.88
+1974,Europe,UK,0
+1975,Europe,UK,0
+1976,Europe,UK,0
+1977,Europe,UK,0
+1978,Europe,UK,0
+1979,Europe,UK,0
+1980,Europe,UK,0
+1981,Europe,UK,0
+1982,Europe,UK,0
+1983,Europe,UK,0
+1984,Europe,UK,0
+1985,Europe,UK,0
+1986,Europe,UK,13.9
+1987,Europe,UK,11.9
+1988,Europe,UK,11.8
+1989,Europe,UK,14
+1990,Europe,UK,14
+1991,Europe,UK,14.4
+1992,Europe,UK,14
+1993,Europe,UK,12.89
+1994,Europe,UK,13.31
+1995,Europe,UK,14.32
+1996,Europe,UK,16.1
+1997,Europe,UK,15.05
+1998,Europe,UK,15.47
+1999,Europe,UK,14.87
+2000,Europe,UK,16.8
+2001,Europe,UK,11.6
+2002,Europe,UK,15.97
+2003,Europe,UK,14.28
+2004,Europe,UK,15.47
+2005,Europe,UK,14.86
+2006,Europe,UK,14.74
+2007,Europe,UK,13.22
+2008,Europe,UK,17.28
+2009,Europe,UK,14.08
+2010,Europe,UK,14.88
+2011,Europe,UK,15.26
+2012,Europe,UK,13.26
+2013,Europe,UK,11.92
+2014,Europe,UK,16.61
+2015,Europe,UK,16.32
+2016,Europe,UK,14.38
+2017,Europe,UK,14.84
+2018,Europe,UK,13.56
+2019,Europe,UK,16.28
+2020,Europe,UK,9.66
+1974,Europe,Russia,0
+1975,Europe,Russia,0
+1976,Europe,Russia,0
+1977,Europe,Russia,0
+1978,Europe,Russia,0
+1979,Europe,Russia,0
+1980,Europe,Russia,0
+1981,Europe,Russia,0
+1982,Europe,Russia,0
+1983,Europe,Russia,0
+1984,Europe,Russia,0
+1985,Europe,Russia,0
+1986,Europe,Russia,0
+1987,Europe,Russia,0
+1988,Europe,Russia,0
+1989,Europe,Russia,0
+1990,Europe,Russia,0
+1991,Europe,Russia,0
+1992,Europe,Russia,0
+1993,Europe,Russia,0
+1994,Europe,Russia,0
+1995,Europe,Russia,0
+1996,Europe,Russia,0
+1997,Europe,Russia,0
+1998,Europe,Russia,0
+1999,Europe,Russia,0
+2000,Europe,Russia,0
+2001,Europe,Russia,0
+2002,Europe,Russia,0
+2003,Europe,Russia,34.06
+2004,Europe,Russia,45.41
+2005,Europe,Russia,47.7
+2006,Europe,Russia,44.93
+2007,Europe,Russia,49.37
+2008,Europe,Russia,63.77
+2009,Europe,Russia,61.74
+2010,Europe,Russia,41.51
+2011,Europe,Russia,56.23
+2012,Europe,Russia,37.72
+2013,Europe,Russia,52.09
+2014,Europe,Russia,59.1
+2015,Europe,Russia,61.05
+2016,Europe,Russia,72.5
+2017,Europe,Russia,85.13
+2018,Europe,Russia,71.69
+2019,Europe,Russia,73.61
+2020,Europe,Russia,85.35
+1974,Europe,Ukraine,0
+1975,Europe,Ukraine,0
+1976,Europe,Ukraine,0
+1977,Europe,Ukraine,0
+1978,Europe,Ukraine,0
+1979,Europe,Ukraine,0
+1980,Europe,Ukraine,0
+1981,Europe,Ukraine,0
+1982,Europe,Ukraine,0
+1983,Europe,Ukraine,0
+1984,Europe,Ukraine,0
+1985,Europe,Ukraine,0
+1986,Europe,Ukraine,0
+1987,Europe,Ukraine,0
+1988,Europe,Ukraine,0
+1989,Europe,Ukraine,0
+1990,Europe,Ukraine,0
+1991,Europe,Ukraine,0
+1992,Europe,Ukraine,0
+1993,Europe,Ukraine,0
+1994,Europe,Ukraine,0
+1995,Europe,Ukraine,0
+1996,Europe,Ukraine,0
+1997,Europe,Ukraine,0
+1998,Europe,Ukraine,0
+1999,Europe,Ukraine,0
+2000,Europe,Ukraine,0
+2001,Europe,Ukraine,0
+2002,Europe,Ukraine,0
+2003,Europe,Ukraine,3.6
+2004,Europe,Ukraine,16.53
+2005,Europe,Ukraine,18.7
+2006,Europe,Ukraine,13.81
+2007,Europe,Ukraine,13.94
+2008,Europe,Ukraine,25.88
+2009,Europe,Ukraine,20.89
+2010,Europe,Ukraine,16.85
+2011,Europe,Ukraine,22.32
+2012,Europe,Ukraine,15.76
+2013,Europe,Ukraine,22.28
+2014,Europe,Ukraine,24.74
+2015,Europe,Ukraine,27.28
+2016,Europe,Ukraine,26.79
+2017,Europe,Ukraine,26.98
+2018,Europe,Ukraine,25.06
+2019,Europe,Ukraine,29.17
+2020,Europe,Ukraine,25.42
+1974,Asia,Turkey,0
+1975,Asia,Turkey,0
+1976,Asia,Turkey,0
+1977,Asia,Turkey,0
+1978,Asia,Turkey,0
+1979,Asia,Turkey,0
+1980,Asia,Turkey,0
+1981,Asia,Turkey,0
+1982,Asia,Turkey,0
+1983,Asia,Turkey,0
+1984,Asia,Turkey,0
+1985,Asia,Turkey,0
+1986,Asia,Turkey,19
+1987,Asia,Turkey,18.9
+1988,Asia,Turkey,20.5
+1989,Asia,Turkey,16.2
+1990,Asia,Turkey,20
+1991,Asia,Turkey,16.5
+1992,Asia,Turkey,15.5
+1993,Asia,Turkey,16.5
+1994,Asia,Turkey,14.7
+1995,Asia,Turkey,15.5
+1996,Asia,Turkey,16.2
+1997,Asia,Turkey,16.2
+1998,Asia,Turkey,18.5
+1999,Asia,Turkey,16.5
+2000,Asia,Turkey,17.5
+2001,Asia,Turkey,15.5
+2002,Asia,Turkey,17.3
+2003,Asia,Turkey,18.5
+2004,Asia,Turkey,18.5
+2005,Asia,Turkey,21.5
+2006,Asia,Turkey,20.01
+2007,Asia,Turkey,17.23
+2008,Asia,Turkey,17.78
+2009,Asia,Turkey,20.6
+2010,Asia,Turkey,19.67
+2011,Asia,Turkey,21.8
+2012,Asia,Turkey,20.1
+2013,Asia,Turkey,22.05
+2014,Asia,Turkey,19
+2015,Asia,Turkey,22.6
+2016,Asia,Turkey,20.6
+2017,Asia,Turkey,21.5
+2018,Asia,Turkey,20
+2019,Asia,Turkey,19
+2020,Asia,Turkey,19.5
+1974,Oceania,Australia,11.36
+1975,Oceania,Australia,11.98
+1976,Oceania,Australia,11.8
+1977,Oceania,Australia,9.37
+1978,Oceania,Australia,18.09
+1979,Oceania,Australia,16.19
+1980,Oceania,Australia,10.86
+1981,Oceania,Australia,16.36
+1982,Oceania,Australia,8.8
+1983,Oceania,Australia,20.79
+1984,Oceania,Australia,18.07
+1985,Oceania,Australia,16.06
+1986,Oceania,Australia,16.12
+1987,Oceania,Australia,12.29
+1988,Oceania,Australia,13.94
+1989,Oceania,Australia,14.21
+1990,Oceania,Australia,15.07
+1991,Oceania,Australia,10.56
+1992,Oceania,Australia,14.74
+1993,Oceania,Australia,16.48
+1994,Oceania,Australia,8.96
+1995,Oceania,Australia,16.5
+1996,Oceania,Australia,22.92
+1997,Oceania,Australia,19.23
+1998,Oceania,Australia,21.46
+1999,Oceania,Australia,24.76
+2000,Oceania,Australia,22.11
+2001,Oceania,Australia,24.3
+2002,Oceania,Australia,10.13
+2003,Oceania,Australia,26.13
+2004,Oceania,Australia,21.91
+2005,Oceania,Australia,25.15
+2006,Oceania,Australia,10.82
+2007,Oceania,Australia,13.57
+2008,Oceania,Australia,21.42
+2009,Oceania,Australia,21.83
+2010,Oceania,Australia,27.41
+2011,Oceania,Australia,29.91
+2012,Oceania,Australia,22.86
+2013,Oceania,Australia,25.3
+2014,Oceania,Australia,23.74
+2015,Oceania,Australia,22.27
+2016,Oceania,Australia,31.82
+2017,Oceania,Australia,20.94
+2018,Oceania,Australia,17.6
+2019,Oceania,Australia,14.48
+2020,Oceania,Australia,33.34
+1974,North America,US,48.5
+1975,North America,US,57.89
+1976,North America,US,58.48
+1977,North America,US,55.67
+1978,North America,US,48.32
+1979,North America,US,58.08
+1980,North America,US,64.8
+1981,North America,US,75.8
+1982,North America,US,75.25
+1983,North America,US,65.86
+1984,North America,US,70.62
+1985,North America,US,65.97
+1986,North America,US,56.9
+1987,North America,US,57.36
+1988,North America,US,49.32
+1989,North America,US,55.43
+1990,North America,US,74.29
+1991,North America,US,53.89
+1992,North America,US,67.13
+1993,North America,US,65.22
+1994,North America,US,63.17
+1995,North America,US,59.4
+1996,North America,US,61.98
+1997,North America,US,67.53
+1998,North America,US,69.33
+1999,North America,US,62.47
+2000,North America,US,60.64
+2001,North America,US,53
+2002,North America,US,43.71
+2003,North America,US,63.81
+2004,North America,US,58.7
+2005,North America,US,57.24
+2006,North America,US,49.22
+2007,North America,US,55.82
+2008,North America,US,68.36
+2009,North America,US,60.12
+2010,North America,US,58.87
+2011,North America,US,54.24
+2012,North America,US,61.3
+2013,North America,US,58.11
+2014,North America,US,55.15
+2015,North America,US,56.12
+2016,North America,US,62.83
+2017,North America,US,47.38
+2018,North America,US,51.31
+2019,North America,US,52.58
+2020,North America,US,49.75
