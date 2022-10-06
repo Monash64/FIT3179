@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {"text":"2020 Australian state wheat yields",
     "fontSize":24},
-    "width": 300,
+    "width": 500,
     "height": 400,
     "projection": {"type": "mercator"},
     "data": {
