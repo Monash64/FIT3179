@@ -2,8 +2,8 @@
   "width": 600,
   "height": 400,
   "title": {
-    "text": "Historical output of countries that produced over 15kt of Wheat in 2020",
-    "fontSize": 24
+    "text": "Historical wheat production of top global producers",
+    "fontSize": 16
   },
   "data": {
     "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Top%20Wheat%20Producers.csv",
