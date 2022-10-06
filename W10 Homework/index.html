@@ -16,13 +16,15 @@
 </body>
 
 <body>
-    <div id="map">
-    </div>
-</body>
+  <script type="text/javascript">
+    var specVis1 = "./wheatmap.json";
+    var specVis2 = "./Country Production.json";
 
-<body>
-    <div id="areachart">
-    </div>
+    vegaEmbed('#map', specVis1, { "actions": false });
+
+    vegaEmbed('#areachart', specVis2, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
 </body>
 
 </html>
