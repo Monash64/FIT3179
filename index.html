@@ -44,6 +44,14 @@
         <p>Australia's land has become more productive over time due to increased fertiliser use and advances in equipment.</p>
       </div>
     </div>
+    
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <p> Wheat is Australia's highest value crop, worth over --- in 2020.
+      </div>
+      <div class="pure-u-1-2">
+        <div id="pie" class="vis-container"></div>
+    </div>
   
       
     <h1>Australia's Wheat Compared Globally</h1>
@@ -60,6 +68,7 @@
     var specVis1 = "./StateYields.json";
     var specVis2 = "./Country Production.json";
     var specVis3 = "./forecast graph.json"
+    var specVis4 = "./Australiancrops.json"
 
     vegaEmbed('#map', specVis1, { "actions": false });
 
@@ -68,6 +77,8 @@
     }).catch(console.error);
 
     vegaEmbed('#line', specVis3, { "actions": false });
+    
+    vegaEmbed('#pie', specVis4, { "actions": false });
     </script>
 </body>
 
