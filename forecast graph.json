@@ -1,0 +1,30 @@
+{
+  "width": 600,
+  "height": 300,
+  "title": {"text": "Forecast for top wheat producing regions", "fontSize": 24},
+  "data": {
+    "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Forecast.csv",
+    "format": {"type": "csv"}
+  },
+  "mark": {"type": "line", "point": true, "clip": true},
+  "encoding": {
+    "x": {"field": "Year", "type": "quantitative"},
+    "y": {
+      "aggregate": "sum",
+      "field": "Change",
+      "title": "% Change in Production"
+    },
+    "color": {"field": "Country"},
+    "tooltip": [
+      {"field": "Wheat", "type": "quantitative", "title": "Wheat (Mt)"},
+      {
+        "field": "Change",
+        "type": "quantitative",
+        "title": "% Change in Production"
+      },
+      {"field": "Country", "type": "nominal", "title": "Country"},
+      {"field": "Year", "type": "quantitative", "title": "Year"}
+    ]
+  },
+  "config": {}
+}
