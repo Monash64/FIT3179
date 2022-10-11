@@ -1,25 +1,25 @@
-﻿Year,Country,Wheat,Change,Base,
-2020,China,0,0,,
-2021,China, 134.3,-1.918118403,136.905,
-2022,China, 136.9,0.029947774,0,
-2023,China, 138.0,0.799824696,0,
-2020,India, 0.0,0,0,
-2021,India, 108.0,-1.449963044,109.589,
-2022,India, 110.0,0.375037641,0,
-2023,India, 104.0,-5.099964412,0,
-2020,United States of America, 0.0,0,0,
-2021,United States of America, 49.8,11.20291182,44.783,
-2022,United States of America, 44.8,0.037960833,0,
-2023,United States of America, 48.5,8.300024563,0,
-2020,European Union, 0.0, 0.0, 0.0,
-2021,European Union, 127.0,-8.11749385,138.22,
-2022,European Union, 138.0,-0.159166546,0,
-2023,European Union, 132.0,-4.500072348,0,
-2020,Australia, 0.0,0,0,
-2021,Australia, 31.9,-12.15029913,36.3382,
-2022,Australia, 36.3,0.02421694,0,
-2023,Australia, 32.2,-11.29995432,0,
-2020,Black Sea Region, 0.0,0,0,
-2021,Black Sea Region, 125.0,3.925904987,120.278,
-2022,Black Sea Region, 120.0,-0.231131213,0,
-2023,Black Sea Region, 121.0,0.600276027,0,
+﻿Year,Country,Wheat,Change,Base
+2020,China,0.0,0.0,
+2021,China,134.3,-1.9,136.9
+2022,China,136.9,0.0,0.0
+2023,China,138.0,0.8,0.0
+2020,India,0.0,0.0,0.0
+2021,India,108.0,-1.4,109.6
+2022,India,110.0,0.4,0.0
+2023,India,104.0,-5.1,0.0
+2020,United States of America,0.0,0.0,0.0
+2021,United States of America,49.8,11.2,44.8
+2022,United States of America,44.8,0.0,0.0
+2023,United States of America,48.5,8.3,0.0
+2020,European Union,0.0,0.0,0.0
+2021,European Union,127.0,-8.1,138.2
+2022,European Union,138.0,-0.2,0.0
+2023,European Union,132.0,-4.5,0.0
+2020,Australia,0.0,0.0,0.0
+2021,Australia,31.9,-12.2,36.3
+2022,Australia,36.3,0.0,0.0
+2023,Australia,32.2,-11.3,0.0
+2020,Black Sea Region,0.0,0.0,0.0
+2021,Black Sea Region,125.0,3.9,120.3
+2022,Black Sea Region,120.0,-0.2,0.0
+2023,Black Sea Region,121.0,0.6,0.0
