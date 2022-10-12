@@ -1,10 +1,22 @@
 html, body {
-    padding: 50px
+    padding: 80px
+}
+
+.bg-h1 {
+    background-color: ##008000;
 }
 
 h1{
     font-family: 'Lora', serif;
-    color: 'Green'
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2{
+    font-family: 'Lora', serif;
+    color: '#008000';
+    font-size: 24px;
 }
 
 p{
