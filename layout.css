@@ -4,10 +4,10 @@ html, body {
 
 .header {
   padding: 50px;
-  text-align: Left;
+  text-align: Right;
   background: #008000;
   color: white;
-  font-size: 36px;
+  font-size: 48px;
 }
 
 h1{
