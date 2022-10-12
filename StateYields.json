@@ -2,8 +2,6 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {"text":"Australian State Wheat Yields",
     "fontSize":24},
-    "width": 500,
-    "height": 500,
     "projection": {"type": "mercator"},
     "data": {
       "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Statemaps.json",
