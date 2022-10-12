@@ -1,4 +1,4 @@
-﻿Year,State,t/ha,kt,Area
+Year,State,t/ha,kt,Area
 1974,Western Australia,1.17,3277.10,2809.90
 1975,Western Australia,1.30,4122.00,3171.30
 1976,Western Australia,0.98,3248.80,3313.90
@@ -281,3 +281,97 @@
 2018,Queensland,1.00,419.67,419.70
 2019,Queensland,0.95,418.47,441.48
 2020,Queensland,1.47,1102.50,750.00
+1974,Northern Territory,N/A,N/A,N/A
+1975,Northern Territory,N/A,N/A,N/A
+1976,Northern Territory,N/A,N/A,N/A
+1977,Northern Territory,N/A,N/A,N/A
+1978,Northern Territory,N/A,N/A,N/A
+1979,Northern Territory,N/A,N/A,N/A
+1980,Northern Territory,N/A,N/A,N/A
+1981,Northern Territory,N/A,N/A,N/A
+1982,Northern Territory,N/A,N/A,N/A
+1983,Northern Territory,N/A,N/A,N/A
+1984,Northern Territory,N/A,N/A,N/A
+1985,Northern Territory,N/A,N/A,N/A
+1986,Northern Territory,N/A,N/A,N/A
+1987,Northern Territory,N/A,N/A,N/A
+1988,Northern Territory,N/A,N/A,N/A
+1989,Northern Territory,N/A,N/A,N/A
+1990,Northern Territory,N/A,N/A,N/A
+1991,Northern Territory,N/A,N/A,N/A
+1992,Northern Territory,N/A,N/A,N/A
+1993,Northern Territory,N/A,N/A,N/A
+1994,Northern Territory,N/A,N/A,N/A
+1995,Northern Territory,N/A,N/A,N/A
+1996,Northern Territory,N/A,N/A,N/A
+1997,Northern Territory,N/A,N/A,N/A
+1998,Northern Territory,N/A,N/A,N/A
+1999,Northern Territory,N/A,N/A,N/A
+2000,Northern Territory,N/A,N/A,N/A
+2001,Northern Territory,N/A,N/A,N/A
+2002,Northern Territory,N/A,N/A,N/A
+2003,Northern Territory,N/A,N/A,N/A
+2004,Northern Territory,N/A,N/A,N/A
+2005,Northern Territory,N/A,N/A,N/A
+2006,Northern Territory,N/A,N/A,N/A
+2007,Northern Territory,N/A,N/A,N/A
+2008,Northern Territory,N/A,N/A,N/A
+2009,Northern Territory,N/A,N/A,N/A
+2010,Northern Territory,N/A,N/A,N/A
+2011,Northern Territory,N/A,N/A,N/A
+2012,Northern Territory,N/A,N/A,N/A
+2013,Northern Territory,N/A,N/A,N/A
+2014,Northern Territory,N/A,N/A,N/A
+2015,Northern Territory,N/A,N/A,N/A
+2016,Northern Territory,N/A,N/A,N/A
+2017,Northern Territory,N/A,N/A,N/A
+2018,Northern Territory,N/A,N/A,N/A
+2019,Northern Territory,N/A,N/A,N/A
+2020,Northern Territory,N/A,N/A,N/A
+1974,Australian Captial Territory,N/A,N/A,N/A
+1975,Australian Captial Territory,N/A,N/A,N/A
+1976,Australian Captial Territory,N/A,N/A,N/A
+1977,Australian Captial Territory,N/A,N/A,N/A
+1978,Australian Captial Territory,N/A,N/A,N/A
+1979,Australian Captial Territory,N/A,N/A,N/A
+1980,Australian Captial Territory,N/A,N/A,N/A
+1981,Australian Captial Territory,N/A,N/A,N/A
+1982,Australian Captial Territory,N/A,N/A,N/A
+1983,Australian Captial Territory,N/A,N/A,N/A
+1984,Australian Captial Territory,N/A,N/A,N/A
+1985,Australian Captial Territory,N/A,N/A,N/A
+1986,Australian Captial Territory,N/A,N/A,N/A
+1987,Australian Captial Territory,N/A,N/A,N/A
+1988,Australian Captial Territory,N/A,N/A,N/A
+1989,Australian Captial Territory,N/A,N/A,N/A
+1990,Australian Captial Territory,N/A,N/A,N/A
+1991,Australian Captial Territory,N/A,N/A,N/A
+1992,Australian Captial Territory,N/A,N/A,N/A
+1993,Australian Captial Territory,N/A,N/A,N/A
+1994,Australian Captial Territory,N/A,N/A,N/A
+1995,Australian Captial Territory,N/A,N/A,N/A
+1996,Australian Captial Territory,N/A,N/A,N/A
+1997,Australian Captial Territory,N/A,N/A,N/A
+1998,Australian Captial Territory,N/A,N/A,N/A
+1999,Australian Captial Territory,N/A,N/A,N/A
+2000,Australian Captial Territory,N/A,N/A,N/A
+2001,Australian Captial Territory,N/A,N/A,N/A
+2002,Australian Captial Territory,N/A,N/A,N/A
+2003,Australian Captial Territory,N/A,N/A,N/A
+2004,Australian Captial Territory,N/A,N/A,N/A
+2005,Australian Captial Territory,N/A,N/A,N/A
+2006,Australian Captial Territory,N/A,N/A,N/A
+2007,Australian Captial Territory,N/A,N/A,N/A
+2008,Australian Captial Territory,N/A,N/A,N/A
+2009,Australian Captial Territory,N/A,N/A,N/A
+2010,Australian Captial Territory,N/A,N/A,N/A
+2011,Australian Captial Territory,N/A,N/A,N/A
+2012,Australian Captial Territory,N/A,N/A,N/A
+2013,Australian Captial Territory,N/A,N/A,N/A
+2014,Australian Captial Territory,N/A,N/A,N/A
+2015,Australian Captial Territory,N/A,N/A,N/A
+2016,Australian Captial Territory,N/A,N/A,N/A
+2017,Australian Captial Territory,N/A,N/A,N/A
+2018,Australian Captial Territory,N/A,N/A,N/A
+2019,Australian Captial Territory,N/A,N/A,N/A
+2020,Australian Captial Territory,N/A,N/A,N/A
