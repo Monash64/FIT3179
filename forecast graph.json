@@ -1,7 +1,5 @@
 {
-  "width": 400,
-  "height": 300,
-  "title": {"text": "Forecast for top wheat producing regions", "fontSize": 24},
+  "title": {"text": "Forecast for top wheat producing regions", "fontSize": 20},
   "data": {
     "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Forecast.csv",
     "format": {"type": "csv"}
