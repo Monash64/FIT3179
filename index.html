@@ -58,6 +58,9 @@
       </div>
       <div class="pure-u-1-2">
         <div id="Ausval" class="vis-container"></div>
+         <p> Wheat is Australia's highest value crop, worth over 12.3 Billion AUD in 2020. 
+          While wheat production has grown over the years, it's value as a proportion of all 
+          crops produced has decreased, likely due to a surge in barley and canola crops.</p>
       </div>
     </div>
   
@@ -95,13 +98,9 @@
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
     
-    vegaEmbed('#Ausval', specVis4, { "actions": false }).then(function (result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-    }).catch(console.error);
+    vegaEmbed('#Ausval', specVis4, { "actions": false });
     
-    vegaEmbed('#Ausprop', specVis5, { "actions": false }).then(function (result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-    }).catch(console.error);
+    vegaEmbed('#Ausprop', specVis5, { "actions": false });
     </script>
 </body>
 
