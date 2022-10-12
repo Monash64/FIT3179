@@ -6,12 +6,6 @@ html, body {
     width: 45vw;
 }
 
-div {
-  background: url('Header.jpg');
-  background-size: cover;
-  background-position: center;
-}
-
 h1{
     font-family: 'Lora', serif;
     color: white;
