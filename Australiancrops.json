@@ -2,8 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Australian Crops by proportion of Value ($m)",
   "data": {"url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Crop_Value.csv"},
-  "width": 600,
-  "height": 400,
+  "width": 400,
+  "height": 300,
   "mark": "area",
   "encoding": {
     "x": {
