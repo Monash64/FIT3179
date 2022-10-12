@@ -4,7 +4,7 @@
     "fontSize": 20
   },
   "width": 400,
-  "height": 400,
+  "height": 300,
   "data": {
     "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Top%20Wheat%20Producers.csv",
     "format": {"type": "csv"}
