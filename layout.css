@@ -2,20 +2,12 @@ html, body {
     padding: 80px
 }
 
-.bg-h1 {
-    background-color: ##008000;
-}
-
-.pure-u-1-2 img {
-    width: 30vw;
-    height: 30vw;
-}
-
 h1{
     font-family: 'Lora', serif;
     color: white;
     font-size: 36px;
     font-weight: bold;
+    background-color: ##008000;
 }
 
 h2{
