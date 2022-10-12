@@ -2,14 +2,6 @@ html, body {
     padding: 80px
 }
 
-.header {
-  padding: 50px;
-  text-align: Right;
-  background: #008000;
-  color: white;
-  font-size: 48px;
-}
-
 .pure-u-1-2 img {
     width: 45vw;
 }
