@@ -6,6 +6,11 @@ html, body {
     background-color: ##008000;
 }
 
+.pure-u-1-2 img {
+    width: 30vw;
+    height: 30vw;
+}
+
 h1{
     font-family: 'Lora', serif;
     color: white;
