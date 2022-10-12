@@ -12,15 +12,18 @@ h1{
     font-size: 48px;
     font-weight: bold;
     background-color: #008000;
+    padding: 10px;
 }
 
 h2{
     font-family: 'Lora', serif;
     color: #008000;
     font-size: 24px;
+    padding: 10px;
 }
 
 p{
 font-family: 'Lora', sans-serif;
+        padding: 10px;
 }
 
