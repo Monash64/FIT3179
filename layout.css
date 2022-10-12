@@ -7,7 +7,7 @@ html, body {
 }
 
 div {
-  background: url('image/Header.jpg');
+  background: url('Header.jpg');
   background-size: cover;
   background-position: center;
 }
