@@ -3,7 +3,7 @@
     "width": 400,
     "height": 400,
     "title": {"text":"Australian State Wheat Yields",
-    "fontSize":24},
+    "fontSize":20},
     "projection": {"type": "mercator"},
     "data": {
       "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Statemaps.json",
