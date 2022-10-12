@@ -1,0 +1,28 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Australian Crops by proportion of Value ($m)",
+  "data": {"url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Crop_Value.csv"},
+  "width": 600,
+  "height": 400,
+  "mark": "area",
+  "encoding": {
+    "x": {
+      "timeUnit": "yearmonth",
+      "field": "Year",
+      "title": "Year",
+      "axis": {"domain": [0,100], "format": "%Y"}
+    },
+    "y": {
+      "aggregate": "sum",
+      "field": "Industry_Value",
+      "name":"$m",
+      "stack":"normalize"
+    },
+    "tooltip": [
+      {"field": "Commodity", "type": "nominal", "title":"Commodity"},
+      {"field": "sum_Industry_Value", "type": "quantitative", "title":"Proportion of total crop value"},
+      {"field": "Year", "type": "temporal"}
+      ],
+    "color": {"field": "Commodity", "scale": {"scheme": "category20b"}}
+  }
+}
