@@ -1,10 +1,12 @@
 html, body {
-    background-color:green ;
+    padding: 50px
 }
+
 h1{
-font-family: 'Montserrat', sans-serif;
+font-family: 'Lora', serif;
 }
 
 p{
-font-family: 'Roboto', sans-serif;
+font-family: 'Lora', sans-serif;
 }
+
