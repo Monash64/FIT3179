@@ -120,7 +120,6 @@
     var specVis3 = "./forecast graph.json";
     var specVis4 = "./Australiancrops.json";
     var specVis5 = "./Australianproportion.json";
-    var specVis6 = "./Worldexports.json;
 
     vegaEmbed('#Ausmap', specVis1, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
@@ -141,10 +140,7 @@
     vegaEmbed('#Ausprop', specVis5, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
-                                               
-    vegaEmbed('#Worldexports', specVis6, { "actions": false }).then(function (result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-    }).catch(console.error);                                           
+                                                                                     
     </script>
 </body>
 
