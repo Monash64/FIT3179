@@ -10,13 +10,11 @@
       "timeUnit": "yearmonth",
       "field": "Year",
       "title": "Year",
-      "axis": {"domain": [0,100], "format": "%Y"}
+      "axis": {"format": "%Y"}
     },
     "y": {
       "aggregate": "sum",
-      "field": "Industry_Value",
-      "name":"$m",
-      "axis": "$m",
+      "field": "Industry_Value"
     },
     "tooltip": [
             {"field": "Commodity", "type": "nominal", "title":"Commodity"},
