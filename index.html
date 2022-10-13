@@ -90,14 +90,14 @@
   
     <div class="pure-g">
       <div class="pure-u-1-2">
-        <div id="Countryline" class="vis-container"></div>
+        <div id="Countryforecast" class="vis-container"></div>
         <p> Australian wheat production is predicted to decrease more than any other global region in 2021 and 
           2023, while reaching similar levels to 2020 in 2020. An explanation for this may be the recent price rises 
           of other agricultural products such as canola and falling wheat prices for wheat, reducing the 
           appeal of growing it.</p>
       </div>
       <div class="pure-u-1-2">
-        <div id="Countryarea" class="vis-container"></div>
+        <div id="Countryline" class="vis-container"></div>
         <p>In 2020, Australia was the 9th largest producer of wheat, growing more than 2% of wheat globally, 
           equivalent to 33kt. Conversely, the world's largest wheat producer, China, grew more than 134kt, more than 
           four times this amount. Despite China's high production, large volumes of Australian wheat are still 
@@ -116,11 +116,11 @@
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
-    vegaEmbed('#Countryarea', specVis2, { "actions": false }).then(function (result) {
+    vegaEmbed('#Countryline', specVis2, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
-    vegaEmbed('#Countryline', specVis3, { "actions": false }).then(function (result) {
+    vegaEmbed('#Countryforecast', specVis3, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
     
