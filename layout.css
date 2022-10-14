@@ -2,9 +2,7 @@ html { background-image: "Wheat1.jpg"};
 
 body {
     padding: 20px;
-    height: 200vh;
-    width: 320px;
-    background-color: #FFFFFF; 
+    background-image: url("wheat.jpg"); 
     margin: 0 auto;
 }
 
@@ -21,7 +19,7 @@ body {
 #header {
 	border-bottom: 1px solid white;
 	padding: 10px;
-	background-color: white;
+	background-color: #008000;
 }
 
 #wrapper {
