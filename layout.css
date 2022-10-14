@@ -6,11 +6,11 @@ html, body {
     width: 45vw;
 }
 
-html { background-color: #000; } 
+html { background-image: url("Wheat1.jpg"}; 
 body {
-    height: 3000px;
+    height: 1800px;
     width: 900px;
-    background-color: papayawhip; 
+    background-color: white; 
     margin: 0 auto;
 }
 
