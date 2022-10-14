@@ -1,9 +1,9 @@
-html { background-image: url("Wheat1.jpg"}; 
+html { background-image: "Wheat1.jpg"}; 
 
 body {
-    padding: 120px;
-    height: 2400px;
-    width: 900px;
+    padding: 20px;
+    height: 1200px;
+    width: 400px;
     background-color: #FFFFFF; 
     margin: 0 auto;
 }
