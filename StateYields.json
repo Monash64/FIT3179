@@ -1,6 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Australian State Yields",
   "width": 500,
   "height": 500,
   "projection": {"type": "mercator"},
