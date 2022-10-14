@@ -1,7 +1,7 @@
 html { background-image: "Wheat1.jpg"}; 
 
 body {
-    padding: 40px;
+    padding: 20px;
     height: 1200px;
     width: 400px;
     background-color: #FFFFFF; 
@@ -10,12 +10,12 @@ body {
 
 .pure-u-1-2 img {
     width: 500px;
-    padding: 40px;
+    padding: 20px;
 }
 
 .pure-u-1-2 img {
     width: 400px;
-    padding: 40px;
+    padding: 20px;
 }
 
 h1{
@@ -24,25 +24,25 @@ h1{
     font-size: 48px;
     font-weight: bold;
     background-color: #008000;
-    padding: 40px;
+    padding: 10px;
 }
 
-h2{
+h3{
     font-family: 'Lora', serif;
     color: #008000;
     font-size: 36px;
-    padding: 40px;
+    padding: 10px;
 }
 
 h2{
     font-family: 'Lora', serif;
     color: black;
     font-size: 24px;
-    padding: 40px;
+    padding: 10px;
 }
 
 p{
 font-family: 'Lora', sans-serif;
-        padding: 40px;
+        padding: 20px;
 }
 
