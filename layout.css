@@ -18,6 +18,18 @@ body {
     padding: 20px;
 }
 
+#header {
+	border-bottom: 1px solid white;
+	padding: 10px;
+	background-color: white;
+}
+
+#wrapper {
+	border: 0px solid white;
+	width: 800px;
+	margin: auto;
+}
+
 h1{
     font-family: 'Lora', serif;
     color: white;
