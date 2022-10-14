@@ -1,56 +1,80 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 400,
-    "height": 400,
-    "title": {"text":"Australian State Wheat Yields",
-    "fontSize":20},
-    "projection": {"type": "mercator"},
-    "data": {
-      "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Statemaps.json",
-      "format": {"type": "topojson", "feature": "STE_2016_AUST"}
-    },
-    "params":[
-      {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Australian State Yields",
+  "width": 500,
+  "height": 500,
+  "projection": {"type": "mercator"},
+  "params": [
+    {
       "name": "Year",
+      "value": 2020,
       "bind": {
         "input": "range",
         "min": 1974,
         "max": 2020,
         "step": 1,
         "name": "Year: "
-} }
-    ],
-    "transform": [
-      {"filter": "datum.Year == Year"},
-      {
-        "lookup": "properties.STE_NAME16",
-        "from": {
-          "data": {
-            "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/All%20State%20Data.csv"
-          },
-          "key": "State",
-          "fields": ["Year","State","t/ha","kt","Area"]
-        }
       }
-    ],
-    "mark": {"type": "geoshape","stroke": "white"},
-    "encoding": {
-      "color": {
-        "field": "t/ha",
-        "type": "quantitative",
-        "title":"Yield (t/ha)",
-        "condition": {
-          "test": "datum['t/ha'] === 'null'",
-          "value": "#aaa"},
-        "scale":{
-          "domain":[1,6]}
-        },
-      "tooltip": [
-        {"field": "properties.STE_NAME16", "type": "nominal", "title":"State"},
-        {"field": "t/ha", "type": "quantitative", "title":"Yield (t/ha)"},
-        {"field": "kt", "type": "quantitative", "title":"Production (kt)"},
-        {"field": "Area", "type": "quantitative", "title":"Planted ('000 ha)"}
-        ]
-      },
-      "config": {}
     }
+  ],
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Statemaps.json",
+        "format": {"type": "topojson", "feature": "STE_2016_AUST"}
+      },
+      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/All%20State%20Data.csv"
+      },
+      "transform": [
+        {
+          "lookup": "State",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Statemaps.json",
+              "format": {
+                "type": "topojson",
+                "feature": "STE_2016_AUST"
+              }
+            },
+            "key": "properties.STE_NAME16"
+          },
+          "as": "geo"
+        },
+        {"filter": "datum.Year == Year"}
+      ],
+      "mark": {"type": "geoshape"},
+      "encoding": {
+        "shape": {"field": "geo", "type": "geojson"},
+        "color": {
+          "field": "t/ha",
+          "type": "quantitative",
+          "scale": {
+            "domain": [1,2,3,4,5,6],
+            "range": ["lightgrey", "#fde725", "#5ec962", "#21918c", "#3b528b", "#440154"]
+          },
+          "title": "Yield (t/ha)"
+        },
+        "tooltip": [
+          {"field": "State", "type": "nominal", "title": "State"},
+          {
+            "field": "t/ha",
+            "type": "quantitative",
+            "title": "Yield (t/ha)"},
+          {
+            "field": "kt",
+            "type": "quantitative",
+            "title": "Production (kt)"},
+          {
+            "field": "Area",
+            "type": "quantitative",
+            "title": "Planted (000' ha)"}
+        ]
+      }
+    }
+  ],
+  "config": {}
+}
