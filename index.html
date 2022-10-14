@@ -89,7 +89,13 @@
   
     <h2>Australian Wheat and the World</h2>
   
-     <div class="pure-g">
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <div id="Ausexp" class="vis-container"></div>
+      </div>
+    </div>
+  
+    <div class="pure-g">
       <div class="pure-u-1-1">
         <p> Australia exports to more than .</p>
       </div>
@@ -124,6 +130,7 @@
     var specVis3 = "./forecast graph.json";
     var specVis4 = "./Australiancrops.json";
     var specVis5 = "./Australianproportion.json";
+    var specVis6 = "./Australianexports.json";
 
     vegaEmbed('#Ausmap', specVis1, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
@@ -144,7 +151,10 @@
     vegaEmbed('#Ausprop', specVis5, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
-                                                                                     
+                               
+     vegaEmbed('#Ausexp', specVis6, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
     </script>
 </body>
 
