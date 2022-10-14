@@ -1,6 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title":"Country Production",
   "width": 400,
   "height": 300,
   "data": {"url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Top%20Wheat%20Producers.csv"},
