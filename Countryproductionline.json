@@ -10,7 +10,12 @@
       "mark": "line",
       "encoding": {
         "x": {"field": "Year", "type": "temporal", "title": "Year"},
-        "y": {"field": "Wheat", "type": "quantitative", "title": "Wheat (kt)"}
+        "y": {"field": "Wheat", "type": "quantitative", "title": "Wheat (kt)"},
+            "tooltip": [
+      {"field": "Wheat", "type": "quantitative", "title": "Wheat (kt)"},
+      {"field": "Country", "type": "nominal", "title": "Country"},
+      {"field": "Year", "timeUnit": "year", "type": "temporal", "title": "Year"}
+    ]
       }
     },
     {
@@ -22,8 +27,7 @@
           "aggregate": {"argmax": "Year"},
           "field": "Wheat",
           "type": "quantitative"
-        },
-        
+        }
       },
       "layer": [
         {"mark": {"type": "circle", "size":75}},
@@ -33,6 +37,9 @@
         }
       ]
     }
+  ],
+  "config": {}
+}
   ],
   "config": {}
 }
