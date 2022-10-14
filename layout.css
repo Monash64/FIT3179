@@ -1,7 +1,7 @@
 html { background-image: "Wheat1.jpg"}; 
 
 body {
-    padding: 20px;
+    padding: 80px;
     height: 1200px;
     width: 400px;
     background-color: #FFFFFF; 
@@ -9,7 +9,7 @@ body {
 }
 
 .pure-u-1-2 img {
-    width: 180px;
+    width: 300px;
 }
 
 h1{
