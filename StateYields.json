@@ -46,15 +46,15 @@
         },
         {"filter": "datum.Year == Year"}
       ],
-      "mark": {"type": "geoshape"},
+      "mark": {"type": "geoshape", "stroke":"white"},
       "encoding": {
         "shape": {"field": "geo", "type": "geojson"},
         "color": {
           "field": "t/ha",
           "type": "quantitative",
           "scale": {
-            "domain": [1,2,3,4,5,6],
-            "range": ["lightgrey", "#fde725", "#5ec962", "#21918c", "#3b528b", "#440154"]
+            "domain": [0.5,1.5,2.5,3.5,4.5,5.5,6.5],
+            "range": ["#fde725", "#5ec962", "#21918c", "#3b528b", "#440154"]
           },
           "title": "Yield (t/ha)"
         },
