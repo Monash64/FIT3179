@@ -1,871 +1,871 @@
-"","Year","Country","Export_Total"
-"1",1991,"Mozambique",0
-"2",1991,"Nigeria",0
-"3",1991,"South Africa",0.27
-"4",1991,"Sudan",0
-"5",1991,"United Republic of Tanzania",0
-"6",1991,"Bangladesh",63.84
-"7",1991,"Myanmar",0
-"8",1991,"China",132.95
-"9",1991,"India",0
-"10",1991,"Indonesia",430.78
-"11",1991,"Japan",420.96
-"12",1991,"Republic of Korea",184.49
-"13",1991,"Malaysia",170.32
-"14",1991,"Philippines",4.26
-"15",1991,"Singapore",73.42
-"16",1991,"Taiwan",0
-"17",1991,"Thailand",47.41
-"18",1991,"Vietnam",53.11
-"19",1991,"Islamic Republic of Iran",561.08
-"20",1991,"Iraq",220
-"21",1991,"Kuwait",0
-"22",1991,"Oman",40.06
-"23",1991,"Saudi Arabia",0
-"24",1991,"United Arab Emirates",57.16
-"25",1991,"Yemen",226.33
-"26",1991,"Fiji",35.51
-"27",1991,"New Zealand",56.23
-"28",1991,"Papua New Guinea",54.81
-"29",1991,"World",8169.44
-"30",1992,"Mozambique",7.87
-"31",1992,"Nigeria",0
-"32",1992,"South Africa",0.2
-"33",1992,"Sudan",0
-"34",1992,"United Republic of Tanzania",0
-"35",1992,"Bangladesh",0
-"36",1992,"Myanmar",0
-"37",1992,"China",1.23
-"38",1992,"India",0
-"39",1992,"Indonesia",0.8
-"40",1992,"Japan",0.09
-"41",1992,"Republic of Korea",0
-"42",1992,"Malaysia",0.01
-"43",1992,"Philippines",0.03
-"44",1992,"Singapore",0.07
-"45",1992,"Taiwan",0
-"46",1992,"Thailand",0.11
-"47",1992,"Vietnam",16.54
-"48",1992,"Islamic Republic of Iran",0
-"49",1992,"Iraq",0
-"50",1992,"Kuwait",0.06
-"51",1992,"Oman",0
-"52",1992,"Saudi Arabia",0.03
-"53",1992,"United Arab Emirates",0.05
-"54",1992,"Yemen",0
-"55",1992,"Fiji",0.85
-"56",1992,"New Zealand",4.65
-"57",1992,"Papua New Guinea",0.01
-"58",1992,"World",9547.64
-"59",1993,"Mozambique",1.69
-"60",1993,"Nigeria",0
-"61",1993,"South Africa",0.3
-"62",1993,"Sudan",0
-"63",1993,"United Republic of Tanzania",0
-"64",1993,"Bangladesh",0
-"65",1993,"Myanmar",0
-"66",1993,"China",0
-"67",1993,"India",0
-"68",1993,"Indonesia",0.19
-"69",1993,"Japan",0.02
-"70",1993,"Republic of Korea",0
-"71",1993,"Malaysia",0
-"72",1993,"Philippines",0.03
-"73",1993,"Singapore",0.16
-"74",1993,"Taiwan",3
-"75",1993,"Thailand",0.13
-"76",1993,"Vietnam",0
-"77",1993,"Islamic Republic of Iran",0
-"78",1993,"Iraq",12.9
-"79",1993,"Kuwait",0.02
-"80",1993,"Oman",0
-"81",1993,"Saudi Arabia",0
-"82",1993,"United Arab Emirates",0.04
-"83",1993,"Yemen",0
-"84",1993,"Fiji",1.49
-"85",1993,"New Zealand",8.18
-"86",1993,"Papua New Guinea",0.01
-"87",1993,"World",12921.65
-"88",1994,"Mozambique",0
-"89",1994,"Nigeria",0
-"90",1994,"South Africa",0.33
-"91",1994,"Sudan",0
-"92",1994,"United Republic of Tanzania",0
-"93",1994,"Bangladesh",0
-"94",1994,"Myanmar",0
-"95",1994,"China",0.02
-"96",1994,"India",0
-"97",1994,"Indonesia",0.4
-"98",1994,"Japan",0.48
-"99",1994,"Republic of Korea",0.01
-"100",1994,"Malaysia",0.01
-"101",1994,"Philippines",7.27
-"102",1994,"Singapore",0.05
-"103",1994,"Taiwan",1.66
-"104",1994,"Thailand",0.12
-"105",1994,"Vietnam",8.97
-"106",1994,"Islamic Republic of Iran",0
-"107",1994,"Iraq",0
-"108",1994,"Kuwait",0
-"109",1994,"Oman",0
-"110",1994,"Saudi Arabia",0.12
-"111",1994,"United Arab Emirates",0.26
-"112",1994,"Yemen",2
-"113",1994,"Fiji",0.15
-"114",1994,"New Zealand",6.86
-"115",1994,"Papua New Guinea",0.01
-"116",1994,"World",7902.57
-"117",1995,"Mozambique",22.2
-"118",1995,"Nigeria",0
-"119",1995,"South Africa",119.45
-"120",1995,"Sudan",0
-"121",1995,"United Republic of Tanzania",47.97
-"122",1995,"Bangladesh",145.19
-"123",1995,"Myanmar",0.03
-"124",1995,"China",2237.14
-"125",1995,"India",25
-"126",1995,"Indonesia",1695.88
-"127",1995,"Japan",1135.19
-"128",1995,"Republic of Korea",700.11
-"129",1995,"Malaysia",676.44
-"130",1995,"Philippines",49.45
-"131",1995,"Singapore",66.18
-"132",1995,"Taiwan",34.65
-"133",1995,"Thailand",239.32
-"134",1995,"Vietnam",102.76
-"135",1995,"Islamic Republic of Iran",1578.81
-"136",1995,"Iraq",50.3
-"137",1995,"Kuwait",134.73
-"138",1995,"Oman",188.27
-"139",1995,"Saudi Arabia",0
-"140",1995,"United Arab Emirates",203.89
-"141",1995,"Yemen",274.9
-"142",1995,"Fiji",59.12
-"143",1995,"New Zealand",161.32
-"144",1995,"Papua New Guinea",87.34
-"145",1995,"World",12073.19
-"146",1996,"Mozambique",45.02
-"147",1996,"Nigeria",31.5
-"148",1996,"South Africa",229.78
-"149",1996,"Sudan",0
-"150",1996,"United Republic of Tanzania",76.94
-"151",1996,"Bangladesh",273.3
-"152",1996,"Myanmar",1.8
-"153",1996,"China",147.72
-"154",1996,"India",1390.09
-"155",1996,"Indonesia",2334.52
-"156",1996,"Japan",1303.94
-"157",1996,"Republic of Korea",697.93
-"158",1996,"Malaysia",730.29
-"159",1996,"Philippines",172.38
-"160",1996,"Singapore",63.75
-"161",1996,"Taiwan",63.53
-"162",1996,"Thailand",183.86
-"163",1996,"Vietnam",144
-"164",1996,"Islamic Republic of Iran",3632
-"165",1996,"Iraq",583.6
-"166",1996,"Kuwait",206.9
-"167",1996,"Oman",220.6
-"168",1996,"Saudi Arabia",0.06
-"169",1996,"United Arab Emirates",375.98
-"170",1996,"Yemen",470.1
-"171",1996,"Fiji",73.04
-"172",1996,"New Zealand",176.55
-"173",1996,"Papua New Guinea",96.86
-"174",1996,"World",18379.97
-"175",1997,"Mozambique",37.15
-"176",1997,"Nigeria",20
-"177",1997,"South Africa",131.12
-"178",1997,"Sudan",0
-"179",1997,"United Republic of Tanzania",78.72
-"180",1997,"Bangladesh",185.31
-"181",1997,"Myanmar",9.85
-"182",1997,"China",166.08
-"183",1997,"India",1941.32
-"184",1997,"Indonesia",2355.41
-"185",1997,"Japan",1171.15
-"186",1997,"Republic of Korea",770.81
-"187",1997,"Malaysia",678.7
-"188",1997,"Philippines",21.43
-"189",1997,"Singapore",82.82
-"190",1997,"Taiwan",29.28
-"191",1997,"Thailand",297.25
-"192",1997,"Vietnam",304.03
-"193",1997,"Islamic Republic of Iran",486.04
-"194",1997,"Iraq",1274.86
-"195",1997,"Kuwait",111.3
-"196",1997,"Oman",345.38
-"197",1997,"Saudi Arabia",0.35
-"198",1997,"United Arab Emirates",355.21
-"199",1997,"Yemen",619.95
-"200",1997,"Fiji",69.15
-"201",1997,"New Zealand",113.1
-"202",1997,"Papua New Guinea",129.96
-"203",1997,"World",15287.82
-"204",1998,"Mozambique",20.08
-"205",1998,"Nigeria",0
-"206",1998,"South Africa",196.14
-"207",1998,"Sudan",0
-"208",1998,"United Republic of Tanzania",186.9
-"209",1998,"Bangladesh",366.5
-"210",1998,"Myanmar",8.21
-"211",1998,"China",176.51
-"212",1998,"India",587.15
-"213",1998,"Indonesia",1724.35
-"214",1998,"Japan",1110.11
-"215",1998,"Republic of Korea",1137.76
-"216",1998,"Malaysia",837.99
-"217",1998,"Philippines",188.2
-"218",1998,"Singapore",114.77
-"219",1998,"Taiwan",51.03
-"220",1998,"Thailand",341.08
-"221",1998,"Vietnam",443.49
-"222",1998,"Islamic Republic of Iran",1608.26
-"223",1998,"Iraq",1179.34
-"224",1998,"Kuwait",228.83
-"225",1998,"Oman",187.26
-"226",1998,"Saudi Arabia",0.12
-"227",1998,"United Arab Emirates",519.48
-"228",1998,"Yemen",529.5
-"229",1998,"Fiji",79.01
-"230",1998,"New Zealand",110.1
-"231",1998,"Papua New Guinea",114.82
-"232",1998,"World",16442.14
-"233",1999,"Mozambique",19
-"234",1999,"Nigeria",0
-"235",1999,"South Africa",189.16
-"236",1999,"Sudan",0
-"237",1999,"United Republic of Tanzania",196.96
-"238",1999,"Bangladesh",476.1
-"239",1999,"Myanmar",21.24
-"240",1999,"China",136.35
-"241",1999,"India",445.97
-"242",1999,"Indonesia",1867.91
-"243",1999,"Japan",1189.27
-"244",1999,"Republic of Korea",1148.07
-"245",1999,"Malaysia",790.28
-"246",1999,"Philippines",376.31
-"247",1999,"Singapore",94.5
-"248",1999,"Taiwan",87.17
-"249",1999,"Thailand",295.65
-"250",1999,"Vietnam",446.81
-"251",1999,"Islamic Republic of Iran",1519.55
-"252",1999,"Iraq",2265.13
-"253",1999,"Kuwait",175.64
-"254",1999,"Oman",375.94
-"255",1999,"Saudi Arabia",0.04
-"256",1999,"United Arab Emirates",527.67
-"257",1999,"Yemen",587.62
-"258",1999,"Fiji",88.7
-"259",1999,"New Zealand",159.02
-"260",1999,"Papua New Guinea",148.1
-"261",1999,"World",17329.2
-"262",2000,"Mozambique",20.87
-"263",2000,"Nigeria",0
-"264",2000,"South Africa",140.64
-"265",2000,"Sudan",0
-"266",2000,"United Republic of Tanzania",338.53
-"267",2000,"Bangladesh",252.32
-"268",2000,"Myanmar",27.01
-"269",2000,"China",59.66
-"270",2000,"India",6.52
-"271",2000,"Indonesia",2191.59
-"272",2000,"Japan",1160.52
-"273",2000,"Republic of Korea",1138.65
-"274",2000,"Malaysia",774.71
-"275",2000,"Philippines",146.89
-"276",2000,"Singapore",97.61
-"277",2000,"Taiwan",50.41
-"278",2000,"Thailand",271.64
-"279",2000,"Vietnam",485.41
-"280",2000,"Islamic Republic of Iran",2351.66
-"281",2000,"Iraq",2586.86
-"282",2000,"Kuwait",180.19
-"283",2000,"Oman",136.26
-"284",2000,"Saudi Arabia",0.11
-"285",2000,"United Arab Emirates",398.73
-"286",2000,"Yemen",507.32
-"287",2000,"Fiji",93.48
-"288",2000,"New Zealand",190.59
-"289",2000,"Papua New Guinea",136.46
-"290",2000,"World",16621.08
-"291",2001,"Mozambique",9.99
-"292",2001,"Nigeria",0
-"293",2001,"South Africa",97.75
-"294",2001,"Sudan",0
-"295",2001,"United Republic of Tanzania",325.47
-"296",2001,"Bangladesh",132.86
-"297",2001,"Myanmar",44.68
-"298",2001,"China",46.08
-"299",2001,"India",0.32
-"300",2001,"Indonesia",2097.07
-"301",2001,"Japan",1194.92
-"302",2001,"Republic of Korea",952.79
-"303",2001,"Malaysia",681.57
-"304",2001,"Philippines",83.13
-"305",2001,"Singapore",94.76
-"306",2001,"Taiwan",39.73
-"307",2001,"Thailand",285.03
-"308",2001,"Vietnam",429.66
-"309",2001,"Islamic Republic of Iran",2419.91
-"310",2001,"Iraq",2245.1
-"311",2001,"Kuwait",230.32
-"312",2001,"Oman",113.79
-"313",2001,"Saudi Arabia",0.1
-"314",2001,"United Arab Emirates",226.4
-"315",2001,"Yemen",450.11
-"316",2001,"Fiji",102.46
-"317",2001,"New Zealand",304.65
-"318",2001,"Papua New Guinea",109.77
-"319",2001,"World",16464.77
-"320",2002,"Mozambique",48.43
-"321",2002,"Nigeria",0
-"322",2002,"South Africa",47.87
-"323",2002,"Sudan",0
-"324",2002,"United Republic of Tanzania",128.52
-"325",2002,"Bangladesh",129.55
-"326",2002,"Myanmar",9.97
-"327",2002,"China",38.39
-"328",2002,"India",0.03
-"329",2002,"Indonesia",1685.96
-"330",2002,"Japan",1134.07
-"331",2002,"Republic of Korea",1014.38
-"332",2002,"Malaysia",370.24
-"333",2002,"Philippines",90.09
-"334",2002,"Singapore",65.06
-"335",2002,"Taiwan",114.65
-"336",2002,"Thailand",291.1
-"337",2002,"Vietnam",253.97
-"338",2002,"Islamic Republic of Iran",1064.03
-"339",2002,"Iraq",1037.17
-"340",2002,"Kuwait",174.71
-"341",2002,"Oman",26.72
-"342",2002,"Saudi Arabia",0.03
-"343",2002,"United Arab Emirates",142.44
-"344",2002,"Yemen",411.83
-"345",2002,"Fiji",119.56
-"346",2002,"New Zealand",308.49
-"347",2002,"Papua New Guinea",129.73
-"348",2002,"World",10845.1
-"349",2003,"Mozambique",0
-"350",2003,"Nigeria",0
-"351",2003,"South Africa",247.16
-"352",2003,"Sudan",0
-"353",2003,"United Republic of Tanzania",124.08
-"354",2003,"Bangladesh",141.4
-"355",2003,"Myanmar",24.48
-"356",2003,"China",755.27
-"357",2003,"India",3.59
-"358",2003,"Indonesia",2647.34
-"359",2003,"Japan",1249.79
-"360",2003,"Republic of Korea",1064.95
-"361",2003,"Malaysia",737.01
-"362",2003,"Philippines",147.24
-"363",2003,"Singapore",47.85
-"364",2003,"Taiwan",48.63
-"365",2003,"Thailand",422.37
-"366",2003,"Vietnam",407.74
-"367",2003,"Islamic Republic of Iran",0
-"368",2003,"Iraq",1110.8
-"369",2003,"Kuwait",258.86
-"370",2003,"Oman",90.73
-"371",2003,"Saudi Arabia",0.01
-"372",2003,"United Arab Emirates",196.35
-"373",2003,"Yemen",197.58
-"374",2003,"Fiji",122.43
-"375",2003,"New Zealand",313.54
-"376",2003,"Papua New Guinea",98.55
-"377",2003,"World",15074.45
-"378",2004,"Mozambique",0
-"379",2004,"Nigeria",0
-"380",2004,"South Africa",183.38
-"381",2004,"Sudan",0
-"382",2004,"United Republic of Tanzania",61.87
-"383",2004,"Bangladesh",162.01
-"384",2004,"Myanmar",88.91
-"385",2004,"China",1893.02
-"386",2004,"India",0.08
-"387",2004,"Indonesia",2720.34
-"388",2004,"Japan",1171.5
-"389",2004,"Republic of Korea",1212.8
-"390",2004,"Malaysia",887.83
-"391",2004,"Philippines",130.93
-"392",2004,"Singapore",118.38
-"393",2004,"Taiwan",125.43
-"394",2004,"Thailand",477.99
-"395",2004,"Vietnam",529.7
-"396",2004,"Islamic Republic of Iran",0
-"397",2004,"Iraq",1549.83
-"398",2004,"Kuwait",305.17
-"399",2004,"Oman",63.49
-"400",2004,"Saudi Arabia",0
-"401",2004,"United Arab Emirates",240.75
-"402",2004,"Yemen",314.34
-"403",2004,"Fiji",133.88
-"404",2004,"New Zealand",339.15
-"405",2004,"Papua New Guinea",134.02
-"406",2004,"World",15779.55
-"407",2005,"Mozambique",23.16
-"408",2005,"Nigeria",0
-"409",2005,"South Africa",84.94
-"410",2005,"Sudan",0
-"411",2005,"United Republic of Tanzania",0
-"412",2005,"Bangladesh",179.25
-"413",2005,"Myanmar",108.14
-"414",2005,"China",302.53
-"415",2005,"India",93.28
-"416",2005,"Indonesia",3015.96
-"417",2005,"Japan",1105.89
-"418",2005,"Republic of Korea",1002
-"419",2005,"Malaysia",780.08
-"420",2005,"Philippines",119.53
-"421",2005,"Singapore",68.18
-"422",2005,"Taiwan",176.2
-"423",2005,"Thailand",544.57
-"424",2005,"Vietnam",680.78
-"425",2005,"Islamic Republic of Iran",424.72
-"426",2005,"Iraq",715
-"427",2005,"Kuwait",341.35
-"428",2005,"Oman",85.62
-"429",2005,"Saudi Arabia",0
-"430",2005,"United Arab Emirates",525.41
-"431",2005,"Yemen",499.19
-"432",2005,"Fiji",131.28
-"433",2005,"New Zealand",313.1
-"434",2005,"Papua New Guinea",154.69
-"435",2005,"World",15168.02
-"436",2006,"Mozambique",0
-"437",2006,"Nigeria",64.07
-"438",2006,"South Africa",0
-"439",2006,"Sudan",0
-"440",2006,"United Republic of Tanzania",0
-"441",2006,"Bangladesh",2.76
-"442",2006,"Myanmar",76.58
-"443",2006,"China",183.27
-"444",2006,"India",1592.53
-"445",2006,"Indonesia",2574.41
-"446",2006,"Japan",1113.8
-"447",2006,"Republic of Korea",989.45
-"448",2006,"Malaysia",628.5
-"449",2006,"Philippines",93.6
-"450",2006,"Singapore",69.5
-"451",2006,"Taiwan",104.98
-"452",2006,"Thailand",192.25
-"453",2006,"Vietnam",479.08
-"454",2006,"Islamic Republic of Iran",40.58
-"455",2006,"Iraq",361.7
-"456",2006,"Kuwait",249.75
-"457",2006,"Oman",0
-"458",2006,"Saudi Arabia",0
-"459",2006,"United Arab Emirates",99.07
-"460",2006,"Yemen",385.11
-"461",2006,"Fiji",145.74
-"462",2006,"New Zealand",349.78
-"463",2006,"Papua New Guinea",147.96
-"464",2006,"World",11196.38
-"465",2007,"Mozambique",0
-"466",2007,"Nigeria",0.43
-"467",2007,"South Africa",0
-"468",2007,"Sudan",0
-"469",2007,"United Republic of Tanzania",0
-"470",2007,"Bangladesh",64.69
-"471",2007,"Myanmar",54.86
-"472",2007,"China",2.43
-"473",2007,"India",9.23
-"474",2007,"Indonesia",1607.56
-"475",2007,"Japan",877.97
-"476",2007,"Republic of Korea",694.35
-"477",2007,"Malaysia",622.56
-"478",2007,"Philippines",50.92
-"479",2007,"Singapore",75.43
-"480",2007,"Taiwan",161.31
-"481",2007,"Thailand",255.37
-"482",2007,"Vietnam",431.82
-"483",2007,"Islamic Republic of Iran",0
-"484",2007,"Iraq",198.2
-"485",2007,"Kuwait",232.51
-"486",2007,"Oman",0
-"487",2007,"Saudi Arabia",1.31
-"488",2007,"United Arab Emirates",144.41
-"489",2007,"Yemen",407.84
-"490",2007,"Fiji",132.45
-"491",2007,"New Zealand",275.43
-"492",2007,"Papua New Guinea",153.4
-"493",2007,"World",7407.73
-"494",2008,"Mozambique",28.76
-"495",2008,"Nigeria",0.36
-"496",2008,"South Africa",76.75
-"497",2008,"Sudan",0
-"498",2008,"United Republic of Tanzania",64.87
-"499",2008,"Bangladesh",337.39
-"500",2008,"Myanmar",87.68
-"501",2008,"China",231.36
-"502",2008,"India",1.17
-"503",2008,"Indonesia",2727.8
-"504",2008,"Japan",791.33
-"505",2008,"Republic of Korea",712.17
-"506",2008,"Malaysia",793.4
-"507",2008,"Philippines",214.24
-"508",2008,"Singapore",84.98
-"509",2008,"Taiwan",245.83
-"510",2008,"Thailand",336.36
-"511",2008,"Vietnam",790.19
-"512",2008,"Islamic Republic of Iran",1576.51
-"513",2008,"Iraq",530.6
-"514",2008,"Kuwait",250.81
-"515",2008,"Oman",42.33
-"516",2008,"Saudi Arabia",66.42
-"517",2008,"United Arab Emirates",256.16
-"518",2008,"Yemen",714
-"519",2008,"Fiji",123
-"520",2008,"New Zealand",265.58
-"521",2008,"Papua New Guinea",135.09
-"522",2008,"World",13409.83
-"523",2009,"Mozambique",11.5
-"524",2009,"Nigeria",0.21
-"525",2009,"South Africa",45.85
-"526",2009,"Sudan",0
-"527",2009,"United Republic of Tanzania",79.5
-"528",2009,"Bangladesh",442.83
-"529",2009,"Myanmar",164.12
-"530",2009,"China",745.2
-"531",2009,"India",239.58
-"532",2009,"Indonesia",2853.56
-"533",2009,"Japan",1109.52
-"534",2009,"Republic of Korea",825.88
-"535",2009,"Malaysia",756.25
-"536",2009,"Philippines",98.43
-"537",2009,"Singapore",82.6
-"538",2009,"Taiwan",292.67
-"539",2009,"Thailand",442.12
-"540",2009,"Vietnam",1174.34
-"541",2009,"Islamic Republic of Iran",61.36
-"542",2009,"Iraq",634.51
-"543",2009,"Kuwait",337.99
-"544",2009,"Oman",0
-"545",2009,"Saudi Arabia",68.97
-"546",2009,"United Arab Emirates",206.71
-"547",2009,"Yemen",647.82
-"548",2009,"Fiji",158.12
-"549",2009,"New Zealand",280.5
-"550",2009,"Papua New Guinea",159.51
-"551",2009,"World",13725.24
-"552",2010,"Mozambique",163.88
-"553",2010,"Nigeria",0.24
-"554",2010,"South Africa",90.23
-"555",2010,"Sudan",0
-"556",2010,"United Republic of Tanzania",245.25
-"557",2010,"Bangladesh",1049.43
-"558",2010,"Myanmar",175.33
-"559",2010,"China",530.35
-"560",2010,"India",137
-"561",2010,"Indonesia",3892.44
-"562",2010,"Japan",1174.54
-"563",2010,"Republic of Korea",1196.69
-"564",2010,"Malaysia",928.25
-"565",2010,"Philippines",735.61
-"566",2010,"Singapore",94.94
-"567",2010,"Taiwan",322.23
-"568",2010,"Thailand",661.38
-"569",2010,"Vietnam",1872.24
-"570",2010,"Islamic Republic of Iran",0
-"571",2010,"Iraq",906.35
-"572",2010,"Kuwait",371.82
-"573",2010,"Oman",158.79
-"574",2010,"Saudi Arabia",66.34
-"575",2010,"United Arab Emirates",353.49
-"576",2010,"Yemen",778.7
-"577",2010,"Fiji",148.82
-"578",2010,"New Zealand",349.27
-"579",2010,"Papua New Guinea",190.06
-"580",2010,"World",18431.21
-"581",2011,"Mozambique",140.9
-"582",2011,"Nigeria",48.82
-"583",2011,"South Africa",264.74
-"584",2011,"Sudan",0
-"585",2011,"United Republic of Tanzania",67.01
-"586",2011,"Bangladesh",259.08
-"587",2011,"Myanmar",178.76
-"588",2011,"China",1871.88
-"589",2011,"India",3.7
-"590",2011,"Indonesia",4065.83
-"591",2011,"Japan",1292.98
-"592",2011,"Republic of Korea",2342.78
-"593",2011,"Malaysia",894.12
-"594",2011,"Philippines",1576.92
-"595",2011,"Singapore",92.43
-"596",2011,"Taiwan",330.6
-"597",2011,"Thailand",1442.03
-"598",2011,"Vietnam",2508.91
-"599",2011,"Islamic Republic of Iran",208.09
-"600",2011,"Iraq",521.59
-"601",2011,"Kuwait",319.65
-"602",2011,"Oman",161.83
-"603",2011,"Saudi Arabia",348.7
-"604",2011,"United Arab Emirates",180.38
-"605",2011,"Yemen",841.09
-"606",2011,"Fiji",156.54
-"607",2011,"New Zealand",536.97
-"608",2011,"Papua New Guinea",170.02
-"609",2011,"World",23026.16
-"610",2012,"Mozambique",188.54
-"611",2012,"Nigeria",190.37
-"612",2012,"South Africa",254.77
-"613",2012,"Sudan",683.99
-"614",2012,"United Republic of Tanzania",190.86
-"615",2012,"Bangladesh",22
-"616",2012,"Myanmar",198.53
-"617",2012,"China",1235.42
-"618",2012,"India",8.91
-"619",2012,"Indonesia",4424.3
-"620",2012,"Japan",1178.31
-"621",2012,"Republic of Korea",1495.8
-"622",2012,"Malaysia",854.74
-"623",2012,"Philippines",994.34
-"624",2012,"Singapore",87.84
-"625",2012,"Taiwan",223.83
-"626",2012,"Thailand",475.29
-"627",2012,"Vietnam",1290.35
-"628",2012,"Islamic Republic of Iran",1292.45
-"629",2012,"Iraq",1771.24
-"630",2012,"Kuwait",319.79
-"631",2012,"Oman",157.9
-"632",2012,"Saudi Arabia",409.13
-"633",2012,"United Arab Emirates",181.77
-"634",2012,"Yemen",722.32
-"635",2012,"Fiji",183.72
-"636",2012,"New Zealand",418.95
-"637",2012,"Papua New Guinea",182.42
-"638",2012,"World",21264.77
-"639",2013,"Mozambique",111.09
-"640",2013,"Nigeria",554.25
-"641",2013,"South Africa",54.78
-"642",2013,"Sudan",815.39
-"643",2013,"United Republic of Tanzania",147.35
-"644",2013,"Bangladesh",52.5
-"645",2013,"Myanmar",281.54
-"646",2013,"China",1491
-"647",2013,"India",7.76
-"648",2013,"Indonesia",3719.87
-"649",2013,"Japan",882.06
-"650",2013,"Republic of Korea",910.31
-"651",2013,"Malaysia",957.34
-"652",2013,"Philippines",359.24
-"653",2013,"Singapore",118.94
-"654",2013,"Taiwan",253.36
-"655",2013,"Thailand",387.41
-"656",2013,"Vietnam",1469.51
-"657",2013,"Islamic Republic of Iran",848.7
-"658",2013,"Iraq",958.52
-"659",2013,"Kuwait",436.16
-"660",2013,"Oman",153.72
-"661",2013,"Saudi Arabia",376.56
-"662",2013,"United Arab Emirates",40.11
-"663",2013,"Yemen",1069.75
-"664",2013,"Fiji",160.13
-"665",2013,"New Zealand",497.66
-"666",2013,"Papua New Guinea",186.51
-"667",2013,"World",18336.33
-"668",2014,"Mozambique",37.25
-"669",2014,"Nigeria",436.42
-"670",2014,"South Africa",107.91
-"671",2014,"Sudan",295.91
-"672",2014,"United Republic of Tanzania",229.34
-"673",2014,"Bangladesh",151.11
-"674",2014,"Myanmar",241.55
-"675",2014,"China",930.13
-"676",2014,"India",248.95
-"677",2014,"Indonesia",4377.49
-"678",2014,"Japan",904.19
-"679",2014,"Republic of Korea",1048.01
-"680",2014,"Malaysia",906.28
-"681",2014,"Philippines",712.48
-"682",2014,"Singapore",95.78
-"683",2014,"Taiwan",239.56
-"684",2014,"Thailand",466.06
-"685",2014,"Vietnam",1261.97
-"686",2014,"Islamic Republic of Iran",268.58
-"687",2014,"Iraq",154.59
-"688",2014,"Kuwait",381.46
-"689",2014,"Oman",152.22
-"690",2014,"Saudi Arabia",12.92
-"691",2014,"United Arab Emirates",98.83
-"692",2014,"Yemen",927.56
-"693",2014,"Fiji",168.2
-"694",2014,"New Zealand",521.25
-"695",2014,"Papua New Guinea",213.15
-"696",2014,"World",16571.1
-"697",2015,"Mozambique",45.85
-"698",2015,"Nigeria",448
-"699",2015,"South Africa",44.04
-"700",2015,"Sudan",0
-"701",2015,"United Republic of Tanzania",0.1
-"702",2015,"Bangladesh",190.36
-"703",2015,"Myanmar",364.74
-"704",2015,"China",1366.15
-"705",2015,"India",233.79
-"706",2015,"Indonesia",3647.5
-"707",2015,"Japan",899.06
-"708",2015,"Republic of Korea",1203.24
-"709",2015,"Malaysia",834.7
-"710",2015,"Philippines",817.37
-"711",2015,"Singapore",125.55
-"712",2015,"Taiwan",205.54
-"713",2015,"Thailand",408.82
-"714",2015,"Vietnam",1327.52
-"715",2015,"Islamic Republic of Iran",102.23
-"716",2015,"Iraq",52.5
-"717",2015,"Kuwait",402.93
-"718",2015,"Oman",146.66
-"719",2015,"Saudi Arabia",16.34
-"720",2015,"United Arab Emirates",165.52
-"721",2015,"Yemen",914.63
-"722",2015,"Fiji",208.71
-"723",2015,"New Zealand",472.51
-"724",2015,"Papua New Guinea",216.79
-"725",2015,"World",15777.27
-"726",2016,"Mozambique",7.5
-"727",2016,"Nigeria",404.6
-"728",2016,"South Africa",14.38
-"729",2016,"Sudan",0
-"730",2016,"United Republic of Tanzania",0.76
-"731",2016,"Bangladesh",289.15
-"732",2016,"Myanmar",375.9
-"733",2016,"China",1858.61
-"734",2016,"India",2659.61
-"735",2016,"Indonesia",4833.39
-"736",2016,"Japan",969.78
-"737",2016,"Republic of Korea",1050.02
-"738",2016,"Malaysia",1065.26
-"739",2016,"Philippines",2055.34
-"740",2016,"Singapore",115.05
-"741",2016,"Taiwan",262.61
-"742",2016,"Thailand",431.63
-"743",2016,"Vietnam",2023.59
-"744",2016,"Islamic Republic of Iran",0
-"745",2016,"Iraq",0
-"746",2016,"Kuwait",465.82
-"747",2016,"Oman",109.22
-"748",2016,"Saudi Arabia",7.06
-"749",2016,"United Arab Emirates",330.53
-"750",2016,"Yemen",977.38
-"751",2016,"Fiji",177.78
-"752",2016,"New Zealand",481.15
-"753",2016,"Papua New Guinea",210.01
-"754",2016,"World",22057.07
-"755",2017,"Mozambique",0
-"756",2017,"Nigeria",470.29
-"757",2017,"South Africa",27.61
-"758",2017,"Sudan",0
-"759",2017,"United Republic of Tanzania",1.01
-"760",2017,"Bangladesh",308.72
-"761",2017,"Myanmar",327.04
-"762",2017,"China",1024.42
-"763",2017,"India",64.47
-"764",2017,"Indonesia",3306.42
-"765",2017,"Japan",924.07
-"766",2017,"Republic of Korea",1061.39
-"767",2017,"Malaysia",789.44
-"768",2017,"Philippines",1557.88
-"769",2017,"Singapore",101.31
-"770",2017,"Taiwan",226.76
-"771",2017,"Thailand",470.06
-"772",2017,"Vietnam",1371.13
-"773",2017,"Islamic Republic of Iran",0
-"774",2017,"Iraq",441.9
-"775",2017,"Kuwait",444.35
-"776",2017,"Oman",58.26
-"777",2017,"Saudi Arabia",13.95
-"778",2017,"United Arab Emirates",166.75
-"779",2017,"Yemen",609.77
-"780",2017,"Fiji",161.94
-"781",2017,"New Zealand",553.93
-"782",2017,"Papua New Guinea",252
-"783",2017,"World",15492.27
-"784",2018,"Mozambique",0
-"785",2018,"Nigeria",61
-"786",2018,"South Africa",0.14
-"787",2018,"Sudan",11
-"788",2018,"United Republic of Tanzania",1
-"789",2018,"Bangladesh",0
-"790",2018,"Myanmar",277.54
-"791",2018,"China",84.84
-"792",2018,"India",0.5
-"793",2018,"Indonesia",1138.38
-"794",2018,"Japan",949.73
-"795",2018,"Republic of Korea",1071.74
-"796",2018,"Malaysia",587.38
-"797",2018,"Philippines",1508.04
-"798",2018,"Singapore",104.32
-"799",2018,"Taiwan",74.05
-"800",2018,"Thailand",402.49
-"801",2018,"Vietnam",748.2
-"802",2018,"Islamic Republic of Iran",0
-"803",2018,"Iraq",465.21
-"804",2018,"Kuwait",448.63
-"805",2018,"Oman",104.97
-"806",2018,"Saudi Arabia",4.77
-"807",2018,"United Arab Emirates",107.23
-"808",2018,"Yemen",411.07
-"809",2018,"Fiji",179.15
-"810",2018,"New Zealand",456.77
-"811",2018,"Papua New Guinea",254.32
-"812",2018,"World",9805.22
-"813",2019,"Mozambique",0
-"814",2019,"Nigeria",0
-"815",2019,"South Africa",0.08
-"816",2019,"Sudan",0
-"817",2019,"United Republic of Tanzania",1.01
-"818",2019,"Bangladesh",31.51
-"819",2019,"Myanmar",237.02
-"820",2019,"China",1421.36
-"821",2019,"India",1.09
-"822",2019,"Indonesia",904.32
-"823",2019,"Japan",849.32
-"824",2019,"Republic of Korea",1126.53
-"825",2019,"Malaysia",423.28
-"826",2019,"Philippines",1002.74
-"827",2019,"Singapore",138.35
-"828",2019,"Taiwan",48
-"829",2019,"Thailand",480.8
-"830",2019,"Vietnam",898.24
-"831",2019,"Islamic Republic of Iran",0
-"832",2019,"Iraq",0
-"833",2019,"Kuwait",465.04
-"834",2019,"Oman",44
-"835",2019,"Saudi Arabia",8.33
-"836",2019,"United Arab Emirates",116.12
-"837",2019,"Yemen",588.73
-"838",2019,"Fiji",209.81
-"839",2019,"New Zealand",409.82
-"840",2019,"Papua New Guinea",224.64
-"841",2019,"World",10114.83
-"842",2020,"Mozambique",182.58
-"843",2020,"Nigeria",115.28
-"844",2020,"South Africa",589.42
-"845",2020,"Sudan",226.08
-"846",2020,"United Republic of Tanzania",147.74
-"847",2020,"Bangladesh",271.3
-"848",2020,"Myanmar",269.22
-"849",2020,"China",1711.94
-"850",2020,"India",0.1
-"851",2020,"Indonesia",3723.41
-"852",2020,"Japan",945.33
-"853",2020,"Republic of Korea",972.88
-"854",2020,"Malaysia",869.01
-"855",2020,"Philippines",1439.34
-"856",2020,"Singapore",75.58
-"857",2020,"Taiwan",143.8
-"858",2020,"Thailand",856.1
-"859",2020,"Vietnam",2367.56
-"860",2020,"Islamic Republic of Iran",0
-"861",2020,"Iraq",0
-"862",2020,"Kuwait",348.74
-"863",2020,"Oman",114.88
-"864",2020,"Saudi Arabia",435.35
-"865",2020,"United Arab Emirates",270.72
-"866",2020,"Yemen",704.94
-"867",2020,"Fiji",143.19
-"868",2020,"New Zealand",467.96
-"869",2020,"Papua New Guinea",263.13
-"870",2020,"World",19716.22
+,Year,Country,Export_Total
+1,1991,Mozambique,0
+2,1991,Nigeria,0
+3,1991,South Africa,0.27
+4,1991,Sudan,0
+5,1991,United Republic of Tanzania,0
+6,1991,Bangladesh,63.84
+7,1991,Myanmar,0
+8,1991,China,132.95
+9,1991,India,0
+10,1991,Indonesia,430.78
+11,1991,Japan,420.96
+12,1991,Republic of Korea,184.49
+13,1991,Malaysia,170.32
+14,1991,Philippines,4.26
+15,1991,Singapore,73.42
+16,1991,Taiwan,0
+17,1991,Thailand,47.41
+18,1991,Vietnam,53.11
+19,1991,Islamic Republic of Iran,561.08
+20,1991,Iraq,220
+21,1991,Kuwait,0
+22,1991,Oman,40.06
+23,1991,Saudi Arabia,0
+24,1991,United Arab Emirates,57.16
+25,1991,Yemen,226.33
+26,1991,Fiji,35.51
+27,1991,New Zealand,56.23
+28,1991,Papua New Guinea,54.81
+29,1991,World,8169.44
+30,1992,Mozambique,7.87
+31,1992,Nigeria,0
+32,1992,South Africa,0.2
+33,1992,Sudan,0
+34,1992,United Republic of Tanzania,0
+35,1992,Bangladesh,0
+36,1992,Myanmar,0
+37,1992,China,1.23
+38,1992,India,0
+39,1992,Indonesia,0.8
+40,1992,Japan,0.09
+41,1992,Republic of Korea,0
+42,1992,Malaysia,0.01
+43,1992,Philippines,0.03
+44,1992,Singapore,0.07
+45,1992,Taiwan,0
+46,1992,Thailand,0.11
+47,1992,Vietnam,16.54
+48,1992,Islamic Republic of Iran,0
+49,1992,Iraq,0
+50,1992,Kuwait,0.06
+51,1992,Oman,0
+52,1992,Saudi Arabia,0.03
+53,1992,United Arab Emirates,0.05
+54,1992,Yemen,0
+55,1992,Fiji,0.85
+56,1992,New Zealand,4.65
+57,1992,Papua New Guinea,0.01
+58,1992,World,9547.64
+59,1993,Mozambique,1.69
+60,1993,Nigeria,0
+61,1993,South Africa,0.3
+62,1993,Sudan,0
+63,1993,United Republic of Tanzania,0
+64,1993,Bangladesh,0
+65,1993,Myanmar,0
+66,1993,China,0
+67,1993,India,0
+68,1993,Indonesia,0.19
+69,1993,Japan,0.02
+70,1993,Republic of Korea,0
+71,1993,Malaysia,0
+72,1993,Philippines,0.03
+73,1993,Singapore,0.16
+74,1993,Taiwan,3
+75,1993,Thailand,0.13
+76,1993,Vietnam,0
+77,1993,Islamic Republic of Iran,0
+78,1993,Iraq,12.9
+79,1993,Kuwait,0.02
+80,1993,Oman,0
+81,1993,Saudi Arabia,0
+82,1993,United Arab Emirates,0.04
+83,1993,Yemen,0
+84,1993,Fiji,1.49
+85,1993,New Zealand,8.18
+86,1993,Papua New Guinea,0.01
+87,1993,World,12921.65
+88,1994,Mozambique,0
+89,1994,Nigeria,0
+90,1994,South Africa,0.33
+91,1994,Sudan,0
+92,1994,United Republic of Tanzania,0
+93,1994,Bangladesh,0
+94,1994,Myanmar,0
+95,1994,China,0.02
+96,1994,India,0
+97,1994,Indonesia,0.4
+98,1994,Japan,0.48
+99,1994,Republic of Korea,0.01
+100,1994,Malaysia,0.01
+101,1994,Philippines,7.27
+102,1994,Singapore,0.05
+103,1994,Taiwan,1.66
+104,1994,Thailand,0.12
+105,1994,Vietnam,8.97
+106,1994,Islamic Republic of Iran,0
+107,1994,Iraq,0
+108,1994,Kuwait,0
+109,1994,Oman,0
+110,1994,Saudi Arabia,0.12
+111,1994,United Arab Emirates,0.26
+112,1994,Yemen,2
+113,1994,Fiji,0.15
+114,1994,New Zealand,6.86
+115,1994,Papua New Guinea,0.01
+116,1994,World,7902.57
+117,1995,Mozambique,22.2
+118,1995,Nigeria,0
+119,1995,South Africa,119.45
+120,1995,Sudan,0
+121,1995,United Republic of Tanzania,47.97
+122,1995,Bangladesh,145.19
+123,1995,Myanmar,0.03
+124,1995,China,2237.14
+125,1995,India,25
+126,1995,Indonesia,1695.88
+127,1995,Japan,1135.19
+128,1995,Republic of Korea,700.11
+129,1995,Malaysia,676.44
+130,1995,Philippines,49.45
+131,1995,Singapore,66.18
+132,1995,Taiwan,34.65
+133,1995,Thailand,239.32
+134,1995,Vietnam,102.76
+135,1995,Islamic Republic of Iran,1578.81
+136,1995,Iraq,50.3
+137,1995,Kuwait,134.73
+138,1995,Oman,188.27
+139,1995,Saudi Arabia,0
+140,1995,United Arab Emirates,203.89
+141,1995,Yemen,274.9
+142,1995,Fiji,59.12
+143,1995,New Zealand,161.32
+144,1995,Papua New Guinea,87.34
+145,1995,World,12073.19
+146,1996,Mozambique,45.02
+147,1996,Nigeria,31.5
+148,1996,South Africa,229.78
+149,1996,Sudan,0
+150,1996,United Republic of Tanzania,76.94
+151,1996,Bangladesh,273.3
+152,1996,Myanmar,1.8
+153,1996,China,147.72
+154,1996,India,1390.09
+155,1996,Indonesia,2334.52
+156,1996,Japan,1303.94
+157,1996,Republic of Korea,697.93
+158,1996,Malaysia,730.29
+159,1996,Philippines,172.38
+160,1996,Singapore,63.75
+161,1996,Taiwan,63.53
+162,1996,Thailand,183.86
+163,1996,Vietnam,144
+164,1996,Islamic Republic of Iran,3632
+165,1996,Iraq,583.6
+166,1996,Kuwait,206.9
+167,1996,Oman,220.6
+168,1996,Saudi Arabia,0.06
+169,1996,United Arab Emirates,375.98
+170,1996,Yemen,470.1
+171,1996,Fiji,73.04
+172,1996,New Zealand,176.55
+173,1996,Papua New Guinea,96.86
+174,1996,World,18379.97
+175,1997,Mozambique,37.15
+176,1997,Nigeria,20
+177,1997,South Africa,131.12
+178,1997,Sudan,0
+179,1997,United Republic of Tanzania,78.72
+180,1997,Bangladesh,185.31
+181,1997,Myanmar,9.85
+182,1997,China,166.08
+183,1997,India,1941.32
+184,1997,Indonesia,2355.41
+185,1997,Japan,1171.15
+186,1997,Republic of Korea,770.81
+187,1997,Malaysia,678.7
+188,1997,Philippines,21.43
+189,1997,Singapore,82.82
+190,1997,Taiwan,29.28
+191,1997,Thailand,297.25
+192,1997,Vietnam,304.03
+193,1997,Islamic Republic of Iran,486.04
+194,1997,Iraq,1274.86
+195,1997,Kuwait,111.3
+196,1997,Oman,345.38
+197,1997,Saudi Arabia,0.35
+198,1997,United Arab Emirates,355.21
+199,1997,Yemen,619.95
+200,1997,Fiji,69.15
+201,1997,New Zealand,113.1
+202,1997,Papua New Guinea,129.96
+203,1997,World,15287.82
+204,1998,Mozambique,20.08
+205,1998,Nigeria,0
+206,1998,South Africa,196.14
+207,1998,Sudan,0
+208,1998,United Republic of Tanzania,186.9
+209,1998,Bangladesh,366.5
+210,1998,Myanmar,8.21
+211,1998,China,176.51
+212,1998,India,587.15
+213,1998,Indonesia,1724.35
+214,1998,Japan,1110.11
+215,1998,Republic of Korea,1137.76
+216,1998,Malaysia,837.99
+217,1998,Philippines,188.2
+218,1998,Singapore,114.77
+219,1998,Taiwan,51.03
+220,1998,Thailand,341.08
+221,1998,Vietnam,443.49
+222,1998,Islamic Republic of Iran,1608.26
+223,1998,Iraq,1179.34
+224,1998,Kuwait,228.83
+225,1998,Oman,187.26
+226,1998,Saudi Arabia,0.12
+227,1998,United Arab Emirates,519.48
+228,1998,Yemen,529.5
+229,1998,Fiji,79.01
+230,1998,New Zealand,110.1
+231,1998,Papua New Guinea,114.82
+232,1998,World,16442.14
+233,1999,Mozambique,19
+234,1999,Nigeria,0
+235,1999,South Africa,189.16
+236,1999,Sudan,0
+237,1999,United Republic of Tanzania,196.96
+238,1999,Bangladesh,476.1
+239,1999,Myanmar,21.24
+240,1999,China,136.35
+241,1999,India,445.97
+242,1999,Indonesia,1867.91
+243,1999,Japan,1189.27
+244,1999,Republic of Korea,1148.07
+245,1999,Malaysia,790.28
+246,1999,Philippines,376.31
+247,1999,Singapore,94.5
+248,1999,Taiwan,87.17
+249,1999,Thailand,295.65
+250,1999,Vietnam,446.81
+251,1999,Islamic Republic of Iran,1519.55
+252,1999,Iraq,2265.13
+253,1999,Kuwait,175.64
+254,1999,Oman,375.94
+255,1999,Saudi Arabia,0.04
+256,1999,United Arab Emirates,527.67
+257,1999,Yemen,587.62
+258,1999,Fiji,88.7
+259,1999,New Zealand,159.02
+260,1999,Papua New Guinea,148.1
+261,1999,World,17329.2
+262,2000,Mozambique,20.87
+263,2000,Nigeria,0
+264,2000,South Africa,140.64
+265,2000,Sudan,0
+266,2000,United Republic of Tanzania,338.53
+267,2000,Bangladesh,252.32
+268,2000,Myanmar,27.01
+269,2000,China,59.66
+270,2000,India,6.52
+271,2000,Indonesia,2191.59
+272,2000,Japan,1160.52
+273,2000,Republic of Korea,1138.65
+274,2000,Malaysia,774.71
+275,2000,Philippines,146.89
+276,2000,Singapore,97.61
+277,2000,Taiwan,50.41
+278,2000,Thailand,271.64
+279,2000,Vietnam,485.41
+280,2000,Islamic Republic of Iran,2351.66
+281,2000,Iraq,2586.86
+282,2000,Kuwait,180.19
+283,2000,Oman,136.26
+284,2000,Saudi Arabia,0.11
+285,2000,United Arab Emirates,398.73
+286,2000,Yemen,507.32
+287,2000,Fiji,93.48
+288,2000,New Zealand,190.59
+289,2000,Papua New Guinea,136.46
+290,2000,World,16621.08
+291,2001,Mozambique,9.99
+292,2001,Nigeria,0
+293,2001,South Africa,97.75
+294,2001,Sudan,0
+295,2001,United Republic of Tanzania,325.47
+296,2001,Bangladesh,132.86
+297,2001,Myanmar,44.68
+298,2001,China,46.08
+299,2001,India,0.32
+300,2001,Indonesia,2097.07
+301,2001,Japan,1194.92
+302,2001,Republic of Korea,952.79
+303,2001,Malaysia,681.57
+304,2001,Philippines,83.13
+305,2001,Singapore,94.76
+306,2001,Taiwan,39.73
+307,2001,Thailand,285.03
+308,2001,Vietnam,429.66
+309,2001,Islamic Republic of Iran,2419.91
+310,2001,Iraq,2245.1
+311,2001,Kuwait,230.32
+312,2001,Oman,113.79
+313,2001,Saudi Arabia,0.1
+314,2001,United Arab Emirates,226.4
+315,2001,Yemen,450.11
+316,2001,Fiji,102.46
+317,2001,New Zealand,304.65
+318,2001,Papua New Guinea,109.77
+319,2001,World,16464.77
+320,2002,Mozambique,48.43
+321,2002,Nigeria,0
+322,2002,South Africa,47.87
+323,2002,Sudan,0
+324,2002,United Republic of Tanzania,128.52
+325,2002,Bangladesh,129.55
+326,2002,Myanmar,9.97
+327,2002,China,38.39
+328,2002,India,0.03
+329,2002,Indonesia,1685.96
+330,2002,Japan,1134.07
+331,2002,Republic of Korea,1014.38
+332,2002,Malaysia,370.24
+333,2002,Philippines,90.09
+334,2002,Singapore,65.06
+335,2002,Taiwan,114.65
+336,2002,Thailand,291.1
+337,2002,Vietnam,253.97
+338,2002,Islamic Republic of Iran,1064.03
+339,2002,Iraq,1037.17
+340,2002,Kuwait,174.71
+341,2002,Oman,26.72
+342,2002,Saudi Arabia,0.03
+343,2002,United Arab Emirates,142.44
+344,2002,Yemen,411.83
+345,2002,Fiji,119.56
+346,2002,New Zealand,308.49
+347,2002,Papua New Guinea,129.73
+348,2002,World,10845.1
+349,2003,Mozambique,0
+350,2003,Nigeria,0
+351,2003,South Africa,247.16
+352,2003,Sudan,0
+353,2003,United Republic of Tanzania,124.08
+354,2003,Bangladesh,141.4
+355,2003,Myanmar,24.48
+356,2003,China,755.27
+357,2003,India,3.59
+358,2003,Indonesia,2647.34
+359,2003,Japan,1249.79
+360,2003,Republic of Korea,1064.95
+361,2003,Malaysia,737.01
+362,2003,Philippines,147.24
+363,2003,Singapore,47.85
+364,2003,Taiwan,48.63
+365,2003,Thailand,422.37
+366,2003,Vietnam,407.74
+367,2003,Islamic Republic of Iran,0
+368,2003,Iraq,1110.8
+369,2003,Kuwait,258.86
+370,2003,Oman,90.73
+371,2003,Saudi Arabia,0.01
+372,2003,United Arab Emirates,196.35
+373,2003,Yemen,197.58
+374,2003,Fiji,122.43
+375,2003,New Zealand,313.54
+376,2003,Papua New Guinea,98.55
+377,2003,World,15074.45
+378,2004,Mozambique,0
+379,2004,Nigeria,0
+380,2004,South Africa,183.38
+381,2004,Sudan,0
+382,2004,United Republic of Tanzania,61.87
+383,2004,Bangladesh,162.01
+384,2004,Myanmar,88.91
+385,2004,China,1893.02
+386,2004,India,0.08
+387,2004,Indonesia,2720.34
+388,2004,Japan,1171.5
+389,2004,Republic of Korea,1212.8
+390,2004,Malaysia,887.83
+391,2004,Philippines,130.93
+392,2004,Singapore,118.38
+393,2004,Taiwan,125.43
+394,2004,Thailand,477.99
+395,2004,Vietnam,529.7
+396,2004,Islamic Republic of Iran,0
+397,2004,Iraq,1549.83
+398,2004,Kuwait,305.17
+399,2004,Oman,63.49
+400,2004,Saudi Arabia,0
+401,2004,United Arab Emirates,240.75
+402,2004,Yemen,314.34
+403,2004,Fiji,133.88
+404,2004,New Zealand,339.15
+405,2004,Papua New Guinea,134.02
+406,2004,World,15779.55
+407,2005,Mozambique,23.16
+408,2005,Nigeria,0
+409,2005,South Africa,84.94
+410,2005,Sudan,0
+411,2005,United Republic of Tanzania,0
+412,2005,Bangladesh,179.25
+413,2005,Myanmar,108.14
+414,2005,China,302.53
+415,2005,India,93.28
+416,2005,Indonesia,3015.96
+417,2005,Japan,1105.89
+418,2005,Republic of Korea,1002
+419,2005,Malaysia,780.08
+420,2005,Philippines,119.53
+421,2005,Singapore,68.18
+422,2005,Taiwan,176.2
+423,2005,Thailand,544.57
+424,2005,Vietnam,680.78
+425,2005,Islamic Republic of Iran,424.72
+426,2005,Iraq,715
+427,2005,Kuwait,341.35
+428,2005,Oman,85.62
+429,2005,Saudi Arabia,0
+430,2005,United Arab Emirates,525.41
+431,2005,Yemen,499.19
+432,2005,Fiji,131.28
+433,2005,New Zealand,313.1
+434,2005,Papua New Guinea,154.69
+435,2005,World,15168.02
+436,2006,Mozambique,0
+437,2006,Nigeria,64.07
+438,2006,South Africa,0
+439,2006,Sudan,0
+440,2006,United Republic of Tanzania,0
+441,2006,Bangladesh,2.76
+442,2006,Myanmar,76.58
+443,2006,China,183.27
+444,2006,India,1592.53
+445,2006,Indonesia,2574.41
+446,2006,Japan,1113.8
+447,2006,Republic of Korea,989.45
+448,2006,Malaysia,628.5
+449,2006,Philippines,93.6
+450,2006,Singapore,69.5
+451,2006,Taiwan,104.98
+452,2006,Thailand,192.25
+453,2006,Vietnam,479.08
+454,2006,Islamic Republic of Iran,40.58
+455,2006,Iraq,361.7
+456,2006,Kuwait,249.75
+457,2006,Oman,0
+458,2006,Saudi Arabia,0
+459,2006,United Arab Emirates,99.07
+460,2006,Yemen,385.11
+461,2006,Fiji,145.74
+462,2006,New Zealand,349.78
+463,2006,Papua New Guinea,147.96
+464,2006,World,11196.38
+465,2007,Mozambique,0
+466,2007,Nigeria,0.43
+467,2007,South Africa,0
+468,2007,Sudan,0
+469,2007,United Republic of Tanzania,0
+470,2007,Bangladesh,64.69
+471,2007,Myanmar,54.86
+472,2007,China,2.43
+473,2007,India,9.23
+474,2007,Indonesia,1607.56
+475,2007,Japan,877.97
+476,2007,Republic of Korea,694.35
+477,2007,Malaysia,622.56
+478,2007,Philippines,50.92
+479,2007,Singapore,75.43
+480,2007,Taiwan,161.31
+481,2007,Thailand,255.37
+482,2007,Vietnam,431.82
+483,2007,Islamic Republic of Iran,0
+484,2007,Iraq,198.2
+485,2007,Kuwait,232.51
+486,2007,Oman,0
+487,2007,Saudi Arabia,1.31
+488,2007,United Arab Emirates,144.41
+489,2007,Yemen,407.84
+490,2007,Fiji,132.45
+491,2007,New Zealand,275.43
+492,2007,Papua New Guinea,153.4
+493,2007,World,7407.73
+494,2008,Mozambique,28.76
+495,2008,Nigeria,0.36
+496,2008,South Africa,76.75
+497,2008,Sudan,0
+498,2008,United Republic of Tanzania,64.87
+499,2008,Bangladesh,337.39
+500,2008,Myanmar,87.68
+501,2008,China,231.36
+502,2008,India,1.17
+503,2008,Indonesia,2727.8
+504,2008,Japan,791.33
+505,2008,Republic of Korea,712.17
+506,2008,Malaysia,793.4
+507,2008,Philippines,214.24
+508,2008,Singapore,84.98
+509,2008,Taiwan,245.83
+510,2008,Thailand,336.36
+511,2008,Vietnam,790.19
+512,2008,Islamic Republic of Iran,1576.51
+513,2008,Iraq,530.6
+514,2008,Kuwait,250.81
+515,2008,Oman,42.33
+516,2008,Saudi Arabia,66.42
+517,2008,United Arab Emirates,256.16
+518,2008,Yemen,714
+519,2008,Fiji,123
+520,2008,New Zealand,265.58
+521,2008,Papua New Guinea,135.09
+522,2008,World,13409.83
+523,2009,Mozambique,11.5
+524,2009,Nigeria,0.21
+525,2009,South Africa,45.85
+526,2009,Sudan,0
+527,2009,United Republic of Tanzania,79.5
+528,2009,Bangladesh,442.83
+529,2009,Myanmar,164.12
+530,2009,China,745.2
+531,2009,India,239.58
+532,2009,Indonesia,2853.56
+533,2009,Japan,1109.52
+534,2009,Republic of Korea,825.88
+535,2009,Malaysia,756.25
+536,2009,Philippines,98.43
+537,2009,Singapore,82.6
+538,2009,Taiwan,292.67
+539,2009,Thailand,442.12
+540,2009,Vietnam,1174.34
+541,2009,Islamic Republic of Iran,61.36
+542,2009,Iraq,634.51
+543,2009,Kuwait,337.99
+544,2009,Oman,0
+545,2009,Saudi Arabia,68.97
+546,2009,United Arab Emirates,206.71
+547,2009,Yemen,647.82
+548,2009,Fiji,158.12
+549,2009,New Zealand,280.5
+550,2009,Papua New Guinea,159.51
+551,2009,World,13725.24
+552,2010,Mozambique,163.88
+553,2010,Nigeria,0.24
+554,2010,South Africa,90.23
+555,2010,Sudan,0
+556,2010,United Republic of Tanzania,245.25
+557,2010,Bangladesh,1049.43
+558,2010,Myanmar,175.33
+559,2010,China,530.35
+560,2010,India,137
+561,2010,Indonesia,3892.44
+562,2010,Japan,1174.54
+563,2010,Republic of Korea,1196.69
+564,2010,Malaysia,928.25
+565,2010,Philippines,735.61
+566,2010,Singapore,94.94
+567,2010,Taiwan,322.23
+568,2010,Thailand,661.38
+569,2010,Vietnam,1872.24
+570,2010,Islamic Republic of Iran,0
+571,2010,Iraq,906.35
+572,2010,Kuwait,371.82
+573,2010,Oman,158.79
+574,2010,Saudi Arabia,66.34
+575,2010,United Arab Emirates,353.49
+576,2010,Yemen,778.7
+577,2010,Fiji,148.82
+578,2010,New Zealand,349.27
+579,2010,Papua New Guinea,190.06
+580,2010,World,18431.21
+581,2011,Mozambique,140.9
+582,2011,Nigeria,48.82
+583,2011,South Africa,264.74
+584,2011,Sudan,0
+585,2011,United Republic of Tanzania,67.01
+586,2011,Bangladesh,259.08
+587,2011,Myanmar,178.76
+588,2011,China,1871.88
+589,2011,India,3.7
+590,2011,Indonesia,4065.83
+591,2011,Japan,1292.98
+592,2011,Republic of Korea,2342.78
+593,2011,Malaysia,894.12
+594,2011,Philippines,1576.92
+595,2011,Singapore,92.43
+596,2011,Taiwan,330.6
+597,2011,Thailand,1442.03
+598,2011,Vietnam,2508.91
+599,2011,Islamic Republic of Iran,208.09
+600,2011,Iraq,521.59
+601,2011,Kuwait,319.65
+602,2011,Oman,161.83
+603,2011,Saudi Arabia,348.7
+604,2011,United Arab Emirates,180.38
+605,2011,Yemen,841.09
+606,2011,Fiji,156.54
+607,2011,New Zealand,536.97
+608,2011,Papua New Guinea,170.02
+609,2011,World,23026.16
+610,2012,Mozambique,188.54
+611,2012,Nigeria,190.37
+612,2012,South Africa,254.77
+613,2012,Sudan,683.99
+614,2012,United Republic of Tanzania,190.86
+615,2012,Bangladesh,22
+616,2012,Myanmar,198.53
+617,2012,China,1235.42
+618,2012,India,8.91
+619,2012,Indonesia,4424.3
+620,2012,Japan,1178.31
+621,2012,Republic of Korea,1495.8
+622,2012,Malaysia,854.74
+623,2012,Philippines,994.34
+624,2012,Singapore,87.84
+625,2012,Taiwan,223.83
+626,2012,Thailand,475.29
+627,2012,Vietnam,1290.35
+628,2012,Islamic Republic of Iran,1292.45
+629,2012,Iraq,1771.24
+630,2012,Kuwait,319.79
+631,2012,Oman,157.9
+632,2012,Saudi Arabia,409.13
+633,2012,United Arab Emirates,181.77
+634,2012,Yemen,722.32
+635,2012,Fiji,183.72
+636,2012,New Zealand,418.95
+637,2012,Papua New Guinea,182.42
+638,2012,World,21264.77
+639,2013,Mozambique,111.09
+640,2013,Nigeria,554.25
+641,2013,South Africa,54.78
+642,2013,Sudan,815.39
+643,2013,United Republic of Tanzania,147.35
+644,2013,Bangladesh,52.5
+645,2013,Myanmar,281.54
+646,2013,China,1491
+647,2013,India,7.76
+648,2013,Indonesia,3719.87
+649,2013,Japan,882.06
+650,2013,Republic of Korea,910.31
+651,2013,Malaysia,957.34
+652,2013,Philippines,359.24
+653,2013,Singapore,118.94
+654,2013,Taiwan,253.36
+655,2013,Thailand,387.41
+656,2013,Vietnam,1469.51
+657,2013,Islamic Republic of Iran,848.7
+658,2013,Iraq,958.52
+659,2013,Kuwait,436.16
+660,2013,Oman,153.72
+661,2013,Saudi Arabia,376.56
+662,2013,United Arab Emirates,40.11
+663,2013,Yemen,1069.75
+664,2013,Fiji,160.13
+665,2013,New Zealand,497.66
+666,2013,Papua New Guinea,186.51
+667,2013,World,18336.33
+668,2014,Mozambique,37.25
+669,2014,Nigeria,436.42
+670,2014,South Africa,107.91
+671,2014,Sudan,295.91
+672,2014,United Republic of Tanzania,229.34
+673,2014,Bangladesh,151.11
+674,2014,Myanmar,241.55
+675,2014,China,930.13
+676,2014,India,248.95
+677,2014,Indonesia,4377.49
+678,2014,Japan,904.19
+679,2014,Republic of Korea,1048.01
+680,2014,Malaysia,906.28
+681,2014,Philippines,712.48
+682,2014,Singapore,95.78
+683,2014,Taiwan,239.56
+684,2014,Thailand,466.06
+685,2014,Vietnam,1261.97
+686,2014,Islamic Republic of Iran,268.58
+687,2014,Iraq,154.59
+688,2014,Kuwait,381.46
+689,2014,Oman,152.22
+690,2014,Saudi Arabia,12.92
+691,2014,United Arab Emirates,98.83
+692,2014,Yemen,927.56
+693,2014,Fiji,168.2
+694,2014,New Zealand,521.25
+695,2014,Papua New Guinea,213.15
+696,2014,World,16571.1
+697,2015,Mozambique,45.85
+698,2015,Nigeria,448
+699,2015,South Africa,44.04
+700,2015,Sudan,0
+701,2015,United Republic of Tanzania,0.1
+702,2015,Bangladesh,190.36
+703,2015,Myanmar,364.74
+704,2015,China,1366.15
+705,2015,India,233.79
+706,2015,Indonesia,3647.5
+707,2015,Japan,899.06
+708,2015,Republic of Korea,1203.24
+709,2015,Malaysia,834.7
+710,2015,Philippines,817.37
+711,2015,Singapore,125.55
+712,2015,Taiwan,205.54
+713,2015,Thailand,408.82
+714,2015,Vietnam,1327.52
+715,2015,Islamic Republic of Iran,102.23
+716,2015,Iraq,52.5
+717,2015,Kuwait,402.93
+718,2015,Oman,146.66
+719,2015,Saudi Arabia,16.34
+720,2015,United Arab Emirates,165.52
+721,2015,Yemen,914.63
+722,2015,Fiji,208.71
+723,2015,New Zealand,472.51
+724,2015,Papua New Guinea,216.79
+725,2015,World,15777.27
+726,2016,Mozambique,7.5
+727,2016,Nigeria,404.6
+728,2016,South Africa,14.38
+729,2016,Sudan,0
+730,2016,United Republic of Tanzania,0.76
+731,2016,Bangladesh,289.15
+732,2016,Myanmar,375.9
+733,2016,China,1858.61
+734,2016,India,2659.61
+735,2016,Indonesia,4833.39
+736,2016,Japan,969.78
+737,2016,Republic of Korea,1050.02
+738,2016,Malaysia,1065.26
+739,2016,Philippines,2055.34
+740,2016,Singapore,115.05
+741,2016,Taiwan,262.61
+742,2016,Thailand,431.63
+743,2016,Vietnam,2023.59
+744,2016,Islamic Republic of Iran,0
+745,2016,Iraq,0
+746,2016,Kuwait,465.82
+747,2016,Oman,109.22
+748,2016,Saudi Arabia,7.06
+749,2016,United Arab Emirates,330.53
+750,2016,Yemen,977.38
+751,2016,Fiji,177.78
+752,2016,New Zealand,481.15
+753,2016,Papua New Guinea,210.01
+754,2016,World,22057.07
+755,2017,Mozambique,0
+756,2017,Nigeria,470.29
+757,2017,South Africa,27.61
+758,2017,Sudan,0
+759,2017,United Republic of Tanzania,1.01
+760,2017,Bangladesh,308.72
+761,2017,Myanmar,327.04
+762,2017,China,1024.42
+763,2017,India,64.47
+764,2017,Indonesia,3306.42
+765,2017,Japan,924.07
+766,2017,Republic of Korea,1061.39
+767,2017,Malaysia,789.44
+768,2017,Philippines,1557.88
+769,2017,Singapore,101.31
+770,2017,Taiwan,226.76
+771,2017,Thailand,470.06
+772,2017,Vietnam,1371.13
+773,2017,Islamic Republic of Iran,0
+774,2017,Iraq,441.9
+775,2017,Kuwait,444.35
+776,2017,Oman,58.26
+777,2017,Saudi Arabia,13.95
+778,2017,United Arab Emirates,166.75
+779,2017,Yemen,609.77
+780,2017,Fiji,161.94
+781,2017,New Zealand,553.93
+782,2017,Papua New Guinea,252
+783,2017,World,15492.27
+784,2018,Mozambique,0
+785,2018,Nigeria,61
+786,2018,South Africa,0.14
+787,2018,Sudan,11
+788,2018,United Republic of Tanzania,1
+789,2018,Bangladesh,0
+790,2018,Myanmar,277.54
+791,2018,China,84.84
+792,2018,India,0.5
+793,2018,Indonesia,1138.38
+794,2018,Japan,949.73
+795,2018,Republic of Korea,1071.74
+796,2018,Malaysia,587.38
+797,2018,Philippines,1508.04
+798,2018,Singapore,104.32
+799,2018,Taiwan,74.05
+800,2018,Thailand,402.49
+801,2018,Vietnam,748.2
+802,2018,Islamic Republic of Iran,0
+803,2018,Iraq,465.21
+804,2018,Kuwait,448.63
+805,2018,Oman,104.97
+806,2018,Saudi Arabia,4.77
+807,2018,United Arab Emirates,107.23
+808,2018,Yemen,411.07
+809,2018,Fiji,179.15
+810,2018,New Zealand,456.77
+811,2018,Papua New Guinea,254.32
+812,2018,World,9805.22
+813,2019,Mozambique,0
+814,2019,Nigeria,0
+815,2019,South Africa,0.08
+816,2019,Sudan,0
+817,2019,United Republic of Tanzania,1.01
+818,2019,Bangladesh,31.51
+819,2019,Myanmar,237.02
+820,2019,China,1421.36
+821,2019,India,1.09
+822,2019,Indonesia,904.32
+823,2019,Japan,849.32
+824,2019,Republic of Korea,1126.53
+825,2019,Malaysia,423.28
+826,2019,Philippines,1002.74
+827,2019,Singapore,138.35
+828,2019,Taiwan,48
+829,2019,Thailand,480.8
+830,2019,Vietnam,898.24
+831,2019,Islamic Republic of Iran,0
+832,2019,Iraq,0
+833,2019,Kuwait,465.04
+834,2019,Oman,44
+835,2019,Saudi Arabia,8.33
+836,2019,United Arab Emirates,116.12
+837,2019,Yemen,588.73
+838,2019,Fiji,209.81
+839,2019,New Zealand,409.82
+840,2019,Papua New Guinea,224.64
+841,2019,World,10114.83
+842,2020,Mozambique,182.58
+843,2020,Nigeria,115.28
+844,2020,South Africa,589.42
+845,2020,Sudan,226.08
+846,2020,United Republic of Tanzania,147.74
+847,2020,Bangladesh,271.3
+848,2020,Myanmar,269.22
+849,2020,China,1711.94
+850,2020,India,0.1
+851,2020,Indonesia,3723.41
+852,2020,Japan,945.33
+853,2020,Republic of Korea,972.88
+854,2020,Malaysia,869.01
+855,2020,Philippines,1439.34
+856,2020,Singapore,75.58
+857,2020,Taiwan,143.8
+858,2020,Thailand,856.1
+859,2020,Vietnam,2367.56
+860,2020,Islamic Republic of Iran,0
+861,2020,Iraq,0
+862,2020,Kuwait,348.74
+863,2020,Oman,114.88
+864,2020,Saudi Arabia,435.35
+865,2020,United Arab Emirates,270.72
+866,2020,Yemen,704.94
+867,2020,Fiji,143.19
+868,2020,New Zealand,467.96
+869,2020,Papua New Guinea,263.13
+870,2020,World,19716.22
