@@ -1,27 +1,27 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "data": {"url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Crop_Value.csv"},
+    "params": [
+    {
+      "name": "Year",
+      "value": 2020,
+      "bind": {
+        "input": "range",
+        "min": 1979,
+        "max": 2020,
+        "step": 1,
+        "name": "Year: "
+      }
+    }
+  ],
   "width": 360,
   "height": 300,
-  "mark": "area",
-  "encoding": {
-    "x": {
-      "timeUnit": "yearmonth",
-      "field": "Year",
-      "title": "Year",
-      "axis": {"format": "%Y"}
-    },
-    "y": {
-      "aggregate": "sum",
-      "field": "Industry_Value",
-      "title":"% of Cropping Industry value",
-      "stack":"normalize"
-    },
-    "tooltip": [
-      {"field": "Commodity", "type": "nominal", "title":"Commodity"},
-      {"field": "sum_Industry_Value", "type": "quantitative", "title":"Proportion of total crop value"},
-      {"field": "Year", "type": "temporal"}
-      ],
-    "color": {"field": "Commodity", "scale": {"scheme": "category20b"}}
-  }
+  "layer":[{
+     "mark": {"type":"arc", "tooltip": true},
+        "encoding": {
+          "theta": {"field": "Industry_Value", "type": "quantitative"},
+          "color": {"field": "Commodity", "type": "nominal", "scale": {"scheme": "category20b"}}
+        },
+    "transform":[{    
+        "filter": "datum.Year == Year"}]}]
 }
