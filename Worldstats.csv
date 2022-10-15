@@ -1,466 +1,2326 @@
-﻿Year,World,Country_total
-1990,12000.16,23
-1991,8169.44,20
-1992,9547.64,16
-1993,12921.65,15
-1994,7902.57,17
-1995,12073.19,26
-1996,18379.97,29
-1997,15287.82,29
-1998,16442.14,28
-1999,17329.20,28
-2000,16621.08,28
-2001,16464.77,28
-2002,10845.10,28
-2003,15074.45,26
-2004,15779.55,25
-2005,15168.02,26
-2006,11196.38,24
-2007,7407.73,24
-2008,13409.83,29
-2009,13725.24,28
-2010,18431.21,28
-2011,23026.16,29
-2012,21264.77,29
-2013,18336.33,29
-2014,16571.10,29
-2015,15777.27,28
-2016,22057.07,26
-2017,15492.27,26
-2018,9805.22,26
-2019,10114.83,24
-2020,19716.22,27
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
+"","Year","Region","Export_Total"
+"1",1990,"Asia",5510.032465
+"2",1990,"Africa",1666.191691
+"3",1990,"Pacific",272.896915
+"4",1990,"Middle East",2964.639732
+"5",1990,"World",12000.15622
+"6",1991,"Asia",1581.537075
+"7",1991,"Africa",566.9709
+"8",1991,"Pacific",146.550943
+"9",1991,"Middle East",1104.624026
+"10",1991,"World",8169.443164
+"11",1992,"Asia",18.86085
+"12",1992,"Africa",8.07282
+"13",1992,"Pacific",5.513806
+"14",1992,"Middle East",0.07611
+"15",1992,"World",9547.638181
+"16",1993,"Asia",3.528131
+"17",1993,"Africa",1.98789
+"18",1993,"Pacific",9.684128
+"19",1993,"Middle East",12.93612
+"20",1993,"World",12921.65056
+"21",1994,"Asia",18.990037
+"22",1994,"Africa",0.32508
+"23",1994,"Pacific",7.021063
+"24",1994,"Middle East",2.376825
+"25",1994,"World",7902.566279
+"26",1995,"Asia",7107.341393
+"27",1995,"Africa",934.07464
+"28",1995,"Pacific",307.77992
+"29",1995,"Middle East",2296.167389
+"30",1995,"World",12073.1901
+"31",1996,"Asia",7507.100652
+"32",1996,"Africa",2142.80859
+"33",1996,"Pacific",346.452234
+"34",1996,"Middle East",5282.33896
+"35",1996,"World",18379.96529
+"36",1997,"Asia",8013.436159
+"37",1997,"Africa",1000.37376
+"38",1997,"Pacific",312.200739
+"39",1997,"Middle East",3081.79274
+"40",1997,"World",15287.81877
+"41",1998,"Asia",7087.140421
+"42",1998,"Africa",2094.81244
+"43",1998,"Pacific",303.93591
+"44",1998,"Middle East",4023.9482
+"45",1998,"World",16442.14356
+"46",1999,"Asia",7375.618735
+"47",1999,"Africa",1706.85466
+"48",1999,"Pacific",395.815031
+"49",1999,"Middle East",5275.94464
+"50",1999,"World",17329.19943
+"51",2000,"Asia",6662.935595
+"52",2000,"Africa",1846.68874
+"53",2000,"Pacific",420.525961
+"54",2000,"Middle East",5980.9485
+"55",2000,"World",16621.0847
+"56",2001,"Asia",6082.588757
+"57",2001,"Africa",2563.68844
+"58",2001,"Pacific",516.879914
+"59",2001,"Middle East",5455.40251
+"60",2001,"World",16464.77181
+"61",2002,"Asia",5197.454592
+"62",2002,"Africa",1278.8718
+"63",2002,"Pacific",557.790782
+"64",2002,"Middle East",2682.2212
+"65",2002,"World",10845.09899
+"66",2003,"Asia",7697.637379
+"67",2003,"Africa",3581.618
+"68",2003,"Pacific",534.517733
+"69",2003,"Middle East",1595.45929
+"70",2003,"World",15074.45161
+"71",2004,"Asia",9518.915224
+"72",2004,"Africa",1754.955
+"73",2004,"Pacific",607.046567
+"74",2004,"Middle East",2168.41215
+"75",2004,"World",15779.55001
+"76",2005,"Asia",8176.397243
+"77",2005,"Africa",2999.589
+"78",2005,"Pacific",599.072072
+"79",2005,"Middle East",2249.93303
+"80",2005,"World",15168.01841
+"81",2006,"Asia",8100.721437
+"82",2006,"Africa",968.816
+"83",2006,"Pacific",643.480958
+"84",2006,"Middle East",886.458
+"85",2006,"World",11196.37996
+"86",2007,"Asia",4908.500372
+"87",2007,"Africa",743.092
+"88",2007,"Pacific",561.284097
+"89",2007,"Middle East",751.75
+"90",2007,"World",7407.729313
+"91",2008,"Asia",7353.92099
+"92",2008,"Africa",1310.456
+"93",2008,"Pacific",523.669132
+"94",2008,"Middle East",3186.001
+"95",2008,"World",13409.82658
+"96",2009,"Asia",9227.103993
+"97",2009,"Africa",1301.9478
+"98",2009,"Pacific",598.128191
+"99",2009,"Middle East",1619.362
+"100",2009,"World",13725.24453
+"101",2010,"Asia",12770.42737
+"102",2010,"Africa",1735.20622
+"103",2010,"Pacific",688.146007
+"104",2010,"Middle East",2263.662
+"105",2010,"World",18431.20861
+"106",2011,"Asia",16860.013
+"107",2011,"Africa",1949.821
+"108",2011,"Pacific",863.537501
+"109",2011,"Middle East",2261.674
+"110",2011,"World",23026.15741
+"111",2012,"Asia",12489.66638
+"112",2012,"Africa",2261.015
+"113",2012,"Pacific",785.09126
+"114",2012,"Middle East",4534.817
+"115",2012,"World",21264.76982
+"116",2013,"Asia",10890.8352
+"117",2013,"Africa",1958.16566
+"118",2013,"Pacific",844.3015
+"119",2013,"Middle East",3447.36716
+"120",2013,"World",18336.33499
+"121",2014,"Asia",11583.5421
+"122",2014,"Africa",1534.10235
+"123",2014,"Pacific",902.58906
+"124",2014,"Middle East",1614.703
+"125",2014,"World",16571.09656
+"126",2015,"Asia",11624.33451
+"127",2015,"Africa",826.1472
+"128",2015,"Pacific",898.01114
+"129",2015,"Middle East",1397.87807
+"130",2015,"World",15777.26623
+"131",2016,"Asia",17989.93389
+"132",2016,"Africa",562.68885
+"133",2016,"Pacific",868.94101
+"134",2016,"Middle East",1424.19659
+"135",2016,"World",22057.07296
+"136",2017,"Asia",11533.10445
+"137",2017,"Africa",670.91723
+"138",2017,"Pacific",967.87094
+"139",2017,"Middle East",1290.63
+"140",2017,"World",15492.27054
+"141",2018,"Asia",6947.19692
+"142",2018,"Africa",180.20603
+"143",2018,"Pacific",890.23181
+"144",2018,"Middle East",1093.249
+"145",2018,"World",9805.21859
+"146",2019,"Asia",7562.556684
+"147",2019,"Africa",217.5420356
+"148",2019,"Pacific",844.2754581
+"149",2019,"Middle East",757.18475
+"150",2019,"World",10114.82801
+"151",2020,"Asia",13645.56407
+"152",2020,"Africa",1589.892788
+"153",2020,"Pacific",874.2776148
+"154",2020,"Middle East",1525.890674
+"155",2020,"World",19716.22337
+"156",1990,"Asia",NA
+"157",1990,"Africa",NA
+"158",1990,"Pacific",NA
+"159",1990,"Middle East",NA
+"160",1990,"World",NA
+"161",1991,"Asia",NA
+"162",1991,"Africa",NA
+"163",1991,"Pacific",NA
+"164",1991,"Middle East",NA
+"165",1991,"World",NA
+"166",1992,"Asia",NA
+"167",1992,"Africa",NA
+"168",1992,"Pacific",NA
+"169",1992,"Middle East",NA
+"170",1992,"World",NA
+"171",1993,"Asia",NA
+"172",1993,"Africa",NA
+"173",1993,"Pacific",NA
+"174",1993,"Middle East",NA
+"175",1993,"World",NA
+"176",1994,"Asia",NA
+"177",1994,"Africa",NA
+"178",1994,"Pacific",NA
+"179",1994,"Middle East",NA
+"180",1994,"World",NA
+"181",1995,"Asia",NA
+"182",1995,"Africa",NA
+"183",1995,"Pacific",NA
+"184",1995,"Middle East",NA
+"185",1995,"World",NA
+"186",1996,"Asia",NA
+"187",1996,"Africa",NA
+"188",1996,"Pacific",NA
+"189",1996,"Middle East",NA
+"190",1996,"World",NA
+"191",1997,"Asia",NA
+"192",1997,"Africa",NA
+"193",1997,"Pacific",NA
+"194",1997,"Middle East",NA
+"195",1997,"World",NA
+"196",1998,"Asia",NA
+"197",1998,"Africa",NA
+"198",1998,"Pacific",NA
+"199",1998,"Middle East",NA
+"200",1998,"World",NA
+"201",1999,"Asia",NA
+"202",1999,"Africa",NA
+"203",1999,"Pacific",NA
+"204",1999,"Middle East",NA
+"205",1999,"World",NA
+"206",2000,"Asia",NA
+"207",2000,"Africa",NA
+"208",2000,"Pacific",NA
+"209",2000,"Middle East",NA
+"210",2000,"World",NA
+"211",2001,"Asia",NA
+"212",2001,"Africa",NA
+"213",2001,"Pacific",NA
+"214",2001,"Middle East",NA
+"215",2001,"World",NA
+"216",2002,"Asia",NA
+"217",2002,"Africa",NA
+"218",2002,"Pacific",NA
+"219",2002,"Middle East",NA
+"220",2002,"World",NA
+"221",2003,"Asia",NA
+"222",2003,"Africa",NA
+"223",2003,"Pacific",NA
+"224",2003,"Middle East",NA
+"225",2003,"World",NA
+"226",2004,"Asia",NA
+"227",2004,"Africa",NA
+"228",2004,"Pacific",NA
+"229",2004,"Middle East",NA
+"230",2004,"World",NA
+"231",2005,"Asia",NA
+"232",2005,"Africa",NA
+"233",2005,"Pacific",NA
+"234",2005,"Middle East",NA
+"235",2005,"World",NA
+"236",2006,"Asia",NA
+"237",2006,"Africa",NA
+"238",2006,"Pacific",NA
+"239",2006,"Middle East",NA
+"240",2006,"World",NA
+"241",2007,"Asia",NA
+"242",2007,"Africa",NA
+"243",2007,"Pacific",NA
+"244",2007,"Middle East",NA
+"245",2007,"World",NA
+"246",2008,"Asia",NA
+"247",2008,"Africa",NA
+"248",2008,"Pacific",NA
+"249",2008,"Middle East",NA
+"250",2008,"World",NA
+"251",2009,"Asia",NA
+"252",2009,"Africa",NA
+"253",2009,"Pacific",NA
+"254",2009,"Middle East",NA
+"255",2009,"World",NA
+"256",2010,"Asia",NA
+"257",2010,"Africa",NA
+"258",2010,"Pacific",NA
+"259",2010,"Middle East",NA
+"260",2010,"World",NA
+"261",2011,"Asia",NA
+"262",2011,"Africa",NA
+"263",2011,"Pacific",NA
+"264",2011,"Middle East",NA
+"265",2011,"World",NA
+"266",2012,"Asia",NA
+"267",2012,"Africa",NA
+"268",2012,"Pacific",NA
+"269",2012,"Middle East",NA
+"270",2012,"World",NA
+"271",2013,"Asia",NA
+"272",2013,"Africa",NA
+"273",2013,"Pacific",NA
+"274",2013,"Middle East",NA
+"275",2013,"World",NA
+"276",2014,"Asia",NA
+"277",2014,"Africa",NA
+"278",2014,"Pacific",NA
+"279",2014,"Middle East",NA
+"280",2014,"World",NA
+"281",2015,"Asia",NA
+"282",2015,"Africa",NA
+"283",2015,"Pacific",NA
+"284",2015,"Middle East",NA
+"285",2015,"World",NA
+"286",2016,"Asia",NA
+"287",2016,"Africa",NA
+"288",2016,"Pacific",NA
+"289",2016,"Middle East",NA
+"290",2016,"World",NA
+"291",2017,"Asia",NA
+"292",2017,"Africa",NA
+"293",2017,"Pacific",NA
+"294",2017,"Middle East",NA
+"295",2017,"World",NA
+"296",2018,"Asia",NA
+"297",2018,"Africa",NA
+"298",2018,"Pacific",NA
+"299",2018,"Middle East",NA
+"300",2018,"World",NA
+"301",2019,"Asia",NA
+"302",2019,"Africa",NA
+"303",2019,"Pacific",NA
+"304",2019,"Middle East",NA
+"305",2019,"World",NA
+"306",2020,"Asia",NA
+"307",2020,"Africa",NA
+"308",2020,"Pacific",NA
+"309",2020,"Middle East",NA
+"310",2020,"World",NA
+"311",1990,"Asia",NA
+"312",1990,"Africa",NA
+"313",1990,"Pacific",NA
+"314",1990,"Middle East",NA
+"315",1990,"World",NA
+"316",1991,"Asia",NA
+"317",1991,"Africa",NA
+"318",1991,"Pacific",NA
+"319",1991,"Middle East",NA
+"320",1991,"World",NA
+"321",1992,"Asia",NA
+"322",1992,"Africa",NA
+"323",1992,"Pacific",NA
+"324",1992,"Middle East",NA
+"325",1992,"World",NA
+"326",1993,"Asia",NA
+"327",1993,"Africa",NA
+"328",1993,"Pacific",NA
+"329",1993,"Middle East",NA
+"330",1993,"World",NA
+"331",1994,"Asia",NA
+"332",1994,"Africa",NA
+"333",1994,"Pacific",NA
+"334",1994,"Middle East",NA
+"335",1994,"World",NA
+"336",1995,"Asia",NA
+"337",1995,"Africa",NA
+"338",1995,"Pacific",NA
+"339",1995,"Middle East",NA
+"340",1995,"World",NA
+"341",1996,"Asia",NA
+"342",1996,"Africa",NA
+"343",1996,"Pacific",NA
+"344",1996,"Middle East",NA
+"345",1996,"World",NA
+"346",1997,"Asia",NA
+"347",1997,"Africa",NA
+"348",1997,"Pacific",NA
+"349",1997,"Middle East",NA
+"350",1997,"World",NA
+"351",1998,"Asia",NA
+"352",1998,"Africa",NA
+"353",1998,"Pacific",NA
+"354",1998,"Middle East",NA
+"355",1998,"World",NA
+"356",1999,"Asia",NA
+"357",1999,"Africa",NA
+"358",1999,"Pacific",NA
+"359",1999,"Middle East",NA
+"360",1999,"World",NA
+"361",2000,"Asia",NA
+"362",2000,"Africa",NA
+"363",2000,"Pacific",NA
+"364",2000,"Middle East",NA
+"365",2000,"World",NA
+"366",2001,"Asia",NA
+"367",2001,"Africa",NA
+"368",2001,"Pacific",NA
+"369",2001,"Middle East",NA
+"370",2001,"World",NA
+"371",2002,"Asia",NA
+"372",2002,"Africa",NA
+"373",2002,"Pacific",NA
+"374",2002,"Middle East",NA
+"375",2002,"World",NA
+"376",2003,"Asia",NA
+"377",2003,"Africa",NA
+"378",2003,"Pacific",NA
+"379",2003,"Middle East",NA
+"380",2003,"World",NA
+"381",2004,"Asia",NA
+"382",2004,"Africa",NA
+"383",2004,"Pacific",NA
+"384",2004,"Middle East",NA
+"385",2004,"World",NA
+"386",2005,"Asia",NA
+"387",2005,"Africa",NA
+"388",2005,"Pacific",NA
+"389",2005,"Middle East",NA
+"390",2005,"World",NA
+"391",2006,"Asia",NA
+"392",2006,"Africa",NA
+"393",2006,"Pacific",NA
+"394",2006,"Middle East",NA
+"395",2006,"World",NA
+"396",2007,"Asia",NA
+"397",2007,"Africa",NA
+"398",2007,"Pacific",NA
+"399",2007,"Middle East",NA
+"400",2007,"World",NA
+"401",2008,"Asia",NA
+"402",2008,"Africa",NA
+"403",2008,"Pacific",NA
+"404",2008,"Middle East",NA
+"405",2008,"World",NA
+"406",2009,"Asia",NA
+"407",2009,"Africa",NA
+"408",2009,"Pacific",NA
+"409",2009,"Middle East",NA
+"410",2009,"World",NA
+"411",2010,"Asia",NA
+"412",2010,"Africa",NA
+"413",2010,"Pacific",NA
+"414",2010,"Middle East",NA
+"415",2010,"World",NA
+"416",2011,"Asia",NA
+"417",2011,"Africa",NA
+"418",2011,"Pacific",NA
+"419",2011,"Middle East",NA
+"420",2011,"World",NA
+"421",2012,"Asia",NA
+"422",2012,"Africa",NA
+"423",2012,"Pacific",NA
+"424",2012,"Middle East",NA
+"425",2012,"World",NA
+"426",2013,"Asia",NA
+"427",2013,"Africa",NA
+"428",2013,"Pacific",NA
+"429",2013,"Middle East",NA
+"430",2013,"World",NA
+"431",2014,"Asia",NA
+"432",2014,"Africa",NA
+"433",2014,"Pacific",NA
+"434",2014,"Middle East",NA
+"435",2014,"World",NA
+"436",2015,"Asia",NA
+"437",2015,"Africa",NA
+"438",2015,"Pacific",NA
+"439",2015,"Middle East",NA
+"440",2015,"World",NA
+"441",2016,"Asia",NA
+"442",2016,"Africa",NA
+"443",2016,"Pacific",NA
+"444",2016,"Middle East",NA
+"445",2016,"World",NA
+"446",2017,"Asia",NA
+"447",2017,"Africa",NA
+"448",2017,"Pacific",NA
+"449",2017,"Middle East",NA
+"450",2017,"World",NA
+"451",2018,"Asia",NA
+"452",2018,"Africa",NA
+"453",2018,"Pacific",NA
+"454",2018,"Middle East",NA
+"455",2018,"World",NA
+"456",2019,"Asia",NA
+"457",2019,"Africa",NA
+"458",2019,"Pacific",NA
+"459",2019,"Middle East",NA
+"460",2019,"World",NA
+"461",2020,"Asia",NA
+"462",2020,"Africa",NA
+"463",2020,"Pacific",NA
+"464",2020,"Middle East",NA
+"465",2020,"World",NA
+"466",1990,"Asia",NA
+"467",1990,"Africa",NA
+"468",1990,"Pacific",NA
+"469",1990,"Middle East",NA
+"470",1990,"World",NA
+"471",1991,"Asia",NA
+"472",1991,"Africa",NA
+"473",1991,"Pacific",NA
+"474",1991,"Middle East",NA
+"475",1991,"World",NA
+"476",1992,"Asia",NA
+"477",1992,"Africa",NA
+"478",1992,"Pacific",NA
+"479",1992,"Middle East",NA
+"480",1992,"World",NA
+"481",1993,"Asia",NA
+"482",1993,"Africa",NA
+"483",1993,"Pacific",NA
+"484",1993,"Middle East",NA
+"485",1993,"World",NA
+"486",1994,"Asia",NA
+"487",1994,"Africa",NA
+"488",1994,"Pacific",NA
+"489",1994,"Middle East",NA
+"490",1994,"World",NA
+"491",1995,"Asia",NA
+"492",1995,"Africa",NA
+"493",1995,"Pacific",NA
+"494",1995,"Middle East",NA
+"495",1995,"World",NA
+"496",1996,"Asia",NA
+"497",1996,"Africa",NA
+"498",1996,"Pacific",NA
+"499",1996,"Middle East",NA
+"500",1996,"World",NA
+"501",1997,"Asia",NA
+"502",1997,"Africa",NA
+"503",1997,"Pacific",NA
+"504",1997,"Middle East",NA
+"505",1997,"World",NA
+"506",1998,"Asia",NA
+"507",1998,"Africa",NA
+"508",1998,"Pacific",NA
+"509",1998,"Middle East",NA
+"510",1998,"World",NA
+"511",1999,"Asia",NA
+"512",1999,"Africa",NA
+"513",1999,"Pacific",NA
+"514",1999,"Middle East",NA
+"515",1999,"World",NA
+"516",2000,"Asia",NA
+"517",2000,"Africa",NA
+"518",2000,"Pacific",NA
+"519",2000,"Middle East",NA
+"520",2000,"World",NA
+"521",2001,"Asia",NA
+"522",2001,"Africa",NA
+"523",2001,"Pacific",NA
+"524",2001,"Middle East",NA
+"525",2001,"World",NA
+"526",2002,"Asia",NA
+"527",2002,"Africa",NA
+"528",2002,"Pacific",NA
+"529",2002,"Middle East",NA
+"530",2002,"World",NA
+"531",2003,"Asia",NA
+"532",2003,"Africa",NA
+"533",2003,"Pacific",NA
+"534",2003,"Middle East",NA
+"535",2003,"World",NA
+"536",2004,"Asia",NA
+"537",2004,"Africa",NA
+"538",2004,"Pacific",NA
+"539",2004,"Middle East",NA
+"540",2004,"World",NA
+"541",2005,"Asia",NA
+"542",2005,"Africa",NA
+"543",2005,"Pacific",NA
+"544",2005,"Middle East",NA
+"545",2005,"World",NA
+"546",2006,"Asia",NA
+"547",2006,"Africa",NA
+"548",2006,"Pacific",NA
+"549",2006,"Middle East",NA
+"550",2006,"World",NA
+"551",2007,"Asia",NA
+"552",2007,"Africa",NA
+"553",2007,"Pacific",NA
+"554",2007,"Middle East",NA
+"555",2007,"World",NA
+"556",2008,"Asia",NA
+"557",2008,"Africa",NA
+"558",2008,"Pacific",NA
+"559",2008,"Middle East",NA
+"560",2008,"World",NA
+"561",2009,"Asia",NA
+"562",2009,"Africa",NA
+"563",2009,"Pacific",NA
+"564",2009,"Middle East",NA
+"565",2009,"World",NA
+"566",2010,"Asia",NA
+"567",2010,"Africa",NA
+"568",2010,"Pacific",NA
+"569",2010,"Middle East",NA
+"570",2010,"World",NA
+"571",2011,"Asia",NA
+"572",2011,"Africa",NA
+"573",2011,"Pacific",NA
+"574",2011,"Middle East",NA
+"575",2011,"World",NA
+"576",2012,"Asia",NA
+"577",2012,"Africa",NA
+"578",2012,"Pacific",NA
+"579",2012,"Middle East",NA
+"580",2012,"World",NA
+"581",2013,"Asia",NA
+"582",2013,"Africa",NA
+"583",2013,"Pacific",NA
+"584",2013,"Middle East",NA
+"585",2013,"World",NA
+"586",2014,"Asia",NA
+"587",2014,"Africa",NA
+"588",2014,"Pacific",NA
+"589",2014,"Middle East",NA
+"590",2014,"World",NA
+"591",2015,"Asia",NA
+"592",2015,"Africa",NA
+"593",2015,"Pacific",NA
+"594",2015,"Middle East",NA
+"595",2015,"World",NA
+"596",2016,"Asia",NA
+"597",2016,"Africa",NA
+"598",2016,"Pacific",NA
+"599",2016,"Middle East",NA
+"600",2016,"World",NA
+"601",2017,"Asia",NA
+"602",2017,"Africa",NA
+"603",2017,"Pacific",NA
+"604",2017,"Middle East",NA
+"605",2017,"World",NA
+"606",2018,"Asia",NA
+"607",2018,"Africa",NA
+"608",2018,"Pacific",NA
+"609",2018,"Middle East",NA
+"610",2018,"World",NA
+"611",2019,"Asia",NA
+"612",2019,"Africa",NA
+"613",2019,"Pacific",NA
+"614",2019,"Middle East",NA
+"615",2019,"World",NA
+"616",2020,"Asia",NA
+"617",2020,"Africa",NA
+"618",2020,"Pacific",NA
+"619",2020,"Middle East",NA
+"620",2020,"World",NA
+"621",1990,"Asia",NA
+"622",1990,"Africa",NA
+"623",1990,"Pacific",NA
+"624",1990,"Middle East",NA
+"625",1990,"World",NA
+"626",1991,"Asia",NA
+"627",1991,"Africa",NA
+"628",1991,"Pacific",NA
+"629",1991,"Middle East",NA
+"630",1991,"World",NA
+"631",1992,"Asia",NA
+"632",1992,"Africa",NA
+"633",1992,"Pacific",NA
+"634",1992,"Middle East",NA
+"635",1992,"World",NA
+"636",1993,"Asia",NA
+"637",1993,"Africa",NA
+"638",1993,"Pacific",NA
+"639",1993,"Middle East",NA
+"640",1993,"World",NA
+"641",1994,"Asia",NA
+"642",1994,"Africa",NA
+"643",1994,"Pacific",NA
+"644",1994,"Middle East",NA
+"645",1994,"World",NA
+"646",1995,"Asia",NA
+"647",1995,"Africa",NA
+"648",1995,"Pacific",NA
+"649",1995,"Middle East",NA
+"650",1995,"World",NA
+"651",1996,"Asia",NA
+"652",1996,"Africa",NA
+"653",1996,"Pacific",NA
+"654",1996,"Middle East",NA
+"655",1996,"World",NA
+"656",1997,"Asia",NA
+"657",1997,"Africa",NA
+"658",1997,"Pacific",NA
+"659",1997,"Middle East",NA
+"660",1997,"World",NA
+"661",1998,"Asia",NA
+"662",1998,"Africa",NA
+"663",1998,"Pacific",NA
+"664",1998,"Middle East",NA
+"665",1998,"World",NA
+"666",1999,"Asia",NA
+"667",1999,"Africa",NA
+"668",1999,"Pacific",NA
+"669",1999,"Middle East",NA
+"670",1999,"World",NA
+"671",2000,"Asia",NA
+"672",2000,"Africa",NA
+"673",2000,"Pacific",NA
+"674",2000,"Middle East",NA
+"675",2000,"World",NA
+"676",2001,"Asia",NA
+"677",2001,"Africa",NA
+"678",2001,"Pacific",NA
+"679",2001,"Middle East",NA
+"680",2001,"World",NA
+"681",2002,"Asia",NA
+"682",2002,"Africa",NA
+"683",2002,"Pacific",NA
+"684",2002,"Middle East",NA
+"685",2002,"World",NA
+"686",2003,"Asia",NA
+"687",2003,"Africa",NA
+"688",2003,"Pacific",NA
+"689",2003,"Middle East",NA
+"690",2003,"World",NA
+"691",2004,"Asia",NA
+"692",2004,"Africa",NA
+"693",2004,"Pacific",NA
+"694",2004,"Middle East",NA
+"695",2004,"World",NA
+"696",2005,"Asia",NA
+"697",2005,"Africa",NA
+"698",2005,"Pacific",NA
+"699",2005,"Middle East",NA
+"700",2005,"World",NA
+"701",2006,"Asia",NA
+"702",2006,"Africa",NA
+"703",2006,"Pacific",NA
+"704",2006,"Middle East",NA
+"705",2006,"World",NA
+"706",2007,"Asia",NA
+"707",2007,"Africa",NA
+"708",2007,"Pacific",NA
+"709",2007,"Middle East",NA
+"710",2007,"World",NA
+"711",2008,"Asia",NA
+"712",2008,"Africa",NA
+"713",2008,"Pacific",NA
+"714",2008,"Middle East",NA
+"715",2008,"World",NA
+"716",2009,"Asia",NA
+"717",2009,"Africa",NA
+"718",2009,"Pacific",NA
+"719",2009,"Middle East",NA
+"720",2009,"World",NA
+"721",2010,"Asia",NA
+"722",2010,"Africa",NA
+"723",2010,"Pacific",NA
+"724",2010,"Middle East",NA
+"725",2010,"World",NA
+"726",2011,"Asia",NA
+"727",2011,"Africa",NA
+"728",2011,"Pacific",NA
+"729",2011,"Middle East",NA
+"730",2011,"World",NA
+"731",2012,"Asia",NA
+"732",2012,"Africa",NA
+"733",2012,"Pacific",NA
+"734",2012,"Middle East",NA
+"735",2012,"World",NA
+"736",2013,"Asia",NA
+"737",2013,"Africa",NA
+"738",2013,"Pacific",NA
+"739",2013,"Middle East",NA
+"740",2013,"World",NA
+"741",2014,"Asia",NA
+"742",2014,"Africa",NA
+"743",2014,"Pacific",NA
+"744",2014,"Middle East",NA
+"745",2014,"World",NA
+"746",2015,"Asia",NA
+"747",2015,"Africa",NA
+"748",2015,"Pacific",NA
+"749",2015,"Middle East",NA
+"750",2015,"World",NA
+"751",2016,"Asia",NA
+"752",2016,"Africa",NA
+"753",2016,"Pacific",NA
+"754",2016,"Middle East",NA
+"755",2016,"World",NA
+"756",2017,"Asia",NA
+"757",2017,"Africa",NA
+"758",2017,"Pacific",NA
+"759",2017,"Middle East",NA
+"760",2017,"World",NA
+"761",2018,"Asia",NA
+"762",2018,"Africa",NA
+"763",2018,"Pacific",NA
+"764",2018,"Middle East",NA
+"765",2018,"World",NA
+"766",2019,"Asia",NA
+"767",2019,"Africa",NA
+"768",2019,"Pacific",NA
+"769",2019,"Middle East",NA
+"770",2019,"World",NA
+"771",2020,"Asia",NA
+"772",2020,"Africa",NA
+"773",2020,"Pacific",NA
+"774",2020,"Middle East",NA
+"775",2020,"World",NA
+"776",1990,"Asia",NA
+"777",1990,"Africa",NA
+"778",1990,"Pacific",NA
+"779",1990,"Middle East",NA
+"780",1990,"World",NA
+"781",1991,"Asia",NA
+"782",1991,"Africa",NA
+"783",1991,"Pacific",NA
+"784",1991,"Middle East",NA
+"785",1991,"World",NA
+"786",1992,"Asia",NA
+"787",1992,"Africa",NA
+"788",1992,"Pacific",NA
+"789",1992,"Middle East",NA
+"790",1992,"World",NA
+"791",1993,"Asia",NA
+"792",1993,"Africa",NA
+"793",1993,"Pacific",NA
+"794",1993,"Middle East",NA
+"795",1993,"World",NA
+"796",1994,"Asia",NA
+"797",1994,"Africa",NA
+"798",1994,"Pacific",NA
+"799",1994,"Middle East",NA
+"800",1994,"World",NA
+"801",1995,"Asia",NA
+"802",1995,"Africa",NA
+"803",1995,"Pacific",NA
+"804",1995,"Middle East",NA
+"805",1995,"World",NA
+"806",1996,"Asia",NA
+"807",1996,"Africa",NA
+"808",1996,"Pacific",NA
+"809",1996,"Middle East",NA
+"810",1996,"World",NA
+"811",1997,"Asia",NA
+"812",1997,"Africa",NA
+"813",1997,"Pacific",NA
+"814",1997,"Middle East",NA
+"815",1997,"World",NA
+"816",1998,"Asia",NA
+"817",1998,"Africa",NA
+"818",1998,"Pacific",NA
+"819",1998,"Middle East",NA
+"820",1998,"World",NA
+"821",1999,"Asia",NA
+"822",1999,"Africa",NA
+"823",1999,"Pacific",NA
+"824",1999,"Middle East",NA
+"825",1999,"World",NA
+"826",2000,"Asia",NA
+"827",2000,"Africa",NA
+"828",2000,"Pacific",NA
+"829",2000,"Middle East",NA
+"830",2000,"World",NA
+"831",2001,"Asia",NA
+"832",2001,"Africa",NA
+"833",2001,"Pacific",NA
+"834",2001,"Middle East",NA
+"835",2001,"World",NA
+"836",2002,"Asia",NA
+"837",2002,"Africa",NA
+"838",2002,"Pacific",NA
+"839",2002,"Middle East",NA
+"840",2002,"World",NA
+"841",2003,"Asia",NA
+"842",2003,"Africa",NA
+"843",2003,"Pacific",NA
+"844",2003,"Middle East",NA
+"845",2003,"World",NA
+"846",2004,"Asia",NA
+"847",2004,"Africa",NA
+"848",2004,"Pacific",NA
+"849",2004,"Middle East",NA
+"850",2004,"World",NA
+"851",2005,"Asia",NA
+"852",2005,"Africa",NA
+"853",2005,"Pacific",NA
+"854",2005,"Middle East",NA
+"855",2005,"World",NA
+"856",2006,"Asia",NA
+"857",2006,"Africa",NA
+"858",2006,"Pacific",NA
+"859",2006,"Middle East",NA
+"860",2006,"World",NA
+"861",2007,"Asia",NA
+"862",2007,"Africa",NA
+"863",2007,"Pacific",NA
+"864",2007,"Middle East",NA
+"865",2007,"World",NA
+"866",2008,"Asia",NA
+"867",2008,"Africa",NA
+"868",2008,"Pacific",NA
+"869",2008,"Middle East",NA
+"870",2008,"World",NA
+"871",2009,"Asia",NA
+"872",2009,"Africa",NA
+"873",2009,"Pacific",NA
+"874",2009,"Middle East",NA
+"875",2009,"World",NA
+"876",2010,"Asia",NA
+"877",2010,"Africa",NA
+"878",2010,"Pacific",NA
+"879",2010,"Middle East",NA
+"880",2010,"World",NA
+"881",2011,"Asia",NA
+"882",2011,"Africa",NA
+"883",2011,"Pacific",NA
+"884",2011,"Middle East",NA
+"885",2011,"World",NA
+"886",2012,"Asia",NA
+"887",2012,"Africa",NA
+"888",2012,"Pacific",NA
+"889",2012,"Middle East",NA
+"890",2012,"World",NA
+"891",2013,"Asia",NA
+"892",2013,"Africa",NA
+"893",2013,"Pacific",NA
+"894",2013,"Middle East",NA
+"895",2013,"World",NA
+"896",2014,"Asia",NA
+"897",2014,"Africa",NA
+"898",2014,"Pacific",NA
+"899",2014,"Middle East",NA
+"900",2014,"World",NA
+"901",2015,"Asia",NA
+"902",2015,"Africa",NA
+"903",2015,"Pacific",NA
+"904",2015,"Middle East",NA
+"905",2015,"World",NA
+"906",2016,"Asia",NA
+"907",2016,"Africa",NA
+"908",2016,"Pacific",NA
+"909",2016,"Middle East",NA
+"910",2016,"World",NA
+"911",2017,"Asia",NA
+"912",2017,"Africa",NA
+"913",2017,"Pacific",NA
+"914",2017,"Middle East",NA
+"915",2017,"World",NA
+"916",2018,"Asia",NA
+"917",2018,"Africa",NA
+"918",2018,"Pacific",NA
+"919",2018,"Middle East",NA
+"920",2018,"World",NA
+"921",2019,"Asia",NA
+"922",2019,"Africa",NA
+"923",2019,"Pacific",NA
+"924",2019,"Middle East",NA
+"925",2019,"World",NA
+"926",2020,"Asia",NA
+"927",2020,"Africa",NA
+"928",2020,"Pacific",NA
+"929",2020,"Middle East",NA
+"930",2020,"World",NA
+"931",1990,"Asia",NA
+"932",1990,"Africa",NA
+"933",1990,"Pacific",NA
+"934",1990,"Middle East",NA
+"935",1990,"World",NA
+"936",1991,"Asia",NA
+"937",1991,"Africa",NA
+"938",1991,"Pacific",NA
+"939",1991,"Middle East",NA
+"940",1991,"World",NA
+"941",1992,"Asia",NA
+"942",1992,"Africa",NA
+"943",1992,"Pacific",NA
+"944",1992,"Middle East",NA
+"945",1992,"World",NA
+"946",1993,"Asia",NA
+"947",1993,"Africa",NA
+"948",1993,"Pacific",NA
+"949",1993,"Middle East",NA
+"950",1993,"World",NA
+"951",1994,"Asia",NA
+"952",1994,"Africa",NA
+"953",1994,"Pacific",NA
+"954",1994,"Middle East",NA
+"955",1994,"World",NA
+"956",1995,"Asia",NA
+"957",1995,"Africa",NA
+"958",1995,"Pacific",NA
+"959",1995,"Middle East",NA
+"960",1995,"World",NA
+"961",1996,"Asia",NA
+"962",1996,"Africa",NA
+"963",1996,"Pacific",NA
+"964",1996,"Middle East",NA
+"965",1996,"World",NA
+"966",1997,"Asia",NA
+"967",1997,"Africa",NA
+"968",1997,"Pacific",NA
+"969",1997,"Middle East",NA
+"970",1997,"World",NA
+"971",1998,"Asia",NA
+"972",1998,"Africa",NA
+"973",1998,"Pacific",NA
+"974",1998,"Middle East",NA
+"975",1998,"World",NA
+"976",1999,"Asia",NA
+"977",1999,"Africa",NA
+"978",1999,"Pacific",NA
+"979",1999,"Middle East",NA
+"980",1999,"World",NA
+"981",2000,"Asia",NA
+"982",2000,"Africa",NA
+"983",2000,"Pacific",NA
+"984",2000,"Middle East",NA
+"985",2000,"World",NA
+"986",2001,"Asia",NA
+"987",2001,"Africa",NA
+"988",2001,"Pacific",NA
+"989",2001,"Middle East",NA
+"990",2001,"World",NA
+"991",2002,"Asia",NA
+"992",2002,"Africa",NA
+"993",2002,"Pacific",NA
+"994",2002,"Middle East",NA
+"995",2002,"World",NA
+"996",2003,"Asia",NA
+"997",2003,"Africa",NA
+"998",2003,"Pacific",NA
+"999",2003,"Middle East",NA
+"1000",2003,"World",NA
+"1001",2004,"Asia",NA
+"1002",2004,"Africa",NA
+"1003",2004,"Pacific",NA
+"1004",2004,"Middle East",NA
+"1005",2004,"World",NA
+"1006",2005,"Asia",NA
+"1007",2005,"Africa",NA
+"1008",2005,"Pacific",NA
+"1009",2005,"Middle East",NA
+"1010",2005,"World",NA
+"1011",2006,"Asia",NA
+"1012",2006,"Africa",NA
+"1013",2006,"Pacific",NA
+"1014",2006,"Middle East",NA
+"1015",2006,"World",NA
+"1016",2007,"Asia",NA
+"1017",2007,"Africa",NA
+"1018",2007,"Pacific",NA
+"1019",2007,"Middle East",NA
+"1020",2007,"World",NA
+"1021",2008,"Asia",NA
+"1022",2008,"Africa",NA
+"1023",2008,"Pacific",NA
+"1024",2008,"Middle East",NA
+"1025",2008,"World",NA
+"1026",2009,"Asia",NA
+"1027",2009,"Africa",NA
+"1028",2009,"Pacific",NA
+"1029",2009,"Middle East",NA
+"1030",2009,"World",NA
+"1031",2010,"Asia",NA
+"1032",2010,"Africa",NA
+"1033",2010,"Pacific",NA
+"1034",2010,"Middle East",NA
+"1035",2010,"World",NA
+"1036",2011,"Asia",NA
+"1037",2011,"Africa",NA
+"1038",2011,"Pacific",NA
+"1039",2011,"Middle East",NA
+"1040",2011,"World",NA
+"1041",2012,"Asia",NA
+"1042",2012,"Africa",NA
+"1043",2012,"Pacific",NA
+"1044",2012,"Middle East",NA
+"1045",2012,"World",NA
+"1046",2013,"Asia",NA
+"1047",2013,"Africa",NA
+"1048",2013,"Pacific",NA
+"1049",2013,"Middle East",NA
+"1050",2013,"World",NA
+"1051",2014,"Asia",NA
+"1052",2014,"Africa",NA
+"1053",2014,"Pacific",NA
+"1054",2014,"Middle East",NA
+"1055",2014,"World",NA
+"1056",2015,"Asia",NA
+"1057",2015,"Africa",NA
+"1058",2015,"Pacific",NA
+"1059",2015,"Middle East",NA
+"1060",2015,"World",NA
+"1061",2016,"Asia",NA
+"1062",2016,"Africa",NA
+"1063",2016,"Pacific",NA
+"1064",2016,"Middle East",NA
+"1065",2016,"World",NA
+"1066",2017,"Asia",NA
+"1067",2017,"Africa",NA
+"1068",2017,"Pacific",NA
+"1069",2017,"Middle East",NA
+"1070",2017,"World",NA
+"1071",2018,"Asia",NA
+"1072",2018,"Africa",NA
+"1073",2018,"Pacific",NA
+"1074",2018,"Middle East",NA
+"1075",2018,"World",NA
+"1076",2019,"Asia",NA
+"1077",2019,"Africa",NA
+"1078",2019,"Pacific",NA
+"1079",2019,"Middle East",NA
+"1080",2019,"World",NA
+"1081",2020,"Asia",NA
+"1082",2020,"Africa",NA
+"1083",2020,"Pacific",NA
+"1084",2020,"Middle East",NA
+"1085",2020,"World",NA
+"1086",1990,"Asia",NA
+"1087",1990,"Africa",NA
+"1088",1990,"Pacific",NA
+"1089",1990,"Middle East",NA
+"1090",1990,"World",NA
+"1091",1991,"Asia",NA
+"1092",1991,"Africa",NA
+"1093",1991,"Pacific",NA
+"1094",1991,"Middle East",NA
+"1095",1991,"World",NA
+"1096",1992,"Asia",NA
+"1097",1992,"Africa",NA
+"1098",1992,"Pacific",NA
+"1099",1992,"Middle East",NA
+"1100",1992,"World",NA
+"1101",1993,"Asia",NA
+"1102",1993,"Africa",NA
+"1103",1993,"Pacific",NA
+"1104",1993,"Middle East",NA
+"1105",1993,"World",NA
+"1106",1994,"Asia",NA
+"1107",1994,"Africa",NA
+"1108",1994,"Pacific",NA
+"1109",1994,"Middle East",NA
+"1110",1994,"World",NA
+"1111",1995,"Asia",NA
+"1112",1995,"Africa",NA
+"1113",1995,"Pacific",NA
+"1114",1995,"Middle East",NA
+"1115",1995,"World",NA
+"1116",1996,"Asia",NA
+"1117",1996,"Africa",NA
+"1118",1996,"Pacific",NA
+"1119",1996,"Middle East",NA
+"1120",1996,"World",NA
+"1121",1997,"Asia",NA
+"1122",1997,"Africa",NA
+"1123",1997,"Pacific",NA
+"1124",1997,"Middle East",NA
+"1125",1997,"World",NA
+"1126",1998,"Asia",NA
+"1127",1998,"Africa",NA
+"1128",1998,"Pacific",NA
+"1129",1998,"Middle East",NA
+"1130",1998,"World",NA
+"1131",1999,"Asia",NA
+"1132",1999,"Africa",NA
+"1133",1999,"Pacific",NA
+"1134",1999,"Middle East",NA
+"1135",1999,"World",NA
+"1136",2000,"Asia",NA
+"1137",2000,"Africa",NA
+"1138",2000,"Pacific",NA
+"1139",2000,"Middle East",NA
+"1140",2000,"World",NA
+"1141",2001,"Asia",NA
+"1142",2001,"Africa",NA
+"1143",2001,"Pacific",NA
+"1144",2001,"Middle East",NA
+"1145",2001,"World",NA
+"1146",2002,"Asia",NA
+"1147",2002,"Africa",NA
+"1148",2002,"Pacific",NA
+"1149",2002,"Middle East",NA
+"1150",2002,"World",NA
+"1151",2003,"Asia",NA
+"1152",2003,"Africa",NA
+"1153",2003,"Pacific",NA
+"1154",2003,"Middle East",NA
+"1155",2003,"World",NA
+"1156",2004,"Asia",NA
+"1157",2004,"Africa",NA
+"1158",2004,"Pacific",NA
+"1159",2004,"Middle East",NA
+"1160",2004,"World",NA
+"1161",2005,"Asia",NA
+"1162",2005,"Africa",NA
+"1163",2005,"Pacific",NA
+"1164",2005,"Middle East",NA
+"1165",2005,"World",NA
+"1166",2006,"Asia",NA
+"1167",2006,"Africa",NA
+"1168",2006,"Pacific",NA
+"1169",2006,"Middle East",NA
+"1170",2006,"World",NA
+"1171",2007,"Asia",NA
+"1172",2007,"Africa",NA
+"1173",2007,"Pacific",NA
+"1174",2007,"Middle East",NA
+"1175",2007,"World",NA
+"1176",2008,"Asia",NA
+"1177",2008,"Africa",NA
+"1178",2008,"Pacific",NA
+"1179",2008,"Middle East",NA
+"1180",2008,"World",NA
+"1181",2009,"Asia",NA
+"1182",2009,"Africa",NA
+"1183",2009,"Pacific",NA
+"1184",2009,"Middle East",NA
+"1185",2009,"World",NA
+"1186",2010,"Asia",NA
+"1187",2010,"Africa",NA
+"1188",2010,"Pacific",NA
+"1189",2010,"Middle East",NA
+"1190",2010,"World",NA
+"1191",2011,"Asia",NA
+"1192",2011,"Africa",NA
+"1193",2011,"Pacific",NA
+"1194",2011,"Middle East",NA
+"1195",2011,"World",NA
+"1196",2012,"Asia",NA
+"1197",2012,"Africa",NA
+"1198",2012,"Pacific",NA
+"1199",2012,"Middle East",NA
+"1200",2012,"World",NA
+"1201",2013,"Asia",NA
+"1202",2013,"Africa",NA
+"1203",2013,"Pacific",NA
+"1204",2013,"Middle East",NA
+"1205",2013,"World",NA
+"1206",2014,"Asia",NA
+"1207",2014,"Africa",NA
+"1208",2014,"Pacific",NA
+"1209",2014,"Middle East",NA
+"1210",2014,"World",NA
+"1211",2015,"Asia",NA
+"1212",2015,"Africa",NA
+"1213",2015,"Pacific",NA
+"1214",2015,"Middle East",NA
+"1215",2015,"World",NA
+"1216",2016,"Asia",NA
+"1217",2016,"Africa",NA
+"1218",2016,"Pacific",NA
+"1219",2016,"Middle East",NA
+"1220",2016,"World",NA
+"1221",2017,"Asia",NA
+"1222",2017,"Africa",NA
+"1223",2017,"Pacific",NA
+"1224",2017,"Middle East",NA
+"1225",2017,"World",NA
+"1226",2018,"Asia",NA
+"1227",2018,"Africa",NA
+"1228",2018,"Pacific",NA
+"1229",2018,"Middle East",NA
+"1230",2018,"World",NA
+"1231",2019,"Asia",NA
+"1232",2019,"Africa",NA
+"1233",2019,"Pacific",NA
+"1234",2019,"Middle East",NA
+"1235",2019,"World",NA
+"1236",2020,"Asia",NA
+"1237",2020,"Africa",NA
+"1238",2020,"Pacific",NA
+"1239",2020,"Middle East",NA
+"1240",2020,"World",NA
+"1241",1990,"Asia",NA
+"1242",1990,"Africa",NA
+"1243",1990,"Pacific",NA
+"1244",1990,"Middle East",NA
+"1245",1990,"World",NA
+"1246",1991,"Asia",NA
+"1247",1991,"Africa",NA
+"1248",1991,"Pacific",NA
+"1249",1991,"Middle East",NA
+"1250",1991,"World",NA
+"1251",1992,"Asia",NA
+"1252",1992,"Africa",NA
+"1253",1992,"Pacific",NA
+"1254",1992,"Middle East",NA
+"1255",1992,"World",NA
+"1256",1993,"Asia",NA
+"1257",1993,"Africa",NA
+"1258",1993,"Pacific",NA
+"1259",1993,"Middle East",NA
+"1260",1993,"World",NA
+"1261",1994,"Asia",NA
+"1262",1994,"Africa",NA
+"1263",1994,"Pacific",NA
+"1264",1994,"Middle East",NA
+"1265",1994,"World",NA
+"1266",1995,"Asia",NA
+"1267",1995,"Africa",NA
+"1268",1995,"Pacific",NA
+"1269",1995,"Middle East",NA
+"1270",1995,"World",NA
+"1271",1996,"Asia",NA
+"1272",1996,"Africa",NA
+"1273",1996,"Pacific",NA
+"1274",1996,"Middle East",NA
+"1275",1996,"World",NA
+"1276",1997,"Asia",NA
+"1277",1997,"Africa",NA
+"1278",1997,"Pacific",NA
+"1279",1997,"Middle East",NA
+"1280",1997,"World",NA
+"1281",1998,"Asia",NA
+"1282",1998,"Africa",NA
+"1283",1998,"Pacific",NA
+"1284",1998,"Middle East",NA
+"1285",1998,"World",NA
+"1286",1999,"Asia",NA
+"1287",1999,"Africa",NA
+"1288",1999,"Pacific",NA
+"1289",1999,"Middle East",NA
+"1290",1999,"World",NA
+"1291",2000,"Asia",NA
+"1292",2000,"Africa",NA
+"1293",2000,"Pacific",NA
+"1294",2000,"Middle East",NA
+"1295",2000,"World",NA
+"1296",2001,"Asia",NA
+"1297",2001,"Africa",NA
+"1298",2001,"Pacific",NA
+"1299",2001,"Middle East",NA
+"1300",2001,"World",NA
+"1301",2002,"Asia",NA
+"1302",2002,"Africa",NA
+"1303",2002,"Pacific",NA
+"1304",2002,"Middle East",NA
+"1305",2002,"World",NA
+"1306",2003,"Asia",NA
+"1307",2003,"Africa",NA
+"1308",2003,"Pacific",NA
+"1309",2003,"Middle East",NA
+"1310",2003,"World",NA
+"1311",2004,"Asia",NA
+"1312",2004,"Africa",NA
+"1313",2004,"Pacific",NA
+"1314",2004,"Middle East",NA
+"1315",2004,"World",NA
+"1316",2005,"Asia",NA
+"1317",2005,"Africa",NA
+"1318",2005,"Pacific",NA
+"1319",2005,"Middle East",NA
+"1320",2005,"World",NA
+"1321",2006,"Asia",NA
+"1322",2006,"Africa",NA
+"1323",2006,"Pacific",NA
+"1324",2006,"Middle East",NA
+"1325",2006,"World",NA
+"1326",2007,"Asia",NA
+"1327",2007,"Africa",NA
+"1328",2007,"Pacific",NA
+"1329",2007,"Middle East",NA
+"1330",2007,"World",NA
+"1331",2008,"Asia",NA
+"1332",2008,"Africa",NA
+"1333",2008,"Pacific",NA
+"1334",2008,"Middle East",NA
+"1335",2008,"World",NA
+"1336",2009,"Asia",NA
+"1337",2009,"Africa",NA
+"1338",2009,"Pacific",NA
+"1339",2009,"Middle East",NA
+"1340",2009,"World",NA
+"1341",2010,"Asia",NA
+"1342",2010,"Africa",NA
+"1343",2010,"Pacific",NA
+"1344",2010,"Middle East",NA
+"1345",2010,"World",NA
+"1346",2011,"Asia",NA
+"1347",2011,"Africa",NA
+"1348",2011,"Pacific",NA
+"1349",2011,"Middle East",NA
+"1350",2011,"World",NA
+"1351",2012,"Asia",NA
+"1352",2012,"Africa",NA
+"1353",2012,"Pacific",NA
+"1354",2012,"Middle East",NA
+"1355",2012,"World",NA
+"1356",2013,"Asia",NA
+"1357",2013,"Africa",NA
+"1358",2013,"Pacific",NA
+"1359",2013,"Middle East",NA
+"1360",2013,"World",NA
+"1361",2014,"Asia",NA
+"1362",2014,"Africa",NA
+"1363",2014,"Pacific",NA
+"1364",2014,"Middle East",NA
+"1365",2014,"World",NA
+"1366",2015,"Asia",NA
+"1367",2015,"Africa",NA
+"1368",2015,"Pacific",NA
+"1369",2015,"Middle East",NA
+"1370",2015,"World",NA
+"1371",2016,"Asia",NA
+"1372",2016,"Africa",NA
+"1373",2016,"Pacific",NA
+"1374",2016,"Middle East",NA
+"1375",2016,"World",NA
+"1376",2017,"Asia",NA
+"1377",2017,"Africa",NA
+"1378",2017,"Pacific",NA
+"1379",2017,"Middle East",NA
+"1380",2017,"World",NA
+"1381",2018,"Asia",NA
+"1382",2018,"Africa",NA
+"1383",2018,"Pacific",NA
+"1384",2018,"Middle East",NA
+"1385",2018,"World",NA
+"1386",2019,"Asia",NA
+"1387",2019,"Africa",NA
+"1388",2019,"Pacific",NA
+"1389",2019,"Middle East",NA
+"1390",2019,"World",NA
+"1391",2020,"Asia",NA
+"1392",2020,"Africa",NA
+"1393",2020,"Pacific",NA
+"1394",2020,"Middle East",NA
+"1395",2020,"World",NA
+"1396",1990,"Asia",NA
+"1397",1990,"Africa",NA
+"1398",1990,"Pacific",NA
+"1399",1990,"Middle East",NA
+"1400",1990,"World",NA
+"1401",1991,"Asia",NA
+"1402",1991,"Africa",NA
+"1403",1991,"Pacific",NA
+"1404",1991,"Middle East",NA
+"1405",1991,"World",NA
+"1406",1992,"Asia",NA
+"1407",1992,"Africa",NA
+"1408",1992,"Pacific",NA
+"1409",1992,"Middle East",NA
+"1410",1992,"World",NA
+"1411",1993,"Asia",NA
+"1412",1993,"Africa",NA
+"1413",1993,"Pacific",NA
+"1414",1993,"Middle East",NA
+"1415",1993,"World",NA
+"1416",1994,"Asia",NA
+"1417",1994,"Africa",NA
+"1418",1994,"Pacific",NA
+"1419",1994,"Middle East",NA
+"1420",1994,"World",NA
+"1421",1995,"Asia",NA
+"1422",1995,"Africa",NA
+"1423",1995,"Pacific",NA
+"1424",1995,"Middle East",NA
+"1425",1995,"World",NA
+"1426",1996,"Asia",NA
+"1427",1996,"Africa",NA
+"1428",1996,"Pacific",NA
+"1429",1996,"Middle East",NA
+"1430",1996,"World",NA
+"1431",1997,"Asia",NA
+"1432",1997,"Africa",NA
+"1433",1997,"Pacific",NA
+"1434",1997,"Middle East",NA
+"1435",1997,"World",NA
+"1436",1998,"Asia",NA
+"1437",1998,"Africa",NA
+"1438",1998,"Pacific",NA
+"1439",1998,"Middle East",NA
+"1440",1998,"World",NA
+"1441",1999,"Asia",NA
+"1442",1999,"Africa",NA
+"1443",1999,"Pacific",NA
+"1444",1999,"Middle East",NA
+"1445",1999,"World",NA
+"1446",2000,"Asia",NA
+"1447",2000,"Africa",NA
+"1448",2000,"Pacific",NA
+"1449",2000,"Middle East",NA
+"1450",2000,"World",NA
+"1451",2001,"Asia",NA
+"1452",2001,"Africa",NA
+"1453",2001,"Pacific",NA
+"1454",2001,"Middle East",NA
+"1455",2001,"World",NA
+"1456",2002,"Asia",NA
+"1457",2002,"Africa",NA
+"1458",2002,"Pacific",NA
+"1459",2002,"Middle East",NA
+"1460",2002,"World",NA
+"1461",2003,"Asia",NA
+"1462",2003,"Africa",NA
+"1463",2003,"Pacific",NA
+"1464",2003,"Middle East",NA
+"1465",2003,"World",NA
+"1466",2004,"Asia",NA
+"1467",2004,"Africa",NA
+"1468",2004,"Pacific",NA
+"1469",2004,"Middle East",NA
+"1470",2004,"World",NA
+"1471",2005,"Asia",NA
+"1472",2005,"Africa",NA
+"1473",2005,"Pacific",NA
+"1474",2005,"Middle East",NA
+"1475",2005,"World",NA
+"1476",2006,"Asia",NA
+"1477",2006,"Africa",NA
+"1478",2006,"Pacific",NA
+"1479",2006,"Middle East",NA
+"1480",2006,"World",NA
+"1481",2007,"Asia",NA
+"1482",2007,"Africa",NA
+"1483",2007,"Pacific",NA
+"1484",2007,"Middle East",NA
+"1485",2007,"World",NA
+"1486",2008,"Asia",NA
+"1487",2008,"Africa",NA
+"1488",2008,"Pacific",NA
+"1489",2008,"Middle East",NA
+"1490",2008,"World",NA
+"1491",2009,"Asia",NA
+"1492",2009,"Africa",NA
+"1493",2009,"Pacific",NA
+"1494",2009,"Middle East",NA
+"1495",2009,"World",NA
+"1496",2010,"Asia",NA
+"1497",2010,"Africa",NA
+"1498",2010,"Pacific",NA
+"1499",2010,"Middle East",NA
+"1500",2010,"World",NA
+"1501",2011,"Asia",NA
+"1502",2011,"Africa",NA
+"1503",2011,"Pacific",NA
+"1504",2011,"Middle East",NA
+"1505",2011,"World",NA
+"1506",2012,"Asia",NA
+"1507",2012,"Africa",NA
+"1508",2012,"Pacific",NA
+"1509",2012,"Middle East",NA
+"1510",2012,"World",NA
+"1511",2013,"Asia",NA
+"1512",2013,"Africa",NA
+"1513",2013,"Pacific",NA
+"1514",2013,"Middle East",NA
+"1515",2013,"World",NA
+"1516",2014,"Asia",NA
+"1517",2014,"Africa",NA
+"1518",2014,"Pacific",NA
+"1519",2014,"Middle East",NA
+"1520",2014,"World",NA
+"1521",2015,"Asia",NA
+"1522",2015,"Africa",NA
+"1523",2015,"Pacific",NA
+"1524",2015,"Middle East",NA
+"1525",2015,"World",NA
+"1526",2016,"Asia",NA
+"1527",2016,"Africa",NA
+"1528",2016,"Pacific",NA
+"1529",2016,"Middle East",NA
+"1530",2016,"World",NA
+"1531",2017,"Asia",NA
+"1532",2017,"Africa",NA
+"1533",2017,"Pacific",NA
+"1534",2017,"Middle East",NA
+"1535",2017,"World",NA
+"1536",2018,"Asia",NA
+"1537",2018,"Africa",NA
+"1538",2018,"Pacific",NA
+"1539",2018,"Middle East",NA
+"1540",2018,"World",NA
+"1541",2019,"Asia",NA
+"1542",2019,"Africa",NA
+"1543",2019,"Pacific",NA
+"1544",2019,"Middle East",NA
+"1545",2019,"World",NA
+"1546",2020,"Asia",NA
+"1547",2020,"Africa",NA
+"1548",2020,"Pacific",NA
+"1549",2020,"Middle East",NA
+"1550",2020,"World",NA
+"1551",1990,"Asia",NA
+"1552",1990,"Africa",NA
+"1553",1990,"Pacific",NA
+"1554",1990,"Middle East",NA
+"1555",1990,"World",NA
+"1556",1991,"Asia",NA
+"1557",1991,"Africa",NA
+"1558",1991,"Pacific",NA
+"1559",1991,"Middle East",NA
+"1560",1991,"World",NA
+"1561",1992,"Asia",NA
+"1562",1992,"Africa",NA
+"1563",1992,"Pacific",NA
+"1564",1992,"Middle East",NA
+"1565",1992,"World",NA
+"1566",1993,"Asia",NA
+"1567",1993,"Africa",NA
+"1568",1993,"Pacific",NA
+"1569",1993,"Middle East",NA
+"1570",1993,"World",NA
+"1571",1994,"Asia",NA
+"1572",1994,"Africa",NA
+"1573",1994,"Pacific",NA
+"1574",1994,"Middle East",NA
+"1575",1994,"World",NA
+"1576",1995,"Asia",NA
+"1577",1995,"Africa",NA
+"1578",1995,"Pacific",NA
+"1579",1995,"Middle East",NA
+"1580",1995,"World",NA
+"1581",1996,"Asia",NA
+"1582",1996,"Africa",NA
+"1583",1996,"Pacific",NA
+"1584",1996,"Middle East",NA
+"1585",1996,"World",NA
+"1586",1997,"Asia",NA
+"1587",1997,"Africa",NA
+"1588",1997,"Pacific",NA
+"1589",1997,"Middle East",NA
+"1590",1997,"World",NA
+"1591",1998,"Asia",NA
+"1592",1998,"Africa",NA
+"1593",1998,"Pacific",NA
+"1594",1998,"Middle East",NA
+"1595",1998,"World",NA
+"1596",1999,"Asia",NA
+"1597",1999,"Africa",NA
+"1598",1999,"Pacific",NA
+"1599",1999,"Middle East",NA
+"1600",1999,"World",NA
+"1601",2000,"Asia",NA
+"1602",2000,"Africa",NA
+"1603",2000,"Pacific",NA
+"1604",2000,"Middle East",NA
+"1605",2000,"World",NA
+"1606",2001,"Asia",NA
+"1607",2001,"Africa",NA
+"1608",2001,"Pacific",NA
+"1609",2001,"Middle East",NA
+"1610",2001,"World",NA
+"1611",2002,"Asia",NA
+"1612",2002,"Africa",NA
+"1613",2002,"Pacific",NA
+"1614",2002,"Middle East",NA
+"1615",2002,"World",NA
+"1616",2003,"Asia",NA
+"1617",2003,"Africa",NA
+"1618",2003,"Pacific",NA
+"1619",2003,"Middle East",NA
+"1620",2003,"World",NA
+"1621",2004,"Asia",NA
+"1622",2004,"Africa",NA
+"1623",2004,"Pacific",NA
+"1624",2004,"Middle East",NA
+"1625",2004,"World",NA
+"1626",2005,"Asia",NA
+"1627",2005,"Africa",NA
+"1628",2005,"Pacific",NA
+"1629",2005,"Middle East",NA
+"1630",2005,"World",NA
+"1631",2006,"Asia",NA
+"1632",2006,"Africa",NA
+"1633",2006,"Pacific",NA
+"1634",2006,"Middle East",NA
+"1635",2006,"World",NA
+"1636",2007,"Asia",NA
+"1637",2007,"Africa",NA
+"1638",2007,"Pacific",NA
+"1639",2007,"Middle East",NA
+"1640",2007,"World",NA
+"1641",2008,"Asia",NA
+"1642",2008,"Africa",NA
+"1643",2008,"Pacific",NA
+"1644",2008,"Middle East",NA
+"1645",2008,"World",NA
+"1646",2009,"Asia",NA
+"1647",2009,"Africa",NA
+"1648",2009,"Pacific",NA
+"1649",2009,"Middle East",NA
+"1650",2009,"World",NA
+"1651",2010,"Asia",NA
+"1652",2010,"Africa",NA
+"1653",2010,"Pacific",NA
+"1654",2010,"Middle East",NA
+"1655",2010,"World",NA
+"1656",2011,"Asia",NA
+"1657",2011,"Africa",NA
+"1658",2011,"Pacific",NA
+"1659",2011,"Middle East",NA
+"1660",2011,"World",NA
+"1661",2012,"Asia",NA
+"1662",2012,"Africa",NA
+"1663",2012,"Pacific",NA
+"1664",2012,"Middle East",NA
+"1665",2012,"World",NA
+"1666",2013,"Asia",NA
+"1667",2013,"Africa",NA
+"1668",2013,"Pacific",NA
+"1669",2013,"Middle East",NA
+"1670",2013,"World",NA
+"1671",2014,"Asia",NA
+"1672",2014,"Africa",NA
+"1673",2014,"Pacific",NA
+"1674",2014,"Middle East",NA
+"1675",2014,"World",NA
+"1676",2015,"Asia",NA
+"1677",2015,"Africa",NA
+"1678",2015,"Pacific",NA
+"1679",2015,"Middle East",NA
+"1680",2015,"World",NA
+"1681",2016,"Asia",NA
+"1682",2016,"Africa",NA
+"1683",2016,"Pacific",NA
+"1684",2016,"Middle East",NA
+"1685",2016,"World",NA
+"1686",2017,"Asia",NA
+"1687",2017,"Africa",NA
+"1688",2017,"Pacific",NA
+"1689",2017,"Middle East",NA
+"1690",2017,"World",NA
+"1691",2018,"Asia",NA
+"1692",2018,"Africa",NA
+"1693",2018,"Pacific",NA
+"1694",2018,"Middle East",NA
+"1695",2018,"World",NA
+"1696",2019,"Asia",NA
+"1697",2019,"Africa",NA
+"1698",2019,"Pacific",NA
+"1699",2019,"Middle East",NA
+"1700",2019,"World",NA
+"1701",2020,"Asia",NA
+"1702",2020,"Africa",NA
+"1703",2020,"Pacific",NA
+"1704",2020,"Middle East",NA
+"1705",2020,"World",NA
+"1706",1990,"Asia",NA
+"1707",1990,"Africa",NA
+"1708",1990,"Pacific",NA
+"1709",1990,"Middle East",NA
+"1710",1990,"World",NA
+"1711",1991,"Asia",NA
+"1712",1991,"Africa",NA
+"1713",1991,"Pacific",NA
+"1714",1991,"Middle East",NA
+"1715",1991,"World",NA
+"1716",1992,"Asia",NA
+"1717",1992,"Africa",NA
+"1718",1992,"Pacific",NA
+"1719",1992,"Middle East",NA
+"1720",1992,"World",NA
+"1721",1993,"Asia",NA
+"1722",1993,"Africa",NA
+"1723",1993,"Pacific",NA
+"1724",1993,"Middle East",NA
+"1725",1993,"World",NA
+"1726",1994,"Asia",NA
+"1727",1994,"Africa",NA
+"1728",1994,"Pacific",NA
+"1729",1994,"Middle East",NA
+"1730",1994,"World",NA
+"1731",1995,"Asia",NA
+"1732",1995,"Africa",NA
+"1733",1995,"Pacific",NA
+"1734",1995,"Middle East",NA
+"1735",1995,"World",NA
+"1736",1996,"Asia",NA
+"1737",1996,"Africa",NA
+"1738",1996,"Pacific",NA
+"1739",1996,"Middle East",NA
+"1740",1996,"World",NA
+"1741",1997,"Asia",NA
+"1742",1997,"Africa",NA
+"1743",1997,"Pacific",NA
+"1744",1997,"Middle East",NA
+"1745",1997,"World",NA
+"1746",1998,"Asia",NA
+"1747",1998,"Africa",NA
+"1748",1998,"Pacific",NA
+"1749",1998,"Middle East",NA
+"1750",1998,"World",NA
+"1751",1999,"Asia",NA
+"1752",1999,"Africa",NA
+"1753",1999,"Pacific",NA
+"1754",1999,"Middle East",NA
+"1755",1999,"World",NA
+"1756",2000,"Asia",NA
+"1757",2000,"Africa",NA
+"1758",2000,"Pacific",NA
+"1759",2000,"Middle East",NA
+"1760",2000,"World",NA
+"1761",2001,"Asia",NA
+"1762",2001,"Africa",NA
+"1763",2001,"Pacific",NA
+"1764",2001,"Middle East",NA
+"1765",2001,"World",NA
+"1766",2002,"Asia",NA
+"1767",2002,"Africa",NA
+"1768",2002,"Pacific",NA
+"1769",2002,"Middle East",NA
+"1770",2002,"World",NA
+"1771",2003,"Asia",NA
+"1772",2003,"Africa",NA
+"1773",2003,"Pacific",NA
+"1774",2003,"Middle East",NA
+"1775",2003,"World",NA
+"1776",2004,"Asia",NA
+"1777",2004,"Africa",NA
+"1778",2004,"Pacific",NA
+"1779",2004,"Middle East",NA
+"1780",2004,"World",NA
+"1781",2005,"Asia",NA
+"1782",2005,"Africa",NA
+"1783",2005,"Pacific",NA
+"1784",2005,"Middle East",NA
+"1785",2005,"World",NA
+"1786",2006,"Asia",NA
+"1787",2006,"Africa",NA
+"1788",2006,"Pacific",NA
+"1789",2006,"Middle East",NA
+"1790",2006,"World",NA
+"1791",2007,"Asia",NA
+"1792",2007,"Africa",NA
+"1793",2007,"Pacific",NA
+"1794",2007,"Middle East",NA
+"1795",2007,"World",NA
+"1796",2008,"Asia",NA
+"1797",2008,"Africa",NA
+"1798",2008,"Pacific",NA
+"1799",2008,"Middle East",NA
+"1800",2008,"World",NA
+"1801",2009,"Asia",NA
+"1802",2009,"Africa",NA
+"1803",2009,"Pacific",NA
+"1804",2009,"Middle East",NA
+"1805",2009,"World",NA
+"1806",2010,"Asia",NA
+"1807",2010,"Africa",NA
+"1808",2010,"Pacific",NA
+"1809",2010,"Middle East",NA
+"1810",2010,"World",NA
+"1811",2011,"Asia",NA
+"1812",2011,"Africa",NA
+"1813",2011,"Pacific",NA
+"1814",2011,"Middle East",NA
+"1815",2011,"World",NA
+"1816",2012,"Asia",NA
+"1817",2012,"Africa",NA
+"1818",2012,"Pacific",NA
+"1819",2012,"Middle East",NA
+"1820",2012,"World",NA
+"1821",2013,"Asia",NA
+"1822",2013,"Africa",NA
+"1823",2013,"Pacific",NA
+"1824",2013,"Middle East",NA
+"1825",2013,"World",NA
+"1826",2014,"Asia",NA
+"1827",2014,"Africa",NA
+"1828",2014,"Pacific",NA
+"1829",2014,"Middle East",NA
+"1830",2014,"World",NA
+"1831",2015,"Asia",NA
+"1832",2015,"Africa",NA
+"1833",2015,"Pacific",NA
+"1834",2015,"Middle East",NA
+"1835",2015,"World",NA
+"1836",2016,"Asia",NA
+"1837",2016,"Africa",NA
+"1838",2016,"Pacific",NA
+"1839",2016,"Middle East",NA
+"1840",2016,"World",NA
+"1841",2017,"Asia",NA
+"1842",2017,"Africa",NA
+"1843",2017,"Pacific",NA
+"1844",2017,"Middle East",NA
+"1845",2017,"World",NA
+"1846",2018,"Asia",NA
+"1847",2018,"Africa",NA
+"1848",2018,"Pacific",NA
+"1849",2018,"Middle East",NA
+"1850",2018,"World",NA
+"1851",2019,"Asia",NA
+"1852",2019,"Africa",NA
+"1853",2019,"Pacific",NA
+"1854",2019,"Middle East",NA
+"1855",2019,"World",NA
+"1856",2020,"Asia",NA
+"1857",2020,"Africa",NA
+"1858",2020,"Pacific",NA
+"1859",2020,"Middle East",NA
+"1860",2020,"World",NA
+"1861",1990,"Asia",NA
+"1862",1990,"Africa",NA
+"1863",1990,"Pacific",NA
+"1864",1990,"Middle East",NA
+"1865",1990,"World",NA
+"1866",1991,"Asia",NA
+"1867",1991,"Africa",NA
+"1868",1991,"Pacific",NA
+"1869",1991,"Middle East",NA
+"1870",1991,"World",NA
+"1871",1992,"Asia",NA
+"1872",1992,"Africa",NA
+"1873",1992,"Pacific",NA
+"1874",1992,"Middle East",NA
+"1875",1992,"World",NA
+"1876",1993,"Asia",NA
+"1877",1993,"Africa",NA
+"1878",1993,"Pacific",NA
+"1879",1993,"Middle East",NA
+"1880",1993,"World",NA
+"1881",1994,"Asia",NA
+"1882",1994,"Africa",NA
+"1883",1994,"Pacific",NA
+"1884",1994,"Middle East",NA
+"1885",1994,"World",NA
+"1886",1995,"Asia",NA
+"1887",1995,"Africa",NA
+"1888",1995,"Pacific",NA
+"1889",1995,"Middle East",NA
+"1890",1995,"World",NA
+"1891",1996,"Asia",NA
+"1892",1996,"Africa",NA
+"1893",1996,"Pacific",NA
+"1894",1996,"Middle East",NA
+"1895",1996,"World",NA
+"1896",1997,"Asia",NA
+"1897",1997,"Africa",NA
+"1898",1997,"Pacific",NA
+"1899",1997,"Middle East",NA
+"1900",1997,"World",NA
+"1901",1998,"Asia",NA
+"1902",1998,"Africa",NA
+"1903",1998,"Pacific",NA
+"1904",1998,"Middle East",NA
+"1905",1998,"World",NA
+"1906",1999,"Asia",NA
+"1907",1999,"Africa",NA
+"1908",1999,"Pacific",NA
+"1909",1999,"Middle East",NA
+"1910",1999,"World",NA
+"1911",2000,"Asia",NA
+"1912",2000,"Africa",NA
+"1913",2000,"Pacific",NA
+"1914",2000,"Middle East",NA
+"1915",2000,"World",NA
+"1916",2001,"Asia",NA
+"1917",2001,"Africa",NA
+"1918",2001,"Pacific",NA
+"1919",2001,"Middle East",NA
+"1920",2001,"World",NA
+"1921",2002,"Asia",NA
+"1922",2002,"Africa",NA
+"1923",2002,"Pacific",NA
+"1924",2002,"Middle East",NA
+"1925",2002,"World",NA
+"1926",2003,"Asia",NA
+"1927",2003,"Africa",NA
+"1928",2003,"Pacific",NA
+"1929",2003,"Middle East",NA
+"1930",2003,"World",NA
+"1931",2004,"Asia",NA
+"1932",2004,"Africa",NA
+"1933",2004,"Pacific",NA
+"1934",2004,"Middle East",NA
+"1935",2004,"World",NA
+"1936",2005,"Asia",NA
+"1937",2005,"Africa",NA
+"1938",2005,"Pacific",NA
+"1939",2005,"Middle East",NA
+"1940",2005,"World",NA
+"1941",2006,"Asia",NA
+"1942",2006,"Africa",NA
+"1943",2006,"Pacific",NA
+"1944",2006,"Middle East",NA
+"1945",2006,"World",NA
+"1946",2007,"Asia",NA
+"1947",2007,"Africa",NA
+"1948",2007,"Pacific",NA
+"1949",2007,"Middle East",NA
+"1950",2007,"World",NA
+"1951",2008,"Asia",NA
+"1952",2008,"Africa",NA
+"1953",2008,"Pacific",NA
+"1954",2008,"Middle East",NA
+"1955",2008,"World",NA
+"1956",2009,"Asia",NA
+"1957",2009,"Africa",NA
+"1958",2009,"Pacific",NA
+"1959",2009,"Middle East",NA
+"1960",2009,"World",NA
+"1961",2010,"Asia",NA
+"1962",2010,"Africa",NA
+"1963",2010,"Pacific",NA
+"1964",2010,"Middle East",NA
+"1965",2010,"World",NA
+"1966",2011,"Asia",NA
+"1967",2011,"Africa",NA
+"1968",2011,"Pacific",NA
+"1969",2011,"Middle East",NA
+"1970",2011,"World",NA
+"1971",2012,"Asia",NA
+"1972",2012,"Africa",NA
+"1973",2012,"Pacific",NA
+"1974",2012,"Middle East",NA
+"1975",2012,"World",NA
+"1976",2013,"Asia",NA
+"1977",2013,"Africa",NA
+"1978",2013,"Pacific",NA
+"1979",2013,"Middle East",NA
+"1980",2013,"World",NA
+"1981",2014,"Asia",NA
+"1982",2014,"Africa",NA
+"1983",2014,"Pacific",NA
+"1984",2014,"Middle East",NA
+"1985",2014,"World",NA
+"1986",2015,"Asia",NA
+"1987",2015,"Africa",NA
+"1988",2015,"Pacific",NA
+"1989",2015,"Middle East",NA
+"1990",2015,"World",NA
+"1991",2016,"Asia",NA
+"1992",2016,"Africa",NA
+"1993",2016,"Pacific",NA
+"1994",2016,"Middle East",NA
+"1995",2016,"World",NA
+"1996",2017,"Asia",NA
+"1997",2017,"Africa",NA
+"1998",2017,"Pacific",NA
+"1999",2017,"Middle East",NA
+"2000",2017,"World",NA
+"2001",2018,"Asia",NA
+"2002",2018,"Africa",NA
+"2003",2018,"Pacific",NA
+"2004",2018,"Middle East",NA
+"2005",2018,"World",NA
+"2006",2019,"Asia",NA
+"2007",2019,"Africa",NA
+"2008",2019,"Pacific",NA
+"2009",2019,"Middle East",NA
+"2010",2019,"World",NA
+"2011",2020,"Asia",NA
+"2012",2020,"Africa",NA
+"2013",2020,"Pacific",NA
+"2014",2020,"Middle East",NA
+"2015",2020,"World",NA
+"2016",1990,"Asia",NA
+"2017",1990,"Africa",NA
+"2018",1990,"Pacific",NA
+"2019",1990,"Middle East",NA
+"2020",1990,"World",NA
+"2021",1991,"Asia",NA
+"2022",1991,"Africa",NA
+"2023",1991,"Pacific",NA
+"2024",1991,"Middle East",NA
+"2025",1991,"World",NA
+"2026",1992,"Asia",NA
+"2027",1992,"Africa",NA
+"2028",1992,"Pacific",NA
+"2029",1992,"Middle East",NA
+"2030",1992,"World",NA
+"2031",1993,"Asia",NA
+"2032",1993,"Africa",NA
+"2033",1993,"Pacific",NA
+"2034",1993,"Middle East",NA
+"2035",1993,"World",NA
+"2036",1994,"Asia",NA
+"2037",1994,"Africa",NA
+"2038",1994,"Pacific",NA
+"2039",1994,"Middle East",NA
+"2040",1994,"World",NA
+"2041",1995,"Asia",NA
+"2042",1995,"Africa",NA
+"2043",1995,"Pacific",NA
+"2044",1995,"Middle East",NA
+"2045",1995,"World",NA
+"2046",1996,"Asia",NA
+"2047",1996,"Africa",NA
+"2048",1996,"Pacific",NA
+"2049",1996,"Middle East",NA
+"2050",1996,"World",NA
+"2051",1997,"Asia",NA
+"2052",1997,"Africa",NA
+"2053",1997,"Pacific",NA
+"2054",1997,"Middle East",NA
+"2055",1997,"World",NA
+"2056",1998,"Asia",NA
+"2057",1998,"Africa",NA
+"2058",1998,"Pacific",NA
+"2059",1998,"Middle East",NA
+"2060",1998,"World",NA
+"2061",1999,"Asia",NA
+"2062",1999,"Africa",NA
+"2063",1999,"Pacific",NA
+"2064",1999,"Middle East",NA
+"2065",1999,"World",NA
+"2066",2000,"Asia",NA
+"2067",2000,"Africa",NA
+"2068",2000,"Pacific",NA
+"2069",2000,"Middle East",NA
+"2070",2000,"World",NA
+"2071",2001,"Asia",NA
+"2072",2001,"Africa",NA
+"2073",2001,"Pacific",NA
+"2074",2001,"Middle East",NA
+"2075",2001,"World",NA
+"2076",2002,"Asia",NA
+"2077",2002,"Africa",NA
+"2078",2002,"Pacific",NA
+"2079",2002,"Middle East",NA
+"2080",2002,"World",NA
+"2081",2003,"Asia",NA
+"2082",2003,"Africa",NA
+"2083",2003,"Pacific",NA
+"2084",2003,"Middle East",NA
+"2085",2003,"World",NA
+"2086",2004,"Asia",NA
+"2087",2004,"Africa",NA
+"2088",2004,"Pacific",NA
+"2089",2004,"Middle East",NA
+"2090",2004,"World",NA
+"2091",2005,"Asia",NA
+"2092",2005,"Africa",NA
+"2093",2005,"Pacific",NA
+"2094",2005,"Middle East",NA
+"2095",2005,"World",NA
+"2096",2006,"Asia",NA
+"2097",2006,"Africa",NA
+"2098",2006,"Pacific",NA
+"2099",2006,"Middle East",NA
+"2100",2006,"World",NA
+"2101",2007,"Asia",NA
+"2102",2007,"Africa",NA
+"2103",2007,"Pacific",NA
+"2104",2007,"Middle East",NA
+"2105",2007,"World",NA
+"2106",2008,"Asia",NA
+"2107",2008,"Africa",NA
+"2108",2008,"Pacific",NA
+"2109",2008,"Middle East",NA
+"2110",2008,"World",NA
+"2111",2009,"Asia",NA
+"2112",2009,"Africa",NA
+"2113",2009,"Pacific",NA
+"2114",2009,"Middle East",NA
+"2115",2009,"World",NA
+"2116",2010,"Asia",NA
+"2117",2010,"Africa",NA
+"2118",2010,"Pacific",NA
+"2119",2010,"Middle East",NA
+"2120",2010,"World",NA
+"2121",2011,"Asia",NA
+"2122",2011,"Africa",NA
+"2123",2011,"Pacific",NA
+"2124",2011,"Middle East",NA
+"2125",2011,"World",NA
+"2126",2012,"Asia",NA
+"2127",2012,"Africa",NA
+"2128",2012,"Pacific",NA
+"2129",2012,"Middle East",NA
+"2130",2012,"World",NA
+"2131",2013,"Asia",NA
+"2132",2013,"Africa",NA
+"2133",2013,"Pacific",NA
+"2134",2013,"Middle East",NA
+"2135",2013,"World",NA
+"2136",2014,"Asia",NA
+"2137",2014,"Africa",NA
+"2138",2014,"Pacific",NA
+"2139",2014,"Middle East",NA
+"2140",2014,"World",NA
+"2141",2015,"Asia",NA
+"2142",2015,"Africa",NA
+"2143",2015,"Pacific",NA
+"2144",2015,"Middle East",NA
+"2145",2015,"World",NA
+"2146",2016,"Asia",NA
+"2147",2016,"Africa",NA
+"2148",2016,"Pacific",NA
+"2149",2016,"Middle East",NA
+"2150",2016,"World",NA
+"2151",2017,"Asia",NA
+"2152",2017,"Africa",NA
+"2153",2017,"Pacific",NA
+"2154",2017,"Middle East",NA
+"2155",2017,"World",NA
+"2156",2018,"Asia",NA
+"2157",2018,"Africa",NA
+"2158",2018,"Pacific",NA
+"2159",2018,"Middle East",NA
+"2160",2018,"World",NA
+"2161",2019,"Asia",NA
+"2162",2019,"Africa",NA
+"2163",2019,"Pacific",NA
+"2164",2019,"Middle East",NA
+"2165",2019,"World",NA
+"2166",2020,"Asia",NA
+"2167",2020,"Africa",NA
+"2168",2020,"Pacific",NA
+"2169",2020,"Middle East",NA
+"2170",2020,"World",NA
+"2171",1990,"Asia",NA
+"2172",1990,"Africa",NA
+"2173",1990,"Pacific",NA
+"2174",1990,"Middle East",NA
+"2175",1990,"World",NA
+"2176",1991,"Asia",NA
+"2177",1991,"Africa",NA
+"2178",1991,"Pacific",NA
+"2179",1991,"Middle East",NA
+"2180",1991,"World",NA
+"2181",1992,"Asia",NA
+"2182",1992,"Africa",NA
+"2183",1992,"Pacific",NA
+"2184",1992,"Middle East",NA
+"2185",1992,"World",NA
+"2186",1993,"Asia",NA
+"2187",1993,"Africa",NA
+"2188",1993,"Pacific",NA
+"2189",1993,"Middle East",NA
+"2190",1993,"World",NA
+"2191",1994,"Asia",NA
+"2192",1994,"Africa",NA
+"2193",1994,"Pacific",NA
+"2194",1994,"Middle East",NA
+"2195",1994,"World",NA
+"2196",1995,"Asia",NA
+"2197",1995,"Africa",NA
+"2198",1995,"Pacific",NA
+"2199",1995,"Middle East",NA
+"2200",1995,"World",NA
+"2201",1996,"Asia",NA
+"2202",1996,"Africa",NA
+"2203",1996,"Pacific",NA
+"2204",1996,"Middle East",NA
+"2205",1996,"World",NA
+"2206",1997,"Asia",NA
+"2207",1997,"Africa",NA
+"2208",1997,"Pacific",NA
+"2209",1997,"Middle East",NA
+"2210",1997,"World",NA
+"2211",1998,"Asia",NA
+"2212",1998,"Africa",NA
+"2213",1998,"Pacific",NA
+"2214",1998,"Middle East",NA
+"2215",1998,"World",NA
+"2216",1999,"Asia",NA
+"2217",1999,"Africa",NA
+"2218",1999,"Pacific",NA
+"2219",1999,"Middle East",NA
+"2220",1999,"World",NA
+"2221",2000,"Asia",NA
+"2222",2000,"Africa",NA
+"2223",2000,"Pacific",NA
+"2224",2000,"Middle East",NA
+"2225",2000,"World",NA
+"2226",2001,"Asia",NA
+"2227",2001,"Africa",NA
+"2228",2001,"Pacific",NA
+"2229",2001,"Middle East",NA
+"2230",2001,"World",NA
+"2231",2002,"Asia",NA
+"2232",2002,"Africa",NA
+"2233",2002,"Pacific",NA
+"2234",2002,"Middle East",NA
+"2235",2002,"World",NA
+"2236",2003,"Asia",NA
+"2237",2003,"Africa",NA
+"2238",2003,"Pacific",NA
+"2239",2003,"Middle East",NA
+"2240",2003,"World",NA
+"2241",2004,"Asia",NA
+"2242",2004,"Africa",NA
+"2243",2004,"Pacific",NA
+"2244",2004,"Middle East",NA
+"2245",2004,"World",NA
+"2246",2005,"Asia",NA
+"2247",2005,"Africa",NA
+"2248",2005,"Pacific",NA
+"2249",2005,"Middle East",NA
+"2250",2005,"World",NA
+"2251",2006,"Asia",NA
+"2252",2006,"Africa",NA
+"2253",2006,"Pacific",NA
+"2254",2006,"Middle East",NA
+"2255",2006,"World",NA
+"2256",2007,"Asia",NA
+"2257",2007,"Africa",NA
+"2258",2007,"Pacific",NA
+"2259",2007,"Middle East",NA
+"2260",2007,"World",NA
+"2261",2008,"Asia",NA
+"2262",2008,"Africa",NA
+"2263",2008,"Pacific",NA
+"2264",2008,"Middle East",NA
+"2265",2008,"World",NA
+"2266",2009,"Asia",NA
+"2267",2009,"Africa",NA
+"2268",2009,"Pacific",NA
+"2269",2009,"Middle East",NA
+"2270",2009,"World",NA
+"2271",2010,"Asia",NA
+"2272",2010,"Africa",NA
+"2273",2010,"Pacific",NA
+"2274",2010,"Middle East",NA
+"2275",2010,"World",NA
+"2276",2011,"Asia",NA
+"2277",2011,"Africa",NA
+"2278",2011,"Pacific",NA
+"2279",2011,"Middle East",NA
+"2280",2011,"World",NA
+"2281",2012,"Asia",NA
+"2282",2012,"Africa",NA
+"2283",2012,"Pacific",NA
+"2284",2012,"Middle East",NA
+"2285",2012,"World",NA
+"2286",2013,"Asia",NA
+"2287",2013,"Africa",NA
+"2288",2013,"Pacific",NA
+"2289",2013,"Middle East",NA
+"2290",2013,"World",NA
+"2291",2014,"Asia",NA
+"2292",2014,"Africa",NA
+"2293",2014,"Pacific",NA
+"2294",2014,"Middle East",NA
+"2295",2014,"World",NA
+"2296",2015,"Asia",NA
+"2297",2015,"Africa",NA
+"2298",2015,"Pacific",NA
+"2299",2015,"Middle East",NA
+"2300",2015,"World",NA
+"2301",2016,"Asia",NA
+"2302",2016,"Africa",NA
+"2303",2016,"Pacific",NA
+"2304",2016,"Middle East",NA
+"2305",2016,"World",NA
+"2306",2017,"Asia",NA
+"2307",2017,"Africa",NA
+"2308",2017,"Pacific",NA
+"2309",2017,"Middle East",NA
+"2310",2017,"World",NA
+"2311",2018,"Asia",NA
+"2312",2018,"Africa",NA
+"2313",2018,"Pacific",NA
+"2314",2018,"Middle East",NA
+"2315",2018,"World",NA
+"2316",2019,"Asia",NA
+"2317",2019,"Africa",NA
+"2318",2019,"Pacific",NA
+"2319",2019,"Middle East",NA
+"2320",2019,"World",NA
+"2321",2020,"Asia",NA
+"2322",2020,"Africa",NA
+"2323",2020,"Pacific",NA
+"2324",2020,"Middle East",NA
+"2325",2020,"World",NA
