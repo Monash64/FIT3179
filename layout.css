@@ -47,6 +47,14 @@ font-family: 'Figtree', sans-serif;
 	text-align: center;
 }
 
+.pure-u-1-2{
+	  margin: auto; 
+}
+
+.pure-u-1-1{
+	  margin: auto; 
+}
+
 .paragraph {
   background-color: #ddd;
   padding: 10px;
