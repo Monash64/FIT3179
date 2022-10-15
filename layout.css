@@ -29,13 +29,13 @@ h1{
     background-color: #008000;
     padding: 10px;
     height: 250px;
+    text-align: right;
 }
 
 h2{
     font-family: 'Lora', serif;
     color: #008000;
     font-size: 36px;
-    padding: 10px;
     width: 700px;
 }
 
@@ -49,7 +49,7 @@ h3{
 
 p{
 font-family: 'Lora', sans-serif;
-        padding: 20px;
+        padding: 30px;
 	text-align: center;
 }
 
