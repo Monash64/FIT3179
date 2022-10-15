@@ -1,7 +1,10 @@
 html { background-image: "Wheat1.jpg"}; 
 
 body {
-	width: 75vw;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 50px;
+	margin-bottom: 50px;
 
 }
 
