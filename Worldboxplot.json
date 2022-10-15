@@ -21,7 +21,6 @@
       {"field": "Export_Total", "type": "quantitative", "title": "Wheat (kt)"},
       {"field": "Country", "type": "nominal", "title": "Country"},
       {"field": "Year", "timeUnit": "year", "type": "temporal", "title": "Year"},
-      {"field": "lower_box_Export_Total", "type": "quantitative", "title": "Wheat (kt)"},
       {"field": "Year", "timeUnit": "year", "type": "temporal", "title": "Year"}]
   },
   "config": {}
