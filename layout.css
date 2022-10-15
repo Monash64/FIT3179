@@ -53,3 +53,8 @@ font-family: 'Lora', sans-serif;
 	text-align: center;
 }
 
+.paragraph {
+  background-color: #ddd;
+  padding: 10px;
+  width: 200px;
+
