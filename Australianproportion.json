@@ -4,11 +4,11 @@
     "params": [
     {
       "name": "Year",
-      "value": 2020,
+      "value": 2022,
       "bind": {
         "input": "range",
         "min": 1979,
-        "max": 2020,
+        "max": 2022,
         "step": 1,
         "name": "Year: "
       }
