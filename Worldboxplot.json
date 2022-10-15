@@ -3,18 +3,28 @@
   "data": {"url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Australian_Exports.csv",
   "format": {"type": "csv"}},
   "width": 800,
-  "height": 300,
-  "mark": {"type": "boxplot"},
+  "height": 500,
+  "mark": {"type": "boxplot", "size": 20},
   "encoding": {
     "x": {
       "field": "Year",
       "type":"temporal",
-      "title": "Year"
+      "title": "Year",
+      "axis": {
+        "format": "%Y",
+        "labelAngle": -90,
+        "labelFontSize":12,
+        "titleFontSize":15,
+        "scale":"log"}
     },
     "y": {
       "field": "Export_Total",
       "type":"quantitative",   
-      "title": "Volume exported ('000 kt)"
+      "title": "Volume exported (kt)",
+      "scale": {"type": "sqrt"},
+      "axis": {
+        "labelFontSize":12,
+        "titleFontSize":15}
     },
     "color": {"value" : "#008000"},
     "tooltip": [
