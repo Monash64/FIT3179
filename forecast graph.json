@@ -13,7 +13,8 @@
         "x": {
           "timeUnit": {"unit": "year"},
           "field": "Year",
-          "type": "temporal"
+          "type": "temporal",
+          "title":"Year"
         },
     "y": {
       "aggregate": "sum",
@@ -29,7 +30,7 @@
         "title": "% Change in Production"
       },
       {"field": "Country", "type": "nominal", "title": "Country"},
-      {"field": "Year", "type":"Temporal", "title": "Year"}
+      {"field": "Year", "timeUnit":"year", "type":"Temporal", "title": "Year"}
     ]
   },
   "config": {}
