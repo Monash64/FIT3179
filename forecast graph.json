@@ -5,7 +5,7 @@
     "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Forecast.csv",
     "format": {"type": "csv"}
   },
-  "mark": {"type": "line", "point": {
+  "mark": {"type": "line", "tooltip":true, "point": {
       "filled": false,
       "fill": "white"
     }},
@@ -14,7 +14,7 @@
           "timeUnit": {"unit": "year"},
           "field": "Year",
           "type": "temporal",
-          "title":"Year",
+          "title":"Year"
         },
     "y": {
       "aggregate": "sum",
@@ -23,17 +23,7 @@
     },
     "color": {"field": "Country", 
               "type":"ordinal",
-              "scale": {"range": ["red", "green", "orange", "black","lightblue", "blue"]}},
-    "tooltip": [
-      {"field": "Wheat", "type": "quantitative", "title": "Wheat (Mt)"},
-      {
-        "field": "Change",
-        "type": "quantitative",
-        "title": "% Change in Production"
-      },
-      {"field": "Country", "type": "nominal", "title": "Country"},
-      {"field": "Year", "timeUnit":"year", "type":"Temporal", "title": "Year"}
-    ]
+              "scale": {"range": ["red", "green", "orange", "black","lightblue", "blue"]}}
   },
   "config": {}
 }
