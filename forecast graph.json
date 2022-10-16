@@ -14,14 +14,16 @@
           "timeUnit": {"unit": "year"},
           "field": "Year",
           "type": "temporal",
-          "title":"Year"
+          "title":"Year",
         },
     "y": {
       "aggregate": "sum",
       "field": "Change",
       "title": "% Change in Production"
     },
-    "color": {"field": "Country"},
+    "color": {"field": "Country", 
+              "type":"ordinal",
+              "scale": {"range": ["red", "green", "orange", "black","lightblue", "blue"]}},
     "tooltip": [
       {"field": "Wheat", "type": "quantitative", "title": "Wheat (Mt)"},
       {
