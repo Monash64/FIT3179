@@ -9,6 +9,7 @@
     "x": {
       "field": "Year",
       "type":"temporal",
+      "timeUnit":"year",
       "title": "Year",
       "axis": {
         "format": "%Y",
@@ -30,7 +31,6 @@
     "tooltip": [
       {"field": "Export_Total", "type": "quantitative", "title": "Wheat (kt)"},
       {"field": "Country", "type": "nominal", "title": "Country"},
-      {"field": "Year", "timeUnit": "year", "type": "temporal", "title": "Year"},
       {"field": "Year", "timeUnit": "year", "type": "temporal", "title": "Year"}]
   },
   "config": {}
