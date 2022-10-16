@@ -37,7 +37,7 @@
           "encoding": {"color": {
             "condition": {
         "test": "datum['Country'] === 'Australia'",
-        "value": "red"}},}},
+        "value": "red"}}}},
         {
           "mark": {"type": "text", "align": "left", "dx": 5, "size":20},
           "encoding": {"text": {"field": "Country", "type": "nominal"},
