@@ -3,11 +3,15 @@
   "width": 400,
   "height": 300,
   "data": {"url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Top%20Wheat%20Producers.csv"},
-  "encoding": {"color": {"field": "Country", "type": "nominal", "legend": null}},
+  "encoding": {"detail": {"field": "Country", "type": "nominal", "legend": null}},
   "layer": [
     {
       "mark": "line",
       "encoding": {
+        "color": {
+            "condition": {
+        "test": "datum['Country'] === 'Australia'",
+        "value": "red"}},
         "x": {"field": "Year", "type": "temporal", "title": "Year"},
         "y": {"field": "Wheat", "type": "quantitative", "title": "Wheat (kt)"},
             "tooltip": [
@@ -29,11 +33,21 @@
         }
       },
       "layer": [
-        {"mark": {"type": "circle", "size":75}},
+        {"mark": {"type": "circle", "size":75},
+          "encoding": {"color": {
+            "condition": {
+        "test": "datum['Country'] === 'Australia'",
+        "value": "red"}},}},
         {
           "mark": {"type": "text", "align": "left", "dx": 5, "size":20},
-          "encoding": {"text": {"field": "Country", "type": "nominal"}}
-        }
+          "encoding": {"text": {"field": "Country", "type": "nominal"},
+    "color": {"value": "black"},
+    "opacity": {
+          "condition": {
+            "test": "datum['Country'] == 'China' || datum['Country'] == 'India' || datum['Country'] == 'Australia' || datum['Country'] == 'US' || datum['Country'] == 'Russia'", 
+            "value": 1 },
+            "value": 0}
+        }}
       ]
     }
   ],
