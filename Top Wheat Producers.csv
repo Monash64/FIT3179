@@ -1,16 +1,4 @@
 ﻿Year,Continent,Country,Wheat
-1974,South America,Argentina,5.97
-1975,South America,Argentina,8.57
-1976,South America,Argentina,11
-1977,South America,Argentina,5.3
-1978,South America,Argentina,8.1
-1979,South America,Argentina,8.1
-1980,South America,Argentina,7.78
-1981,South America,Argentina,8.3
-1982,South America,Argentina,15
-1983,South America,Argentina,12.8
-1984,South America,Argentina,13.6
-1985,South America,Argentina,8.7
 1986,South America,Argentina,8.93
 1987,South America,Argentina,8.8
 1988,South America,Argentina,8.4
@@ -46,18 +34,6 @@
 2018,South America,Argentina,19.46
 2019,South America,Argentina,19.75
 2020,South America,Argentina,17.62
-1974,North America,Canada,13.3
-1975,North America,Canada,17.08
-1976,North America,Canada,23.59
-1977,North America,Canada,19.86
-1978,North America,Canada,21.15
-1979,North America,Canada,17.18
-1980,North America,Canada,19.16
-1981,North America,Canada,24.8
-1982,North America,Canada,26.74
-1983,North America,Canada,26.51
-1984,North America,Canada,21.2
-1985,North America,Canada,24.3
 1986,North America,Canada,31.36
 1987,North America,Canada,25.95
 1988,North America,Canada,15.91
@@ -93,18 +69,6 @@
 2018,North America,Canada,32.35
 2019,North America,Canada,32.67
 2020,North America,Canada,35.18
-1974,Asia,China,40.87
-1975,Asia,China,45.31
-1976,Asia,China,50.39
-1977,Asia,China,41.08
-1978,Asia,China,53.84
-1979,Asia,China,62.73
-1980,Asia,China,55.21
-1981,Asia,China,59.64
-1982,Asia,China,68.42
-1983,Asia,China,81.39
-1984,Asia,China,87.82
-1985,Asia,China,85.8
 1986,Asia,China,90.3
 1987,Asia,China,85.8
 1988,Asia,China,85.4
@@ -140,18 +104,6 @@
 2018,Asia,China,131.43
 2019,Asia,China,133.59
 2020,Asia,China,134.3
-1974,Asia,India,0
-1975,Asia,India,0
-1976,Asia,India,0
-1977,Asia,India,0
-1978,Asia,India,0
-1979,Asia,India,0
-1980,Asia,India,0
-1981,Asia,India,0
-1982,Asia,India,0
-1983,Asia,India,0
-1984,Asia,India,0
-1985,Asia,India,0
 1986,Asia,India,47.1
 1987,Asia,India,45.6
 1988,Asia,India,46.2
@@ -187,18 +139,6 @@
 2018,Asia,India,99.7
 2019,Asia,India,103.6
 2020,Asia,India,107.86
-1974,Asia,Kazakhstan,0
-1975,Asia,Kazakhstan,0
-1976,Asia,Kazakhstan,0
-1977,Asia,Kazakhstan,0
-1978,Asia,Kazakhstan,0
-1979,Asia,Kazakhstan,0
-1980,Asia,Kazakhstan,0
-1981,Asia,Kazakhstan,0
-1982,Asia,Kazakhstan,0
-1983,Asia,Kazakhstan,0
-1984,Asia,Kazakhstan,0
-1985,Asia,Kazakhstan,0
 1986,Asia,Kazakhstan,0
 1987,Asia,Kazakhstan,0
 1988,Asia,Kazakhstan,0
@@ -234,18 +174,6 @@
 2018,Asia,Kazakhstan,13.95
 2019,Asia,Kazakhstan,11.45
 2020,Asia,Kazakhstan,14.26
-1974,Asia,Pakistan,0
-1975,Asia,Pakistan,0
-1976,Asia,Pakistan,0
-1977,Asia,Pakistan,0
-1978,Asia,Pakistan,0
-1979,Asia,Pakistan,0
-1980,Asia,Pakistan,0
-1981,Asia,Pakistan,0
-1982,Asia,Pakistan,0
-1983,Asia,Pakistan,0
-1984,Asia,Pakistan,0
-1985,Asia,Pakistan,0
 1986,Asia,Pakistan,13.9
 1987,Asia,Pakistan,12
 1988,Asia,Pakistan,12.7
@@ -281,18 +209,6 @@
 2018,Asia,Pakistan,25.08
 2019,Asia,Pakistan,24.35
 2020,Asia,Pakistan,24.95
-1974,Europe,France,0
-1975,Europe,France,0
-1976,Europe,France,0
-1977,Europe,France,0
-1978,Europe,France,0
-1979,Europe,France,0
-1980,Europe,France,0
-1981,Europe,France,0
-1982,Europe,France,0
-1983,Europe,France,0
-1984,Europe,France,0
-1985,Europe,France,0
 1986,Europe,France,26.5
 1987,Europe,France,27.2
 1988,Europe,France,29
@@ -328,18 +244,6 @@
 2018,Europe,France,35.76
 2019,Europe,France,41.11
 2020,Europe,France,30.44
-1974,Europe,Germany,0
-1975,Europe,Germany,0
-1976,Europe,Germany,0
-1977,Europe,Germany,0
-1978,Europe,Germany,0
-1979,Europe,Germany,0
-1980,Europe,Germany,0
-1981,Europe,Germany,0
-1982,Europe,Germany,0
-1983,Europe,Germany,0
-1984,Europe,Germany,0
-1985,Europe,Germany,0
 1986,Europe,Germany,10.4
 1987,Europe,Germany,9.9
 1988,Europe,Germany,11.9
@@ -375,18 +279,6 @@
 2018,Europe,Germany,20.28
 2019,Europe,Germany,22.97
 2020,Europe,Germany,21.88
-1974,Europe,UK,0
-1975,Europe,UK,0
-1976,Europe,UK,0
-1977,Europe,UK,0
-1978,Europe,UK,0
-1979,Europe,UK,0
-1980,Europe,UK,0
-1981,Europe,UK,0
-1982,Europe,UK,0
-1983,Europe,UK,0
-1984,Europe,UK,0
-1985,Europe,UK,0
 1986,Europe,UK,13.9
 1987,Europe,UK,11.9
 1988,Europe,UK,11.8
@@ -422,18 +314,6 @@
 2018,Europe,UK,13.56
 2019,Europe,UK,16.28
 2020,Europe,UK,9.66
-1974,Europe,Russia,0
-1975,Europe,Russia,0
-1976,Europe,Russia,0
-1977,Europe,Russia,0
-1978,Europe,Russia,0
-1979,Europe,Russia,0
-1980,Europe,Russia,0
-1981,Europe,Russia,0
-1982,Europe,Russia,0
-1983,Europe,Russia,0
-1984,Europe,Russia,0
-1985,Europe,Russia,0
 1986,Europe,Russia,0
 1987,Europe,Russia,0
 1988,Europe,Russia,0
@@ -469,18 +349,6 @@
 2018,Europe,Russia,71.69
 2019,Europe,Russia,73.61
 2020,Europe,Russia,85.35
-1974,Europe,Ukraine,0
-1975,Europe,Ukraine,0
-1976,Europe,Ukraine,0
-1977,Europe,Ukraine,0
-1978,Europe,Ukraine,0
-1979,Europe,Ukraine,0
-1980,Europe,Ukraine,0
-1981,Europe,Ukraine,0
-1982,Europe,Ukraine,0
-1983,Europe,Ukraine,0
-1984,Europe,Ukraine,0
-1985,Europe,Ukraine,0
 1986,Europe,Ukraine,0
 1987,Europe,Ukraine,0
 1988,Europe,Ukraine,0
@@ -516,18 +384,6 @@
 2018,Europe,Ukraine,25.06
 2019,Europe,Ukraine,29.17
 2020,Europe,Ukraine,25.42
-1974,Asia,Turkey,0
-1975,Asia,Turkey,0
-1976,Asia,Turkey,0
-1977,Asia,Turkey,0
-1978,Asia,Turkey,0
-1979,Asia,Turkey,0
-1980,Asia,Turkey,0
-1981,Asia,Turkey,0
-1982,Asia,Turkey,0
-1983,Asia,Turkey,0
-1984,Asia,Turkey,0
-1985,Asia,Turkey,0
 1986,Asia,Turkey,19
 1987,Asia,Turkey,18.9
 1988,Asia,Turkey,20.5
@@ -563,18 +419,6 @@
 2018,Asia,Turkey,20
 2019,Asia,Turkey,19
 2020,Asia,Turkey,19.5
-1974,Oceania,Australia,11.36
-1975,Oceania,Australia,11.98
-1976,Oceania,Australia,11.8
-1977,Oceania,Australia,9.37
-1978,Oceania,Australia,18.09
-1979,Oceania,Australia,16.19
-1980,Oceania,Australia,10.86
-1981,Oceania,Australia,16.36
-1982,Oceania,Australia,8.8
-1983,Oceania,Australia,20.79
-1984,Oceania,Australia,18.07
-1985,Oceania,Australia,16.06
 1986,Oceania,Australia,16.12
 1987,Oceania,Australia,12.29
 1988,Oceania,Australia,13.94
@@ -610,18 +454,6 @@
 2018,Oceania,Australia,17.6
 2019,Oceania,Australia,14.48
 2020,Oceania,Australia,33.34
-1974,North America,US,48.5
-1975,North America,US,57.89
-1976,North America,US,58.48
-1977,North America,US,55.67
-1978,North America,US,48.32
-1979,North America,US,58.08
-1980,North America,US,64.8
-1981,North America,US,75.8
-1982,North America,US,75.25
-1983,North America,US,65.86
-1984,North America,US,70.62
-1985,North America,US,65.97
 1986,North America,US,56.9
 1987,North America,US,57.36
 1988,North America,US,49.32
