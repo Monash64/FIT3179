@@ -13,9 +13,9 @@
         "test": "datum['Country'] === 'Australia'",
         "value": "red"}},
         "x": {"field": "Year", "type": "temporal", "title": "Year"},
-        "y": {"field": "Wheat", "type": "quantitative", "title": "Wheat (kt)"},
+        "y": {"field": "Wheat", "type": "quantitative", "title": "Wheat (Mt)"},
             "tooltip": [
-      {"field": "Wheat", "type": "quantitative", "title": "Wheat (kt)"},
+      {"field": "Wheat", "type": "quantitative", "title": "Wheat (Mt)"},
       {"field": "Country", "type": "nominal", "title": "Country"},
       {"field": "Year", "timeUnit": "year", "type": "temporal", "title": "Year"}
     ]
