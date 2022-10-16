@@ -3,7 +3,7 @@
   "data": {"url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Australian_Exports.csv",
   "format": {"type": "csv"}},
   "width": 800,
-  "height": 500,
+  "height": 400,
   "mark": {"type": "boxplot", "size": 20},
   "encoding": {
     "x": {
