@@ -1,55 +1,39 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 400,
+  "width": 300,
   "height": 300,
-  "data": {"url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Top%20Wheat%20Producers.csv"},
-  "encoding": {"detail": {"field": "Country", "type": "nominal", "legend": null}},
-  "layer": [
-    {
-      "mark": "line",
-      "encoding": {
-        "color": {
-            "condition": {
-        "test": "datum['Country'] === 'Australia'",
-        "value": "red"}},
-        "x": {"field": "Year", "type": "temporal", "title": "Year"},
-        "y": {"field": "Wheat", "type": "quantitative", "title": "Wheat (kt)"},
-            "tooltip": [
-      {"field": "Wheat", "type": "quantitative", "title": "Wheat (kt)"},
-      {"field": "Country", "type": "nominal", "title": "Country"},
-      {"field": "Year", "timeUnit": "year", "type": "temporal", "title": "Year"}
-    ]
-      }
+  "data": {
+    "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Forecast.csv",
+    "format": {"type": "csv"}
+  },
+  "mark": {"type": "line", "point": {
+      "filled": false,
+      "fill": "white"
+    }},
+  "encoding": {
+        "x": {
+          "timeUnit": {"unit": "year"},
+          "field": "Year",
+          "type": "temporal",
+          "title":"Year",
+        },
+    "y": {
+      "aggregate": "sum",
+      "field": "Change",
+      "title": "% Change in Production"
     },
-    {
-      "encoding": {
-        "x": {"aggregate": "max", 
-              "field": "Year", 
-              "type": "temporal"},
-        "y": {
-          "aggregate": {"argmax": "Year"},
-          "field": "Wheat",
-          "type": "quantitative"
-        }
+    "color": {"field": "Country", 
+              "type":"ordinal",
+              "scale": {"range": ["red", "green", "orange", "black","lightblue", "blue"]}},
+    "tooltip": [
+      {"field": "Wheat", "type": "quantitative", "title": "Wheat (Mt)"},
+      {
+        "field": "Change",
+        "type": "quantitative",
+        "title": "% Change in Production"
       },
-      "layer": [
-        {"mark": {"type": "circle", "size":75},
-          "encoding": {"color": {
-            "condition": {
-        "test": "datum['Country'] === 'Australia'",
-        "value": "red"}}}},
-        {
-          "mark": {"type": "text", "align": "left", "dx": 5, "size":20},
-          "encoding": {"text": {"field": "Country", "type": "nominal"},
-    "color": {"value": "black"},
-    "opacity": {
-          "condition": {
-            "test": "datum['Country'] == 'China' || datum['Country'] == 'India' || datum['Country'] == 'Australia' || datum['Country'] == 'US' || datum['Country'] == 'Russia'", 
-            "value": 1 },
-            "value": 0}
-        }}
-      ]
-    }
-  ],
+      {"field": "Country", "type": "nominal", "title": "Country"},
+      {"field": "Year", "timeUnit":"year", "type":"Temporal", "title": "Year"}
+    ]
+  },
   "config": {}
 }
