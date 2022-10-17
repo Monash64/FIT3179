@@ -43,9 +43,10 @@ h3{
 }
 
 h4{
-    font-family: 'Lora', serif;
+    font-family: 'Figtree', sans-serif;
     color: black;
     font-size: 18px;
+    font-weight: bold;
     left-padding: 60px;
     text-align: center;
 }
@@ -60,12 +61,6 @@ font-family: 'Figtree', sans-serif;
   background-color: #ddd;
   padding: 10px;
   width: 300px;
-}
-
-.wideparagraph {
-  background-color: #ddd;
-  left-padding: 150px;
-  margin: auto;
 }
 
 .vis-container{
