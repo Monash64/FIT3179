@@ -53,6 +53,12 @@ font-family: 'Figtree', sans-serif;
   width: 300px;
 }
 
+.wideparagraph {
+  background-color: #ddd;
+  left-padding: 150px;
+  margin: auto;
+}
+
 .vis-container{
 	  margin: auto; 
 	  padding-left: 50px;
