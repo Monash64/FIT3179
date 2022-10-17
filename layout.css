@@ -37,8 +37,8 @@ h3{
     font-family: 'Lora', serif;
     color: black;
     font-size: 28px;
-    padding: 10px;
     width: 700px;
+    left-padding: 20px;
 }
 
 p{
