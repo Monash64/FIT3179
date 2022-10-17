@@ -5,10 +5,8 @@
     "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Forecast.csv",
     "format": {"type": "csv"}
   },
-  "mark": {"type": "line", "tooltip":true, "point": {
-      "filled": false,
-      "fill": "white"
-    }},
+  "mark": {"type": "line", "tooltip":true, "point":true
+    },
   "encoding": {
         "x": {
           "timeUnit": {"unit": "year"},
