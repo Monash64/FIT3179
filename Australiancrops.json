@@ -19,7 +19,7 @@
     "tooltip": [
             {"field": "Commodity", "type": "nominal", "title":"Commodity"},
             {"field": "sum_Industry_Value", "type": "quantitative", "title":"Industry value ($m)"},
-            {"field": "Year", "type": "temporal", "timeUnit":"year"}
+            {"field": "Year", "type": "temporal", "timeUnit":"year", "title":"Year"}
       ],
     "color": {"field": "Commodity", 
               "scale": {"scheme": "category20b"}, 
@@ -27,3 +27,4 @@
               }
   }
 }
+
