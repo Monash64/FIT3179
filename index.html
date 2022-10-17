@@ -127,12 +127,6 @@
 
     <div class="pure-g">
       <div class="pure-u-1-2">
-        <div id="dualline" class="vis-container"></div>
-      </div>  
-    </div>  
-
-    <div class="pure-g">
-      <div class="pure-u-1-2">
         <div class="paragraphs">
           <p>Australia uses a large area to grow it's vast quantities of wheat, larger than 
             South Korea and equivalent to more than half of the area of Victoria.<br></br>
@@ -142,6 +136,9 @@
             area of land in 1983. </p>
           <img src="Areaillustration.png"/>
         </div>
+      </div> 
+      <div class="pure-u-1-2">
+        <div id="Doubleline" class="vis-container"></div>
       </div> 
     </div>  
   
@@ -256,7 +253,7 @@
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
     
-     vegaEmbed('#dualline', specVis8, { "actions": false }).then(function (result) {
+     vegaEmbed('#Doubleline', specVis8, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
     </script>
