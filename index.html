@@ -132,19 +132,20 @@
 
     <div class="pure-g">
       <div class="pure-u-1-2">
+        <div id="dualline" class="vis-container"></div>
+      </div>     
+      <div class="pure-u-1-2">
         <div class="paragraphs">
           <p>Australia uses a large area to grow it's vast quantities of wheat, larger than 
             South Korea and equivalent to more than half of the area of Victoria.<br></br>
-            The increase in the net value of Australia's wheat industry is also related to an
-            increase in the amount of land used to grow wheat over time, which 
-          
-          </p>
-        </div>     
-      </div>
-      <div class="pure-u-1-2">
-        <img src="Areaillustration.png"/>
-      </div>
-    </div>                                      
+            While land has used to grow wheat has varied over time, production has increased
+            dramatically over time even holding land constant. More than 33,000kt was grown 
+            from approximately 13,000 ha in 2020, compared to 20,000kt grown from the same
+            area of land in 1983. </p>
+          <img src="Areaillustration.png"/>
+        </div>
+      </div> 
+    </div>  
   
     <h2>Australian Wheat and the World</h2>
   
@@ -227,6 +228,7 @@
     var specVis5 = "./Australianproportion.json";
     var specVis6 = "./Australianexports.json";
     var specVis7 = "./Worldboxplot.json";
+    var specVis8 = "./Areaproduction.json";
 
     vegaEmbed('#Ausmap', specVis1, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
@@ -253,6 +255,10 @@
     }).catch(console.error);
     
      vegaEmbed('#Boxplot', specVis7, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+    
+     vegaEmbed('#dualline', specVis8, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
     </script>
