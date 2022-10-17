@@ -22,7 +22,7 @@
     "color": {"field": "Country", 
               "title":"Country/Region",
               "type":"ordinal",
-              "scale": {"range": ["red", "green", "orange", "black","lightblue", "blue"]}}
+              "scale": {"range": ["firebrick", "green", "orange", "black","lightblue", "#1434A4"]}}
   },
   "config": {}
 }
