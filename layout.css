@@ -39,7 +39,13 @@ h3{
     font-family: 'Lora', serif;
     color: black;
     font-size: 28px;
-    width: 700px;
+    left-padding: 60px;
+}
+
+h4{
+    font-family: 'Lora', serif;
+    color: black;
+    font-size: 18px;
     left-padding: 60px;
 }
 
