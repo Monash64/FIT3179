@@ -48,6 +48,7 @@ h4{
     font-size: 18px;
     font-weight: bold;
     text-align: center;
+    padding-left: 40px;
 }
 
 p{
@@ -64,5 +65,5 @@ font-family: 'Figtree', sans-serif;
 
 .vis-container{
 	  margin: auto; 
-	  padding-left: 50px;
+	  padding-left: 40px;
 }
