@@ -11,7 +11,7 @@
         "color": {
             "condition": {
         "test": "datum['Country'] === 'Australia'",
-        "value": "firebrick"}},
+        "value": "red"}},
         "x": {"field": "Year", "type": "temporal", "title": "Year"},
         "y": {"field": "Wheat", "type": "quantitative", "title": "Wheat (Mt)"},
             "tooltip": [
