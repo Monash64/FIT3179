@@ -1,0 +1,59 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 400,
+  "height": 400,
+  "data": {    "url": "https://raw.githubusercontent.com/Monash64/FIT3179/main/Areaproduction.csv",
+    "format": {"type": "csv"}},
+  "layer": [
+    {
+      "mark": {"type":"line", "point":true},
+      "encoding": {
+        "x": {
+          "timeUnit": "year",
+          "field": "Year",
+          "type": "temporal"
+        },
+        "y": {
+          "aggregate": "sum",
+          "field": "Area",
+          "type": "quantitative",
+          "title":"Area ('000 ha)",
+          "axis": {
+            "grid": false,
+            "titleColor": "#4682B4"
+          }
+        },
+         "tooltip": [
+      {"field": "Area", "type": "quantitative", "title": "Area ('000 ha)"},
+      {"field": "Year", "timeUnit": "year", "type": "temporal", "title": "Year"}],
+      }
+    },
+    {
+      "mark": {"type":"line", "point":true},
+      "encoding": {
+        "x": {
+          "timeUnit": "year",
+          "field": "Year",
+          "type": "temporal",
+          "title": "Year"
+        },
+        "y": {
+          "aggregate": "sum",
+          "field": "Production",
+          "type": "quantitative",
+          "title":"Production (kt)",
+          "axis": {
+            "grid": false,
+            "titleColor": "firebrick",
+          },
+          "scale": {"zero": false}
+        },
+          "tooltip": [
+      {"field": "Production", "type": "quantitative", "title": "Wheat (kt)"},
+      {"field": "Year", "timeUnit": "year", "type": "temporal", "title": "Year"}],
+        "color": {"value": "firebrick"}
+      }
+    }
+  ],
+  "resolve": {"scale": {"y": "independent"}}
+}
